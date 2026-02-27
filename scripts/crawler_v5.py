@@ -28,6 +28,10 @@ RELIABLE_SOURCES = [
     {"name": "量子位", "url": "https://www.qbitai.com", "type": "ai_media", "priority": "high", "category": ["AI", "科技"]},
     {"name": "虎嗅", "url": "https://www.huxiu.com", "type": "media", "priority": "medium", "category": ["科技", "商业"]},
     {"name": "智源社区", "url": "https://hub.baai.ac.cn", "type": "ai_research", "priority": "high", "category": ["AI", "研究"]},
+    {"name": "雷锋网", "url": "https://www.leiphone.com", "type": "ai_media", "priority": "high", "category": ["AI", "科技"]},
+    {"name": "PingWest", "url": "https://www.pingwest.com", "type": "tech_media", "priority": "medium", "category": ["科技", "互联网"]},
+    {"name": "爱范儿", "url": "https://www.ifanr.com", "type": "tech_media", "priority": "medium", "category": ["科技", "数码"]},
+    {"name": "驱动之家", "url": "https://www.mydrivers.com", "type": "tech_news", "priority": "medium", "category": ["科技", "硬件"]},
 ]
 
 USER_AGENTS = [
