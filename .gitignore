@@ -1,0 +1,29 @@
+# 日志文件
+logs/
+*.log
+
+# 原始数据文件
+data/raw/*.json
+
+# 处理后数据
+data/processed/*.json
+
+# Python缓存
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# 系统文件
+.DS_Store
+Thumbs.db
