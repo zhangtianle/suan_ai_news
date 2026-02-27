@@ -60,8 +60,9 @@ tech-news/
 
 | 任务 | 时间 | 内容 |
 |------|------|------|
-| tech-news-crawler | 每小时 | 爬取+分类 |
-| tech-news-analyzer | 每日17:00 | 生成报告发送 |
+| tech-news-crawler-morning | 每日 08:00 | 爬取+分类 |
+| tech-news-crawler-evening | 每日 16:00 | 爬取+分类 |
+| tech-news-analyzer-1000 | 每日 10:00 | 生成报告发送到钉钉 |
 
 ## 使用方法
 
