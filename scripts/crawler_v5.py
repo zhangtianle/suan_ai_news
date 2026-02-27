@@ -23,6 +23,7 @@ LOGS_DIR = PROJECT_ROOT / "logs"
 
 # 可靠的数据源（已验证可用）
 RELIABLE_SOURCES = [
+    # 国内媒体
     {"name": "IT之家", "url": "https://www.ithome.com", "type": "tech_news", "priority": "high", "category": ["科技", "数码"]},
     {"name": "InfoQ", "url": "https://www.infoq.cn", "type": "tech_media", "priority": "high", "category": ["技术", "架构"]},
     {"name": "量子位", "url": "https://www.qbitai.com", "type": "ai_media", "priority": "high", "category": ["AI", "科技"]},
@@ -32,6 +33,10 @@ RELIABLE_SOURCES = [
     {"name": "PingWest", "url": "https://www.pingwest.com", "type": "tech_media", "priority": "medium", "category": ["科技", "互联网"]},
     {"name": "爱范儿", "url": "https://www.ifanr.com", "type": "tech_media", "priority": "medium", "category": ["科技", "数码"]},
     {"name": "驱动之家", "url": "https://www.mydrivers.com", "type": "tech_news", "priority": "medium", "category": ["科技", "硬件"]},
+    # 海外媒体
+    {"name": "TechCrunch", "url": "https://techcrunch.com", "type": "international", "priority": "high", "category": ["科技", "创业", "国际"]},
+    {"name": "TheVerge", "url": "https://www.theverge.com", "type": "international", "priority": "high", "category": ["科技", "数码", "国际"]},
+    {"name": "Wired", "url": "https://www.wired.com", "type": "international", "priority": "medium", "category": ["科技", "文化", "国际"]},
 ]
 
 USER_AGENTS = [
