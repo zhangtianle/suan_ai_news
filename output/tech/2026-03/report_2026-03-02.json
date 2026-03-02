@@ -1,0 +1,7035 @@
+{
+  "date": "2026-03-02",
+  "type": "tech",
+  "analysis": {
+    "total": 269,
+    "signal_stats": {
+      "bullish": 29,
+      "bearish": 0,
+      "neutral": 240
+    },
+    "source_stats": {
+      "IT之家": 32,
+      "量子位": 17,
+      "InfoQ": 12,
+      "雷锋网": 17,
+      "PingWest": 17,
+      "驱动之家": 31,
+      "机器之心": 4,
+      "TechCrunch": 20,
+      "Wired": 50,
+      "Ars Technica": 20,
+      "VentureBeat": 7,
+      "MIT Tech Review": 10,
+      "Hacker News": 20,
+      "Dev.to": 12
+    },
+    "category_stats": {
+      "科技": 221,
+      "数码": 32,
+      "AI": 45,
+      "技术": 64,
+      "架构": 12,
+      "互联网": 17,
+      "硬件": 31,
+      "研究": 14,
+      "创业": 20,
+      "国际": 139,
+      "文化": 50,
+      "开源": 20,
+      "开发": 12
+    },
+    "entity_stats": {
+      "小米": 1,
+      "AI": 182,
+      "华为": 4,
+      "芯片": 8,
+      "阿里": 3,
+      "大模型": 3,
+      "苹果": 4,
+      "微软": 1,
+      "英伟达": 1,
+      "腾讯": 1,
+      "DeepSeek": 1,
+      "OpenAI": 10,
+      "Meta": 1,
+      "GPT": 3,
+      "百度": 1,
+      "GPU": 2,
+      "Google": 7,
+      "LLM": 2
+    },
+    "sentiment": "中性 ➖"
+  },
+  "articles": [
+    {
+      "id": "0d74cd6637d5",
+      "title": "比亚迪将召开“颠覆性”技术发布会",
+      "url": "https://www.ithome.com/0/925/001.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.157586",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "6354fdd1f2f9",
+      "title": "Vision GT 确认不会量产：系小米汽车在硬核科技基础之外的一次深度探索，展车后续将在国内亮相",
+      "url": "https://www.ithome.com/0/924/832.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.158438",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "小米"
+        ],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "f8d9005a6a0b",
+      "title": "荣耀机器人手机 Robot Phone 亮相 MWC 2026：3 轴云台 + 阿莱合作，具身智能加持的 AI 终端新形态",
+      "url": "https://www.ithome.com/0/924/856.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.158677",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "eafd5497df86",
+      "title": "史上首次：2026 年中国手机市场迎全面普涨，消息称 3 月后新品涨幅最低超千元",
+      "url": "https://www.ithome.com/0/923/730.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.158817",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "f28bbb329e91",
+      "title": "三星 Galaxy S26 / S26+ / S26 Ultra 系列新品发布会一文汇总：首发硬件防窥屏、谷歌“豆包手机”",
+      "url": "https://www.ithome.com/0/923/679.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.158876",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 2,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "096ca8e72493",
+      "title": "华为 Mate 80 Pro 旗舰手机海外版预装 EMUI 15.0 系统",
+      "url": "https://www.ithome.com/0/924/030.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.159377",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "华为"
+        ],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "e77ade975190",
+      "title": "周二年货节狂促继续：华为 Mate 70 Pro 国补后 6699 → 3949 元，iPhone Air 京东 5458 再降价",
+      "url": "https://www.ithome.com/0/918/319.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.159631",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "华为"
+        ],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "098c543546d5",
+      "title": "网传魅族 23 项目已经停止，公司手机业务即将解散",
+      "url": "https://www.ithome.com/0/921/226.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.159768",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "d13238f70cb5",
+      "title": "华为 Mate 80 Pro 手机 16GB+512GB 规格开放购买：麒麟 9030 Pro 芯片，6999 元",
+      "url": "https://www.ithome.com/0/922/926.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.159855",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "华为"
+        ],
+        "products": [],
+        "technologies": [
+          "芯片"
+        ]
+      }
+    },
+    {
+      "id": "ca844ed91dce",
+      "title": "国行版将至：联想 moto 首款大折叠 razr fold AI 手机官宣即将上市，海外版售价 1999 欧元",
+      "url": "https://www.ithome.com/0/925/165.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.160048",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "c7080e8111e0",
+      "title": "TCL TAB A1 Plus 入门级平板电脑发布，搭载高通骁龙 4 Gen 2",
+      "url": "https://www.ithome.com/0/925/130.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.160466",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "59444e89ab30",
+      "title": "何小鹏：小鹏第二代 VLA 比行业第一梯队领先接近 5 倍，未来 3 至 5 年所有汽车都是超级智能体",
+      "url": "https://www.ithome.com/0/925/129.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.160487",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "e4fe7500b575",
+      "title": "摩托罗拉与石墨烯 OS（GrapheneOS）达成合作，加强智能手机安全",
+      "url": "https://www.ithome.com/0/925/128.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.160508",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "781de95601f2",
+      "title": "三合一智能喂养台，英氏奶瓶消毒柜 999 → 371 元国补探底（京东自营 1042 元）",
+      "url": "https://lapin.ithome.com/html/digi/924774.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.160528",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "a6ddb75e8b56",
+      "title": "科大讯飞推出 T90 Lite 学习机：13.2 英寸 AG 防眩光屏、AI 辅助学习系统，7799 元",
+      "url": "https://www.ithome.com/0/925/127.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.160551",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "b778f4b1577c",
+      "title": "肯德基上线 AI 点餐助手“小 K”，基于阿里千问大模型打造",
+      "url": "https://www.ithome.com/0/925/155.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.160793",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "阿里"
+        ],
+        "products": [],
+        "technologies": [
+          "AI",
+          "大模型",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "231e246444a8",
+      "title": "三星在韩发布 2026 款 Bespoke AI 衣物护理机与洗烘设备",
+      "url": "https://www.ithome.com/0/925/152.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.161767",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "bb384cb82631",
+      "title": "藏在哪里大声告诉你：苹果 AirTag 2 国补 198 元，查找范围升 50% + 音量升 50%",
+      "url": "https://www.ithome.com/0/925/151.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.162768",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "苹果"
+        ],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "aee50d79d748",
+      "title": "微软改口：要使用 Win11 的智能应用控制，仍需进行全新安装",
+      "url": "https://www.ithome.com/0/925/125.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.163619",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "微软"
+        ],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "3abc5afa6705",
+      "title": "AI 解开罗马时代神秘石块谜团，推测出古代棋盘游戏规则",
+      "url": "https://www.ithome.com/0/925/121.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.163810",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "75b7ed19afa6",
+      "title": "联想 AI Workmate 概念投影仪亮相：自带酷睿 Ultra Series 3 处理器、64GB 内存，支持整理笔记、扫描文档等",
+      "url": "https://www.ithome.com/0/925/120.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.163843",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "2d2db13f44f9",
+      "title": "“木头姐”旗下 ARK：2030 年定制芯片将占算力市场三分之一，英伟达的对手来了",
+      "url": "https://www.ithome.com/0/925/149.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.164502",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "英伟达"
+        ],
+        "products": [],
+        "technologies": [
+          "芯片"
+        ]
+      }
+    },
+    {
+      "id": "e4f937bfab38",
+      "title": "传音 Tecno 发布超薄模块化磁吸概念手机，组件更换分分钟搞定",
+      "url": "https://www.ithome.com/0/925/146.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.165021",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "ae6661a02a1e",
+      "title": "电子墨水屏、霓虹灯光，传音 Tecno 推出两款变色后盖手机概念设计",
+      "url": "https://www.ithome.com/0/925/143.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.165298",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "1d58b3614cae",
+      "title": "vivo 韩伯啸详解 X300 Ultra 手机视频拍摄升级要点：全焦段支持 10bit 色深、Log 模式",
+      "url": "https://www.ithome.com/0/925/114.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.165512",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "de0356c666b4",
+      "title": "TCL 发布 AMOLED 版 NXTPAPER 护眼显示技术",
+      "url": "https://www.ithome.com/0/925/113.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.165546",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "c560ddcb79c7",
+      "title": "万志强：魅族 AR 智能眼镜部门正常运转，计划二三季度推出光波导新一代产品",
+      "url": "https://www.ithome.com/0/925/107.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.165679",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "4a16f095bfb9",
+      "title": "姜超：红魔 11 Pro+ 鸣潮限定版手机供不应求，本月将补货",
+      "url": "https://www.ithome.com/0/925/106.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.165760",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "917ce77db6f2",
+      "title": "iQOO 海外预热 Z11x 手机：天玑 7400 Turbo 芯片，3 月 12 日发布",
+      "url": "https://www.ithome.com/0/925/104.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.165795",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "芯片"
+        ]
+      }
+    },
+    {
+      "id": "4635c0115d54",
+      "title": "AMD 发布锐龙 AI 400 与 AI PRO 400 系列台式机处理器，至高 8 核",
+      "url": "https://www.ithome.com/0/925/103.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.165827",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "3e9b47aa3542",
+      "title": "何小鹏：L2 和 L4 之间专门加 L3，对于硬软件和法律法规都是挑战",
+      "url": "https://www.ithome.com/0/925/099.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.165866",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "08ed046ca0fe",
+      "title": "沃达丰成功测试 ISAC 技术：手机可变身雷达传感器，实时预警周边危险",
+      "url": "https://www.ithome.com/0/925/090.htm",
+      "source": "IT之家",
+      "categories": [
+        "科技",
+        "数码"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:02.165896",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "c2aded6a9234",
+      "title": "官宣｜FlagOS 镜像登陆腾讯云 HAI社区，快速部署OpenClaw 实现“养虾”自由",
+      "url": "https://www.qbitai.com/2026/03/383235.html",
+      "source": "量子位",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:03.525767",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "腾讯"
+        ],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "64b5342c688c",
+      "title": "智能车参考",
+      "url": "https://www.qbitai.com/?author=12",
+      "source": "量子位",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:03.525804",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "bbfe2b814bda",
+      "title": "Notion引入MiniMax M2.5，作为Custom Agents唯一可用的全球开源模型",
+      "url": "https://www.qbitai.com/2026/03/383020.html",
+      "source": "量子位",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:03.525873",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "4ab17120dd26",
+      "title": "13 vs 3，国产安全AI悄悄完成了对Claude的超越",
+      "url": "https://www.qbitai.com/2026/03/383016.html",
+      "source": "量子位",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:03.525905",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "bd7176c09240",
+      "title": "“一键生成，页页可改”！商汤办公小浣熊推出「可编辑」的AI PPT",
+      "url": "https://www.qbitai.com/2026/03/382971.html",
+      "source": "量子位",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:03.526470",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "7380327b94d8",
+      "title": "AI PPT",
+      "url": "https://www.qbitai.com/tag/ai-ppt",
+      "source": "量子位",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:03.526506",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "2ee7229cbc7c",
+      "title": "DeepSeek新论文剧透V4新框架！用闲置网卡加速智能体推理性能",
+      "url": "https://www.qbitai.com/2026/02/382872.html",
+      "source": "量子位",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:03.526778",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "DeepSeek"
+        ],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "6a533ebb9c9a",
+      "title": "千问AI春节DAU创历史新高，单日增幅惊人",
+      "url": "https://www.qbitai.com/2026/02/382739.html",
+      "source": "量子位",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:03.526811",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "40c49da8ea5f",
+      "title": "千问3.5霸榜全球开源大模型前四，10分钟通过中级程序员5小时编程",
+      "url": "https://www.qbitai.com/2026/02/382732.html",
+      "source": "量子位",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:03.527033",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "大模型"
+        ]
+      }
+    },
+    {
+      "id": "b19422f8ea7d",
+      "title": "云知声Unisound U1-OCR大模型发布！首个工业级文档智能基础大模型，开启OCR 3.0时代",
+      "url": "https://www.qbitai.com/2026/02/382682.html",
+      "source": "量子位",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:03.527069",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "大模型"
+        ]
+      }
+    },
+    {
+      "id": "92452b715ed9",
+      "title": "14亿元留不住！庞若鸣弃Meta加盟OpenAI",
+      "url": "https://www.qbitai.com/2026/02/382657.html",
+      "source": "量子位",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:03.527101",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Meta"
+        ],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "ab10a175cba0",
+      "title": "Karpathy：AI编程已质变，就从去年12月开始",
+      "url": "https://www.qbitai.com/2026/02/382626.html",
+      "source": "量子位",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:03.527142",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "e8516068bbf3",
+      "title": "AI Coding",
+      "url": "https://www.qbitai.com/tag/ai-coding",
+      "source": "量子位",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:03.527179",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "b7609a0862f3",
+      "title": "融资34亿！谷歌前TPU员工创业新型芯片，卡帕西也投了",
+      "url": "https://www.qbitai.com/2026/02/382058.html",
+      "source": "量子位",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:03.527317",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "芯片"
+        ]
+      }
+    },
+    {
+      "id": "308a8480c0ad",
+      "title": "清华数学系大神跳槽OpenAI！曾主导SAM与Llama开发，Sora负责人：欢迎加入",
+      "url": "https://www.qbitai.com/2026/02/382015.html",
+      "source": "量子位",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:03.527367",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "OpenAI"
+        ],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "ddae48644631",
+      "title": "OpenAI",
+      "url": "https://www.qbitai.com/tag/openai",
+      "source": "量子位",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:03.527396",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "OpenAI"
+        ],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "45c333c224b3",
+      "title": "最强Coding Plan上线！阿里云上线Qwen3.5、GLM-5、MiniMax M2.5、Kimi K2.5四大顶尖开源模型",
+      "url": "https://www.qbitai.com/2026/02/382010.html",
+      "source": "量子位",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:03.527413",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "companies": [
+          "阿里"
+        ],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "35cf2fa5a0c6",
+      "title": "OPEN AI LAB",
+      "url": "http://www.openailab.com/",
+      "source": "InfoQ",
+      "categories": [
+        "技术",
+        "架构"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:05.404865",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "9fd724245dcd",
+      "title": "互联网的一些事",
+      "url": "https://www.yixieshi.com/?utm_source=InfoQ",
+      "source": "InfoQ",
+      "categories": [
+        "技术",
+        "架构"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:05.404889",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "a9e506a16cca",
+      "title": "PingCode",
+      "url": "https://pingcode.com/",
+      "source": "InfoQ",
+      "categories": [
+        "技术",
+        "架构"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:05.404928",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "805f10d01f05",
+      "title": "稀土掘金技术社区",
+      "url": "https://juejin.cn/",
+      "source": "InfoQ",
+      "categories": [
+        "技术",
+        "架构"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:05.405118",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "6142abd17af0",
+      "title": "AI产品榜",
+      "url": "https://www.aicpb.com",
+      "source": "InfoQ",
+      "categories": [
+        "技术",
+        "架构"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:05.405140",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "533fbf32caae",
+      "title": "蚂蚁开源官网",
+      "url": "https://opensource.antgroup.com",
+      "source": "InfoQ",
+      "categories": [
+        "技术",
+        "架构"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:05.405154",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "bbc4366c28ad",
+      "title": "AI 快讯",
+      "url": "https://www.infoq.cn/aibriefs",
+      "source": "InfoQ",
+      "categories": [
+        "技术",
+        "架构"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:05.405192",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "f918ec482a95",
+      "title": "【QCon专场】AI双引擎：业务增长与安全重构",
+      "url": "https://www.infoq.cn/form/?id=2827&amp;utm_source=huodongdabenying&amp;sign=iq_68ef417882d95",
+      "source": "InfoQ",
+      "categories": [
+        "技术",
+        "架构"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:05.405248",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "6972614b183f",
+      "title": "QCon 亚马逊云专场：AI IDE重构开发想象",
+      "url": "https://jinshuju.com/f/MkXdNt?x_field_1=Amazon1",
+      "source": "InfoQ",
+      "categories": [
+        "技术",
+        "架构"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:05.405278",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "af934224e376",
+      "title": "加入鸿蒙开发者阵营 开拓智能生态新蓝海！",
+      "url": "https://developer.huawei.com/consumer/cn/?ha_source=InfoQ&amp;ha_sourceId=70000011",
+      "source": "InfoQ",
+      "categories": [
+        "技术",
+        "架构"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:05.405305",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "958c61143088",
+      "title": "北京 · QCon 全球软件开发大会 2026.4.16-18",
+      "url": "https://qcon.infoq.cn/2026/beijing?utm_source=infoq&amp;utm_medium=footer",
+      "source": "InfoQ",
+      "categories": [
+        "技术",
+        "架构"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:05.405404",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "33352d0315c9",
+      "title": "上海 · AICon 全球人工智能开发与应用大会 2026.6.26-27",
+      "url": "https://aicon.infoq.cn/2026/shanghai?utm_source=infoq&amp;utm_medium=footer",
+      "source": "InfoQ",
+      "categories": [
+        "技术",
+        "架构"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:05.405423",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "46f147a7276c",
+      "title": "AI慕课学院",
+      "url": "https://mooc.yanxishe.com/?f=leiphone",
+      "source": "雷锋网",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:09.733543",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "14722cc771a8",
+      "title": "互联网医疗",
+      "url": "https://www.leiphone.com/category/hulianwangyiliao",
+      "source": "雷锋网",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:09.734008",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "5efc5c0786da",
+      "title": "5G工业互联网",
+      "url": "https://www.leiphone.com/category/5ggy",
+      "source": "雷锋网",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:09.734279",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "a88dd2cb70db",
+      "title": "从拓麻歌子到Fuzozo，AI玩具靠什么复刻亿级神话？",
+      "url": "https://www.leiphone.com/banner/homepageUrl/id/3404",
+      "source": "雷锋网",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:09.734405",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "46fc7eaa3e29",
+      "title": "众筹百万美金的AI手机进入中国，小屏幕能否撕开内卷缺口？",
+      "url": "https://www.leiphone.com/latest/index/id/4683",
+      "source": "雷锋网",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:09.734567",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "700933af0a60",
+      "title": "对话Teeni.AI袁琳：AI儿童硬件的善意，是蹲下来与孩子对话",
+      "url": "https://www.leiphone.com/latest/index/id/4684",
+      "source": "雷锋网",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:09.734669",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "658b9e8822f2",
+      "title": "奇点摄动首款 3D 二次元 AI 伴侣内测，底层自研 AI 的路好走吗？",
+      "url": "https://www.leiphone.com/category/industrynews/FTmRsHq0c99LHDsW.html",
+      "source": "雷锋网",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:09.734904",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "432486724c1d",
+      "title": "AI 伴侣",
+      "url": "https://www.leiphone.com/tag/AI+%E4%BC%B4%E4%BE%A3",
+      "source": "雷锋网",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:09.734925",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "a2992d74357f",
+      "title": "二次元AI",
+      "url": "https://www.leiphone.com/tag/%E4%BA%8C%E6%AC%A1%E5%85%83AI",
+      "source": "雷锋网",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:09.734940",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "0a38e8d14945",
+      "title": "万人大厂因AI一夜爆裁4000人，「留下的压力也很大」；网友晒椰树广告图被指低俗：「女员工胸这么大」引争议；SpaceX最早3月秘密申请IPO",
+      "url": "https://www.leiphone.com/category/zaobao/S0M0F81kA1NsOqdA.html",
+      "source": "雷锋网",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:09.734980",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "f474ca487ce3",
+      "title": "新智驾独家｜蔚来芯片子公司完成首轮融资，投后估值近百亿元",
+      "url": "https://www.leiphone.com/category/transportation/6TEQgG94ZVlTc9Os.html",
+      "source": "雷锋网",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:09.735050",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "芯片"
+        ]
+      }
+    },
+    {
+      "id": "e13d06591388",
+      "title": "八位AI算力CEO：2026，算力旧规则正在作废",
+      "url": "https://www.leiphone.com/category/chips/YDGUXz9W02bqbbiJ.html",
+      "source": "雷锋网",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:09.735152",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "19daf9f7e437",
+      "title": "对话NOOK创始人许清岚：AI 从「做事」走向「规划人生」",
+      "url": "https://www.leiphone.com/category/industrynews/4O3FCt45JftvVrvX.html",
+      "source": "雷锋网",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:09.735236",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "b271f4a4e060",
+      "title": "AI agent",
+      "url": "https://www.leiphone.com/tag/AI+agent",
+      "source": "雷锋网",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:09.735321",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "3f1b8135901f",
+      "title": "对话冯雷：从 AI 播客，到真人感 Agent",
+      "url": "https://www.leiphone.com/category/industrynews/H4d9CfqcIDT7YNxe.html",
+      "source": "雷锋网",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:09.735353",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "7b3d5251fdb3",
+      "title": "独家丨无界动力签下数亿元海外订单，具身智能诞生首个出海订单「亿元户」",
+      "url": "https://www.leiphone.com/category/industrynews/F2AfX8IFZb7DOPL6.html",
+      "source": "雷锋网",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:09.735627",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "deebc8630373",
+      "title": "传魅族手机停摆，3月正式退市，魅友刷屏：加油；苹果阴间Bug！网友称iPhone深夜自动拨打电话，官方回应；元宝AI除夕夜辱骂用户，回应来了",
+      "url": "https://www.leiphone.com/category/zaobao/uUhp0brmvyVfXhQQ.html",
+      "source": "雷锋网",
+      "categories": [
+        "AI",
+        "科技"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:09.736561",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "苹果"
+        ],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "1a71270da59e",
+      "title": "“龙虾”狂热：ChatGPT们只是AI的后端，OpenClaw让AI真正有了前端",
+      "url": "https://www.pingwest.com//www.pingwest.com/a/311703",
+      "source": "PingWest",
+      "categories": [
+        "科技",
+        "互联网"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:10.917661",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "GPT",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "51bfe20e9094",
+      "title": "45亿红包之后，中国AI的下一仗怎么打？",
+      "url": "https://www.pingwest.com//www.pingwest.com/a/311666",
+      "source": "PingWest",
+      "categories": [
+        "科技",
+        "互联网"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:10.917693",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "2ed609ec3d5f",
+      "title": "千问开始做AI硬件，阿里的闭环活了",
+      "url": "https://www.pingwest.com//www.pingwest.com/a/311654",
+      "source": "PingWest",
+      "categories": [
+        "科技",
+        "互联网"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:10.918116",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "阿里"
+        ],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "9a59cd4694ad",
+      "title": "金山办公入选标普全球《可持续发展年鉴2026》：ESG评分跻身行业全球前15%，成中国办公软件唯一上榜企业",
+      "url": "https://www.pingwest.com//www.pingwest.com/w/311722",
+      "source": "PingWest",
+      "categories": [
+        "科技",
+        "互联网"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:10.918355",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "155d6148f91b",
+      "title": "GPT.com域名现跳转至ChatGPT官网，OpenAI疑似完成收购",
+      "url": "https://www.pingwest.com//www.pingwest.com/w/311721",
+      "source": "PingWest",
+      "categories": [
+        "科技",
+        "互联网"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:10.918550",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "companies": [
+          "OpenAI"
+        ],
+        "products": [],
+        "technologies": [
+          "AI",
+          "GPT",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "282c995e8ef7",
+      "title": "AI浏览器Tabbit正式发布，开启智能浏览新体验",
+      "url": "https://www.pingwest.com//www.pingwest.com/w/311718",
+      "source": "PingWest",
+      "categories": [
+        "科技",
+        "互联网"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:10.918641",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "bca802e2722d",
+      "title": "AI公司迎财神：智谱3232亿，MiniMax 3042亿，Kimi冲击1000亿",
+      "url": "https://www.pingwest.com//www.pingwest.com/a/311569",
+      "source": "PingWest",
+      "categories": [
+        "科技",
+        "互联网"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:10.918857",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "d2f8d289a6c5",
+      "title": "告别低效办公！WPS灵犀重磅升级，三大智能体让人人都有AI办公助理",
+      "url": "https://www.pingwest.com//www.pingwest.com/a/311723",
+      "source": "PingWest",
+      "categories": [
+        "科技",
+        "互联网"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:10.918882",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "ac5b3d99774a",
+      "title": "联想moto首款“大折叠”手机MWC正式发布",
+      "url": "https://www.pingwest.com//www.pingwest.com/a/311720",
+      "source": "PingWest",
+      "categories": [
+        "科技",
+        "互联网"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:10.918901",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "0974a8f13f33",
+      "title": "超级热AI焕新来袭！2026联想焕新季天禧AI领衔，福利拉满",
+      "url": "https://www.pingwest.com//www.pingwest.com/a/311715",
+      "source": "PingWest",
+      "categories": [
+        "科技",
+        "互联网"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:10.918940",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "0e6cd61c5ad5",
+      "title": "科大讯飞AI学习机T90系列重磅发布，开启个性化学习新时代",
+      "url": "https://www.pingwest.com//www.pingwest.com/a/311690",
+      "source": "PingWest",
+      "categories": [
+        "科技",
+        "互联网"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:10.919085",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "99b7ed75fa01",
+      "title": "鸿蒙软件工程实践：手把手教你优化编译配置，提升鸿蒙编译效率",
+      "url": "https://www.pingwest.com//www.pingwest.com/a/311691",
+      "source": "PingWest",
+      "categories": [
+        "科技",
+        "互联网"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:10.919105",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "85d1b4b1f2a1",
+      "title": "3秒上手火山引擎智能分析Agent行业样板间 准确率90%+",
+      "url": "https://www.pingwest.com//www.pingwest.com/a/311688",
+      "source": "PingWest",
+      "categories": [
+        "科技",
+        "互联网"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:10.919123",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "5f8e0faec209",
+      "title": "让科技教育走向“场景深处”，学而思“场景化教学”让孩子“看见更深”",
+      "url": "https://www.pingwest.com//www.pingwest.com/a/311687",
+      "source": "PingWest",
+      "categories": [
+        "科技",
+        "互联网"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:10.919141",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "ada23d17c709",
+      "title": "2025年百度AI原生营销服务收入同比增长301%",
+      "url": "https://www.pingwest.com//www.pingwest.com/a/311679",
+      "source": "PingWest",
+      "categories": [
+        "科技",
+        "互联网"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:10.919198",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "companies": [
+          "百度"
+        ],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "daffd6cc26f1",
+      "title": "算力底座之争：谁在构建AI时代的“水电煤”？",
+      "url": "https://www.pingwest.com//www.pingwest.com/a/311678",
+      "source": "PingWest",
+      "categories": [
+        "科技",
+        "互联网"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:10.919216",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "3551be21549c",
+      "title": "光峰科技2025年业绩快报：影院业务稳健，AR业务破局",
+      "url": "https://www.pingwest.com//www.pingwest.com/a/311665",
+      "source": "PingWest",
+      "categories": [
+        "科技",
+        "互联网"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:10.919354",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "684c213e79f5",
+      "title": "苹果iPad 12下周发：外观不变 升级A19芯片",
+      "url": "https://news.mydrivers.com/1/1106/1106070.htm",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.000736",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "苹果"
+        ],
+        "products": [],
+        "technologies": [
+          "芯片"
+        ]
+      }
+    },
+    {
+      "id": "a683da3da91b",
+      "title": "手机、电脑CPU/GPU性能天梯榜",
+      "url": "http://rank.kkj.cn/",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.000863",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "GPU"
+        ]
+      }
+    },
+    {
+      "id": "35f04c549af8",
+      "title": "快科技2025年度评奖！",
+      "url": "https://www.mydrivers.com/zhuanti/2025jiang/index.html",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.000898",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "b2ded0d7ac26",
+      "title": "快科技招聘，欢迎爱好者加盟",
+      "url": "https://www.mydrivers.com/contact/jobs.html",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.000911",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "79ce2d5a2933",
+      "title": "2026年第一个撑不住的手机品牌",
+      "url": "https://news.mydrivers.com/1/1105/1105860.htm",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.000930",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "a47f990bf693",
+      "title": "女子捡华为手机藏4个月 失主找上门发现被重置 法院判了！",
+      "url": "https://news.mydrivers.com/1/1106/1106001.htm",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.000948",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "华为"
+        ],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "c1250935bb8c",
+      "title": "快买！中国手机将全涨价：下月新机最高涨3000 老款也提价",
+      "url": "https://news.mydrivers.com/1/1105/1105602.htm",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.000969",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "de691cf0b3e8",
+      "title": "美团团队新作！光年之外发布AI浏览器Tabbit：浏览器变助手",
+      "url": "https://news.mydrivers.com/1/1106/1106487.htm",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.001008",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "638a1205b3a0",
+      "title": "我国生成式人工智能用户规模超6亿人 普及率达42.8%",
+      "url": "https://news.mydrivers.com/1/1106/1106476.htm",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.001408",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "69569310677f",
+      "title": "手机PC集体大涨价！之前买12G+256G的钱 只能买8G+128G了",
+      "url": "https://news.mydrivers.com/1/1106/1106466.htm",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.001464",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "47565a9fd6bd",
+      "title": "国产最顶旗舰手机亮相：视频大提升 媲美苹果！春晚已验证",
+      "url": "https://news.mydrivers.com/1/1106/1106463.htm",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.001528",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "苹果"
+        ],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "00d0bcb00a15",
+      "title": "首款2nm芯片成了！实测告别祖传发热 三星一雪前耻",
+      "url": "https://news.mydrivers.com/1/1106/1106456.htm",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.001681",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "芯片"
+        ]
+      }
+    },
+    {
+      "id": "feb11d499541",
+      "title": "小鹏第二代VLA发布！何小鹏：3-5年所有汽车都是超级智能体",
+      "url": "https://news.mydrivers.com/1/1106/1106451.htm",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.001805",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "249c999b6a70",
+      "title": "智能感知系统立功：高速上孩子突然抽搐 还没报警120就来了",
+      "url": "https://news.mydrivers.com/1/1106/1106441.htm",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.002046",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "2438316958f3",
+      "title": "何小鹏：L2和L4之间专门加L3 对软硬件、法律法规都是挑战",
+      "url": "https://news.mydrivers.com/1/1106/1106440.htm",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.002063",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "e7c9dc3383d8",
+      "title": "四张英特尔锐炫Pro B60显卡！长城世恒X-AIGC工作站图赏",
+      "url": "https://news.mydrivers.com/1/1106/1106437.htm",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.002141",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "abde5586074e",
+      "title": "AI.com卖出天价：10岁时偷刷妈妈信用卡入手！暴涨70万倍",
+      "url": "https://news.mydrivers.com/1/1106/1106435.htm",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.002189",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "a898fd4eccff",
+      "title": "AMD桌面锐龙AI 400 APU登场！可惜只有8核 不零售",
+      "url": "https://news.mydrivers.com/1/1106/1106430.htm",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.002487",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "4eba6b6a2144",
+      "title": "演员刘美含被AI绕晕！一个字5家AI读音不统一",
+      "url": "https://news.mydrivers.com/1/1106/1106412.htm",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.003065",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "cf1d3250981e",
+      "title": "比亚迪3月5日将发布颠覆性技术 股价应声大涨超8%",
+      "url": "https://news.mydrivers.com/1/1106/1106400.htm",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.003326",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "97e6c41bb68b",
+      "title": "最高暴涨3000元！史上最猛手机涨价潮来了：你还买安卓吗",
+      "url": "https://news.mydrivers.com/1/1106/1106372.htm",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.003549",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "33fb85349d84",
+      "title": "马斯克：你不必为AI失业焦虑 10年内上班将全凭自愿！",
+      "url": "https://news.mydrivers.com/1/1106/1106371.htm",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.003573",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "b1c990d47e10",
+      "title": "联想模块化AI PC来了！单双屏自由切换、接口随意拼",
+      "url": "https://news.mydrivers.com/1/1106/1106369.htm",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.003635",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "a71dd8051377",
+      "title": "顶尖模型免费用 国产AI浏览器发布：工作交给它 时间给自己",
+      "url": "https://news.mydrivers.com/1/1106/1106365.htm",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.003823",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "f3aa3d57a827",
+      "title": "第一批用AI代替人力的公司 已经开始后悔了",
+      "url": "https://news.mydrivers.com/1/1106/1106362.htm",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.004505",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "73394dddff50",
+      "title": "华硕灵耀16 Air 2026：1.5kg AI超轻薄本藏锐龙AI 9",
+      "url": "https://news.mydrivers.com/1/1106/1106359.htm",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.004567",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "47a6924708bc",
+      "title": "荣耀发布全球首款机器人手机 何同学改装解锁新形态",
+      "url": "https://news.mydrivers.com/1/1106/1106357.htm",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.004610",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "9307b1a34677",
+      "title": "当AI什么都会：人类只剩下一项最珍贵的核心竞争力",
+      "url": "https://news.mydrivers.com/1/1106/1106348.htm",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.004786",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "a84fde324304",
+      "title": "千问首款硬件终于来了！AI 眼镜正式官宣 功能直接拉满",
+      "url": "https://news.mydrivers.com/1/1106/1106342.htm",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.004989",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "424c6bcfdf03",
+      "title": "塞满220万块4TB硬盘！春节9天手机流量创新高 抖音排第一",
+      "url": "https://news.mydrivers.com/1/1106/1106339.htm",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.005070",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "a0820528da47",
+      "title": "20万个活体人类神经元在电脑芯片上激活！竟自己玩DOOM游戏",
+      "url": "https://news.mydrivers.com/1/1106/1106338.htm",
+      "source": "驱动之家",
+      "categories": [
+        "科技",
+        "硬件"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:12.005095",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "芯片"
+        ]
+      }
+    },
+    {
+      "id": "4b179a63ceba",
+      "title": "Anthropic 如何用「经济原语」衡量 AI 影响？",
+      "url": "https://pro.jiqizhixin.com/reference/9821ac44-6c7e-40a4-a513-06007d7479db",
+      "source": "机器之心",
+      "categories": [
+        "AI",
+        "研究"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:14.448810",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "b4afca84d434",
+      "title": "走出屏幕，多模态智能硬件如何承载最新的 AI？",
+      "url": "https://pro.jiqizhixin.com/reference/9415af27-e797-4114-9827-ce4dabac99b7",
+      "source": "机器之心",
+      "categories": [
+        "AI",
+        "研究"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:14.448894",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "c7e4342ed30c",
+      "title": "GDP 上升 7% 只是起步，「牛市女皇」看到了 AI 带来的哪些「真增长」？",
+      "url": "https://pro.jiqizhixin.com/reference/0476d751-f2f7-4f08-9eba-ec1776b2610c",
+      "source": "机器之心",
+      "categories": [
+        "AI",
+        "研究"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:14.448921",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "af88d81f21b2",
+      "title": "AI 好好用",
+      "url": "https://aihaohaoyong.com/",
+      "source": "机器之心",
+      "categories": [
+        "AI",
+        "研究"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T18:51:14.449111",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "2bc410fdcff0",
+      "title": "Polymarket saw $529M traded on bets tied to bombing of Iran",
+      "url": "https://techcrunch.com/2026/03/01/polymarket-saw-529m-traded-on-bets-tied-to-bombing-of-iran/",
+      "source": "TechCrunch",
+      "categories": [
+        "科技",
+        "创业",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 03:05:35",
+      "crawl_time": "2026-03-02T18:51:15.135471",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "64cd453781aa",
+      "title": "Let’s explore the best alternatives to Discord",
+      "url": "https://techcrunch.com/2026/03/01/best-discord-alternatives-age-verification-identity-privacy/",
+      "source": "TechCrunch",
+      "categories": [
+        "科技",
+        "创业",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 03:00:01",
+      "crawl_time": "2026-03-02T18:51:15.135573",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "ecb31cd78e4f",
+      "title": "Google looks to tackle longstanding RCS spam in India — but not alone",
+      "url": "https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/",
+      "source": "TechCrunch",
+      "categories": [
+        "科技",
+        "创业",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 01:30:00",
+      "crawl_time": "2026-03-02T18:51:15.135623",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "Google"
+        ],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "e8eef94a5713",
+      "title": "Investors spill what they aren’t looking for anymore in AI SaaS companies",
+      "url": "https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/",
+      "source": "TechCrunch",
+      "categories": [
+        "科技",
+        "创业",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 01:00:00",
+      "crawl_time": "2026-03-02T18:51:15.135667",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "1e23a18f0525",
+      "title": "OpenAI reveals more details about its agreement with the Pentagon",
+      "url": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
+      "source": "TechCrunch",
+      "categories": [
+        "科技",
+        "创业",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 00:30:10",
+      "crawl_time": "2026-03-02T18:51:15.135785",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "OpenAI"
+        ],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "2ec1ad1db5f9",
+      "title": "Honor says its ‘Robot phone’ with moving camera can dance to music",
+      "url": "https://techcrunch.com/2026/03/01/honor-says-its-robot-phone-with-moving-camera-can-dance-to-music/",
+      "source": "TechCrunch",
+      "categories": [
+        "科技",
+        "创业",
+        "国际"
+      ],
+      "pub_date": "2026-03-01 23:30:00",
+      "crawl_time": "2026-03-02T18:51:15.135846",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "40d443eee255",
+      "title": "Honor launches its new slim foldable Magic V6 with a 6,600 mAh battery",
+      "url": "https://techcrunch.com/2026/03/01/honor-launches-its-new-slim-foldable-magic-v6-with-a-6600-mah-battery/",
+      "source": "TechCrunch",
+      "categories": [
+        "科技",
+        "创业",
+        "国际"
+      ],
+      "pub_date": "2026-03-01 23:13:09",
+      "crawl_time": "2026-03-02T18:51:15.135917",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "1416e50a40e7",
+      "title": "Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute",
+      "url": "https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
+      "source": "TechCrunch",
+      "categories": [
+        "科技",
+        "创业",
+        "国际"
+      ],
+      "pub_date": "2026-03-01 22:48:58",
+      "crawl_time": "2026-03-02T18:51:15.135977",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "13584731d953",
+      "title": "SaaS in, SaaS out: Here’s what’s driving the SaaSpocalypse",
+      "url": "https://techcrunch.com/2026/03/01/saas-in-saas-out-heres-whats-driving-the-saaspocalypse/",
+      "source": "TechCrunch",
+      "categories": [
+        "科技",
+        "创业",
+        "国际"
+      ],
+      "pub_date": "2026-03-01 22:00:00",
+      "crawl_time": "2026-03-02T18:51:15.136018",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "03224d8d6580",
+      "title": "The trap Anthropic built for itself",
+      "url": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
+      "source": "TechCrunch",
+      "categories": [
+        "科技",
+        "创业",
+        "国际"
+      ],
+      "pub_date": "2026-03-01 08:08:58",
+      "crawl_time": "2026-03-02T18:51:15.136052",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "01aece2a7014",
+      "title": "Why did Netflix back down from its deal to acquire Warner Bros.?",
+      "url": "https://techcrunch.com/2026/02/28/why-did-netflix-back-down-from-its-deal-to-acquire-warner-bros/",
+      "source": "TechCrunch",
+      "categories": [
+        "科技",
+        "创业",
+        "国际"
+      ],
+      "pub_date": "2026-03-01 06:07:48",
+      "crawl_time": "2026-03-02T18:51:15.136087",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "0e943b20203e",
+      "title": "What to know about the landmark Warner Bros. Discovery sale",
+      "url": "https://techcrunch.com/2026/02/28/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
+      "source": "TechCrunch",
+      "categories": [
+        "科技",
+        "创业",
+        "国际"
+      ],
+      "pub_date": "2026-03-01 05:28:06",
+      "crawl_time": "2026-03-02T18:51:15.136137",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "487e6cdc2e74",
+      "title": "The billion-dollar infrastructure deals powering the AI boom",
+      "url": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
+      "source": "TechCrunch",
+      "categories": [
+        "科技",
+        "创业",
+        "国际"
+      ],
+      "pub_date": "2026-03-01 04:41:55",
+      "crawl_time": "2026-03-02T18:51:15.136181",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "422311287978",
+      "title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
+      "url": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
+      "source": "TechCrunch",
+      "categories": [
+        "科技",
+        "创业",
+        "国际"
+      ],
+      "pub_date": "2026-03-01 00:17:36",
+      "crawl_time": "2026-03-02T18:51:15.136232",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "OpenAI"
+        ],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "3b0f0d8450a8",
+      "title": "Xiaomi launches 17 Ultra smartphone, an AirTag clone, and an ultra slim powerbank",
+      "url": "https://techcrunch.com/2026/02/28/xiaomi-launches-17-ultra-smartphone-an-airtag-clone-and-an-ultra-slim-powerbank/",
+      "source": "TechCrunch",
+      "categories": [
+        "科技",
+        "创业",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 23:09:03",
+      "crawl_time": "2026-03-02T18:51:15.136287",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "ad0ecac3aa78",
+      "title": "Why China’s humanoid robot industry is winning the early market",
+      "url": "https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/",
+      "source": "TechCrunch",
+      "categories": [
+        "科技",
+        "创业",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 23:00:00",
+      "crawl_time": "2026-03-02T18:51:15.136419",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "f9cc6e088508",
+      "title": "India disrupts access to popular developer platform Supabase with blocking order",
+      "url": "https://techcrunch.com/2026/02/27/india-disrupts-access-to-popular-developer-platform-supabase-with-blocking-order/",
+      "source": "TechCrunch",
+      "categories": [
+        "科技",
+        "创业",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 11:51:52",
+      "crawl_time": "2026-03-02T18:51:15.136456",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "4d3800e66d95",
+      "title": "OpenAI fires employee for using confidential info on prediction markets",
+      "url": "https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets/",
+      "source": "TechCrunch",
+      "categories": [
+        "科技",
+        "创业",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 07:00:54",
+      "crawl_time": "2026-03-02T18:51:15.136496",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "OpenAI"
+        ],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "4e94aa6bce09",
+      "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
+      "url": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
+      "source": "TechCrunch",
+      "categories": [
+        "科技",
+        "创业",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 05:53:14",
+      "crawl_time": "2026-03-02T18:51:15.136530",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "b862493fda34",
+      "title": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
+      "url": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
+      "source": "TechCrunch",
+      "categories": [
+        "科技",
+        "创业",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 03:42:00",
+      "crawl_time": "2026-03-02T18:51:15.136568",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "OpenAI"
+        ],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "76d06941812c",
+      "title": "When the Internet Goes Dark, the Truth Goes With It",
+      "url": "https://www.wired.com/story/plestia-alaqad-gaza-citizen-journalist-social-media/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 18:30:00",
+      "crawl_time": "2026-03-02T18:51:16.865823",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "b4e74b7c8e2e",
+      "title": "The Data Centers Have Arrived at the Edge of the Arctic Circle",
+      "url": "https://www.wired.com/story/ai-supremacy-data-center-expansion-arctic-circle/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 18:00:00",
+      "crawl_time": "2026-03-02T18:51:16.865897",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "0f6cff64efa4",
+      "title": "Lenovo’s Latest Wacky Concepts Include a Laptop With a Built-in Portable Monitor",
+      "url": "https://www.wired.com/story/lenovo-mwc-concepts-thinkbook-modular-ai-pc-legion-go-fold/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 07:01:00",
+      "crawl_time": "2026-03-02T18:51:16.866059",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "635bce36da47",
+      "title": "The 5 Big ‘Known Unknowns’ of Donald Trump’s New War With Iran",
+      "url": "https://www.wired.com/story/5-big-known-unknowns-donald-trump-iran-war/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 01:47:31",
+      "crawl_time": "2026-03-02T18:51:16.866188",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "1ec3a64eaa35",
+      "title": "What Happens If Iran Shuts Down the Strait of Hormuz?",
+      "url": "https://www.wired.com/story/what-happens-if-iran-shuts-down-the-strait-of-hormuz/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-03-01 23:31:22",
+      "crawl_time": "2026-03-02T18:51:16.866243",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "da1a142914e2",
+      "title": "Recteq Flagship 1600 Review: An Upgraded Smoker",
+      "url": "https://www.wired.com/review/recteq-flagship-1600-review/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-03-01 20:30:00",
+      "crawl_time": "2026-03-02T18:51:16.866302",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "7ac78915cc91",
+      "title": "Video Doorbell Advice and Settings for Opting Out of the Surveillance State",
+      "url": "https://www.wired.com/story/how-to-secure-your-video-doorbell/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-03-01 20:02:00",
+      "crawl_time": "2026-03-02T18:51:16.866347",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "1c6679c5f377",
+      "title": "Best Laser Printers I've Tried (2026): Brother, HP, and More",
+      "url": "https://www.wired.com/gallery/best-laser-printers/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-03-01 19:30:00",
+      "crawl_time": "2026-03-02T18:51:16.866395",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "9f5f93d08978",
+      "title": "Make the Most of Chrome's Toolbar by Customizing It to Your Liking",
+      "url": "https://www.wired.com/story/how-to-customize-google-chrome-toolbar-to-your-liking/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-03-01 19:00:00",
+      "crawl_time": "2026-03-02T18:51:16.866436",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "28eda8a50a77",
+      "title": "The Piracy Problem Streaming Platforms Can’t Solve",
+      "url": "https://www.wired.com/story/the-piracy-problem-streaming-platforms-cant-solve/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-03-01 18:00:00",
+      "crawl_time": "2026-03-02T18:51:16.866473",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "b7aa553108fc",
+      "title": "X Is Drowning in Disinformation Following US and Israeli Attack on Iran",
+      "url": "https://www.wired.com/story/x-is-drowning-in-disinformation-following-us-and-israels-attack-on-iran/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-03-01 06:40:53",
+      "crawl_time": "2026-03-02T18:51:16.866509",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "c645900dc97d",
+      "title": "NASA Is Making Big Changes to Speed Up the Artemis Program",
+      "url": "https://www.wired.com/story/nasa-is-making-big-changes-to-speed-up-the-artemis-program/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-03-01 00:00:00",
+      "crawl_time": "2026-03-02T18:51:16.867048",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "679658696f2e",
+      "title": "Hacked Prayer App Sends ‘Surrender’ Messages to Iranians Amid Israeli and US Strikes",
+      "url": "https://www.wired.com/story/hacked-prayer-app-sends-surrender-messages-to-iranians-amid-israeli-strikes/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 23:58:09",
+      "crawl_time": "2026-03-02T18:51:16.867120",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "11e402e9fd3b",
+      "title": "This Is the System That Intercepted Iran’s Missiles Over the UAE",
+      "url": "https://www.wired.com/story/uae-missile-intercept-system-iran/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 23:12:51",
+      "crawl_time": "2026-03-02T18:51:16.867159",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "53aa484f87cc",
+      "title": "Review: Xiaomi 17 Ultra and Leitzphone Pack Leica Magic Into a Flagship Phone",
+      "url": "https://www.wired.com/review/xiaomi-17-ultra-leitzphone/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 22:32:00",
+      "crawl_time": "2026-03-02T18:51:16.867209",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "f343b6eaa994",
+      "title": "14 Best Travel Toiletry Bags, Tested Over Many Miles (2026)",
+      "url": "https://www.wired.com/gallery/best-toiletry-bags/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 20:30:00",
+      "crawl_time": "2026-03-02T18:51:16.867247",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "b71b010a72fb",
+      "title": "The Best MicroSD Cards for Your Camera, Switch, and More",
+      "url": "https://www.wired.com/gallery/best-micro-sd-cards/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 20:00:00",
+      "crawl_time": "2026-03-02T18:51:16.867281",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "ec9771cf43c7",
+      "title": "The Best Laptop Cooling Pad and Why You Should Buy One",
+      "url": "https://www.wired.com/story/best-laptop-cooling-pad/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 19:38:00",
+      "crawl_time": "2026-03-02T18:51:16.867314",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "11509c71092a",
+      "title": "Area Man Accidentally Hacks 6,700 Camera-Enabled Robot Vacuums",
+      "url": "https://www.wired.com/story/security-news-this-week-area-man-accidentally-hacks-6700-camera-enabled-robot-vacuums/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 19:30:00",
+      "crawl_time": "2026-03-02T18:51:16.867346",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "be3e193f1b65",
+      "title": "EveryPlate’s Meal Kit Offers Affordable Vegetarian Options",
+      "url": "https://www.wired.com/story/everyplate-vegetarian-meal-kit-rave/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 19:02:00",
+      "crawl_time": "2026-03-02T18:51:16.867391",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "ec16e9e6d4bc",
+      "title": "Which Water Filter Pitchers Filter PFAS? How to Check",
+      "url": "https://www.wired.com/story/water-filter-explainer-nsf-verifications/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 18:36:00",
+      "crawl_time": "2026-03-02T18:51:16.867685",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "99490d2cba53",
+      "title": "This Ruroc Helmet Ruined My Ski Holiday",
+      "url": "https://www.wired.com/story/this-helmet-ruined-my-ski-holiday/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 18:00:00",
+      "crawl_time": "2026-03-02T18:51:16.867824",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "c247d9378fe8",
+      "title": "US and Israel Launch Strikes Against Iran",
+      "url": "https://www.wired.com/story/us-iran-strike-donald-trump/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 17:42:54",
+      "crawl_time": "2026-03-02T18:51:16.867860",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "b8253a8daf02",
+      "title": "Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’",
+      "url": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 11:30:41",
+      "crawl_time": "2026-03-02T18:51:16.867904",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "e307f03c4f07",
+      "title": "18 Best Wireless Chargers, All Tested and Reviewed (2026)",
+      "url": "https://www.wired.com/gallery/best-wireless-chargers/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 07:51:20",
+      "crawl_time": "2026-03-02T18:51:16.867939",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "31287463d6b6",
+      "title": "These Deals Can Have You Zipping Around on a New E-Scooter This Spring",
+      "url": "https://www.wired.com/story/electric-scooters-spring-deals-2026/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 05:55:44",
+      "crawl_time": "2026-03-02T18:51:16.867977",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "dc393e24c7cf",
+      "title": "Trump Moves to Ban Anthropic From the US Government",
+      "url": "https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 05:36:31",
+      "crawl_time": "2026-03-02T18:51:16.868020",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "af43a3465b91",
+      "title": "The Best Roku Is $20 Off",
+      "url": "https://www.wired.com/story/roku-ultra-deal-226/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 04:38:58",
+      "crawl_time": "2026-03-02T18:51:16.868122",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "e58b61f7734c",
+      "title": "What's an E-Bike? California Wants You to Know",
+      "url": "https://www.wired.com/story/what-is-an-e-bike-california-might-find-out/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 03:39:15",
+      "crawl_time": "2026-03-02T18:51:16.868156",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "7d69d3051b14",
+      "title": "OpenAI Fires an Employee for Prediction Market Insider Trading",
+      "url": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 03:07:28",
+      "crawl_time": "2026-03-02T18:51:16.868197",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "OpenAI"
+        ],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "641b270d4fea",
+      "title": "Everything Larry and David Ellison Will Control If Paramount Buys Warner Bros.",
+      "url": "https://www.wired.com/story/everything-the-ellison-family-will-control-if-paramount-acquires-warner-brothers-discovery/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 03:01:01",
+      "crawl_time": "2026-03-02T18:51:16.868270",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "1c5c069d22de",
+      "title": "Wall Street Has AI Psychosis",
+      "url": "https://www.wired.com/story/wall-street-has-ai-psychosis/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 00:00:00",
+      "crawl_time": "2026-03-02T18:51:16.868318",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "7f15069052d8",
+      "title": "Aventon Soltera 3 Electric Bike Review: A Fun Hybrid Single-Speed",
+      "url": "https://www.wired.com/review/aventon-soltera-3-electric-bike/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 20:30:00",
+      "crawl_time": "2026-03-02T18:51:16.868372",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "8dcf6be1deae",
+      "title": "Huxe Will Give You a Personalized, Daily Audio Summary Powered by AI",
+      "url": "https://www.wired.com/story/huxe-personalized-daily-audio-podcasts-powered-by-ai/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 20:00:00",
+      "crawl_time": "2026-03-02T18:51:16.868412",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "e77f8cb0a937",
+      "title": "Aktiia Hilo Blood Pressure Monitor Review: Cuffless BP Tracking",
+      "url": "https://www.wired.com/review/aktiia-hilo-blood-pressure-monitor/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 20:00:00",
+      "crawl_time": "2026-03-02T18:51:16.868444",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "5a6d1a48d399",
+      "title": "‘Love Is Blind’ Embraces the Manosphere",
+      "url": "https://www.wired.com/story/love-is-blind-embraces-the-manosphere/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 19:30:00",
+      "crawl_time": "2026-03-02T18:51:16.868482",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "1d9ed10856a4",
+      "title": "Tin Can Is a Dumb Phone for Kids. Can Someone Teach Them How to Use It?",
+      "url": "https://www.wired.com/story/tin-can-is-a-dumb-phone-for-kids-can-someone-teach-them-how-to-use-it/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 19:00:00",
+      "crawl_time": "2026-03-02T18:51:16.868518",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "9991b718e4b2",
+      "title": "Best Red Light Therapy for Hair Growth: WIRED-Approved (2026)",
+      "url": "https://www.wired.com/story/best-red-light-therapy-for-hair-growth/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 18:30:00",
+      "crawl_time": "2026-03-02T18:51:16.868554",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "8be16b6d64bc",
+      "title": "Data Broker Breaches Fueled Nearly $21 Billion in Identity-Theft Losses",
+      "url": "https://www.wired.com/story/data-broker-breaches-fueled-dollar209-billion-in-identity-theft-losses/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 18:00:00",
+      "crawl_time": "2026-03-02T18:51:16.868650",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "02fb79b4268e",
+      "title": "6 Great Power Bank Deals for Your Thirsty Phone Battery",
+      "url": "https://www.wired.com/story/power-bank-deals-february-2026/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 17:36:00",
+      "crawl_time": "2026-03-02T18:51:16.868686",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "4e21589bd99d",
+      "title": "Preorder Google’s Newest Phone and Get a Free $100 Gift Card",
+      "url": "https://www.wired.com/story/google-pixel-10a-gift-card-february-2026/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 17:08:00",
+      "crawl_time": "2026-03-02T18:51:16.868807",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "Google"
+        ],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "a03051a5ab1c",
+      "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
+      "url": "https://www.wired.com/story/lowes-promo-code/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 14:03:00",
+      "crawl_time": "2026-03-02T18:51:16.868854",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "0e033e8d53cc",
+      "title": "KitchenAid Promo Codes and Discounts: Save Up To 20%",
+      "url": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 14:00:00",
+      "crawl_time": "2026-03-02T18:51:16.868890",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "9d7c8ff3fe5a",
+      "title": "The Latest Repair Battlefield Is the Iowa Farmlands—Again",
+      "url": "https://www.wired.com/story/latest-repair-battlefield-iowa-farmlands-again/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 09:05:41",
+      "crawl_time": "2026-03-02T18:51:16.868931",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "c0fee4a18401",
+      "title": "These Are Our Absolute Favorite Android Earbuds, and They're Below $200",
+      "url": "https://www.wired.com/story/pixel-buds-pro-2-deal-226/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 08:36:07",
+      "crawl_time": "2026-03-02T18:51:16.868966",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "cfd1861ed261",
+      "title": "Hands-On With Nano Banana 2, the Latest Version of Google’s AI Image Generator",
+      "url": "https://www.wired.com/story/google-nano-banana-2-ai-image-generator-hands-on/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 08:01:10",
+      "crawl_time": "2026-03-02T18:51:16.869005",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "Google"
+        ],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "9ed3d8ad4f03",
+      "title": "‘Uncanny Valley’: Pentagon vs. ‘Woke’ Anthropic, Agentic vs. Mimetic, and Trump vs. State of the Union",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-pentagon-anthropic-agentic-mimetic-trump-state-of-the-union/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 07:20:36",
+      "crawl_time": "2026-03-02T18:51:16.869044",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "8794b77a8c56",
+      "title": "This AI Agent Is Designed to Not Go Rogue",
+      "url": "https://www.wired.com/story/ironcurtain-ai-agent-security/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 04:54:51",
+      "crawl_time": "2026-03-02T18:51:16.869076",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "7ff97fb16990",
+      "title": "How Chinese AI Chatbots Censor Themselves",
+      "url": "https://www.wired.com/story/made-in-china-how-chinese-ai-chatbots-censor-themselves/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 04:08:08",
+      "crawl_time": "2026-03-02T18:51:16.869108",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "c011e921fb03",
+      "title": "Are You ‘Agentic’ Enough for the AI Era?",
+      "url": "https://www.wired.com/story/silicon-valley-agentic-individuals-future-of-work/",
+      "source": "Wired",
+      "categories": [
+        "科技",
+        "文化",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 03:00:00",
+      "crawl_time": "2026-03-02T18:51:16.869146",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "2b969719ffbf",
+      "title": "AMD will bring its \"Ryzen AI\" processors to standard desktop PCs for the first time",
+      "url": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
+      "source": "Ars Technica",
+      "categories": [
+        "科技",
+        "技术",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 16:00:29",
+      "crawl_time": "2026-03-02T18:51:17.597765",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "1291f24c3370",
+      "title": "The strange animals that control their body heat",
+      "url": "https://arstechnica.com/science/2026/03/the-strange-animals-that-control-their-body-heat/",
+      "source": "Ars Technica",
+      "categories": [
+        "科技",
+        "技术",
+        "国际"
+      ],
+      "pub_date": "2026-03-01 20:07:22",
+      "crawl_time": "2026-03-02T18:51:17.597860",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "a5aa6cfdcd73",
+      "title": "Trump moves to ban Anthropic from the US government",
+      "url": "https://arstechnica.com/tech-policy/2026/02/trump-moves-to-ban-anthropic-from-the-us-government/",
+      "source": "Ars Technica",
+      "categories": [
+        "科技",
+        "技术",
+        "国际"
+      ],
+      "pub_date": "2026-03-01 04:00:26",
+      "crawl_time": "2026-03-02T18:51:17.597903",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "3375cc0cd318",
+      "title": "In puzzling outbreak, officials look to cold beer, gross ice, and ChatGPT",
+      "url": "https://arstechnica.com/health/2026/02/did-chatgpt-help-health-officials-solve-a-weird-outbreak-maybe/",
+      "source": "Ars Technica",
+      "categories": [
+        "科技",
+        "技术",
+        "国际"
+      ],
+      "pub_date": "2026-03-01 02:17:12",
+      "crawl_time": "2026-03-02T18:51:17.597948",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "GPT"
+        ]
+      }
+    },
+    {
+      "id": "14f6b63e82a1",
+      "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
+      "url": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
+      "source": "Ars Technica",
+      "categories": [
+        "科技",
+        "技术",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 09:26:41",
+      "crawl_time": "2026-03-02T18:51:17.597986",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "Google"
+        ],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "088ce45142ac",
+      "title": "The Air Force's new ICBM is nearly ready to fly, but there’s nowhere to put it",
+      "url": "https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/",
+      "source": "Ars Technica",
+      "categories": [
+        "科技",
+        "技术",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 08:32:24",
+      "crawl_time": "2026-03-02T18:51:17.598030",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "47006bdd06cd",
+      "title": "Under a Paramount-WBD merger, two struggling media giants would unite",
+      "url": "https://arstechnica.com/gadgets/2026/02/under-a-paramount-wbd-merger-two-struggling-media-giants-would-unite/",
+      "source": "Ars Technica",
+      "categories": [
+        "科技",
+        "技术",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 06:39:00",
+      "crawl_time": "2026-03-02T18:51:17.598542",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "0b90a8cac983",
+      "title": "Photons that aren't actually there influence superconductivity",
+      "url": "https://arstechnica.com/science/2026/02/photons-that-arent-actually-there-influence-superconductivity/",
+      "source": "Ars Technica",
+      "categories": [
+        "科技",
+        "技术",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 05:27:33",
+      "crawl_time": "2026-03-02T18:51:17.598604",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "a8931d3e2121",
+      "title": "Whoops: US military laser strike takes down CBP drone near Mexican border",
+      "url": "https://arstechnica.com/tech-policy/2026/02/whoops-us-military-laser-strike-takes-down-cbp-drone-near-mexican-border/",
+      "source": "Ars Technica",
+      "categories": [
+        "科技",
+        "技术",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 03:14:51",
+      "crawl_time": "2026-03-02T18:51:17.598640",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "e56b112c048f",
+      "title": "The AI apocalypse is nigh in Good Luck, Have Fun, Don't Die",
+      "url": "https://arstechnica.com/culture/2026/02/the-ai-apocalypse-is-nigh-in-good-luck-have-fun-dont-die/",
+      "source": "Ars Technica",
+      "categories": [
+        "科技",
+        "技术",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 03:04:23",
+      "crawl_time": "2026-03-02T18:51:17.598798",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "8f7a6dc17a72",
+      "title": "Hyperion author Dan Simmons dies from stroke at 77",
+      "url": "https://arstechnica.com/culture/2026/02/hyperion-author-dan-simmons-dies-from-stroke-at-77/",
+      "source": "Ars Technica",
+      "categories": [
+        "科技",
+        "技术",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 02:36:04",
+      "crawl_time": "2026-03-02T18:51:17.598872",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "beca0d866ef2",
+      "title": "How strong is New York's \"illegal gambling\" case against Valve's loot boxes?",
+      "url": "https://arstechnica.com/gaming/2026/02/how-strong-is-new-yorks-illegal-gambling-case-against-valves-loot-boxes/",
+      "source": "Ars Technica",
+      "categories": [
+        "科技",
+        "技术",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 01:21:21",
+      "crawl_time": "2026-03-02T18:51:17.599038",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "f10e22dabb35",
+      "title": "And the award for the most improved EV goes to... the 2026 Toyota bZ",
+      "url": "https://arstechnica.com/cars/2026/02/and-the-award-for-the-most-improved-ev-goes-to-the-2026-toyota-bz/",
+      "source": "Ars Technica",
+      "categories": [
+        "科技",
+        "技术",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 00:13:51",
+      "crawl_time": "2026-03-02T18:51:17.599091",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "dbbab612f653",
+      "title": "Netflix cedes Warner Bros. Discovery to Paramount: “No longer financially attractive”",
+      "url": "https://arstechnica.com/gadgets/2026/02/netflix-cedes-warner-bros-discovery-to-paramount-no-longer-financially-attractive/",
+      "source": "Ars Technica",
+      "categories": [
+        "科技",
+        "技术",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 23:13:48",
+      "crawl_time": "2026-03-02T18:51:17.599136",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "50ae0ed5ce01",
+      "title": "NASA shakes up its Artemis program to speed up lunar return",
+      "url": "https://arstechnica.com/space/2026/02/nasa-shakes-up-its-artemis-program-to-speed-up-lunar-return/",
+      "source": "Ars Technica",
+      "categories": [
+        "科技",
+        "技术",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 23:08:08",
+      "crawl_time": "2026-03-02T18:51:17.599183",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "7bfa1cdcc41f",
+      "title": "How to downgrade from macOS 26 Tahoe on a new Mac",
+      "url": "https://arstechnica.com/gadgets/2026/02/how-to-downgrade-from-macos-26-tahoe-on-a-new-mac/",
+      "source": "Ars Technica",
+      "categories": [
+        "科技",
+        "技术",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 22:34:45",
+      "crawl_time": "2026-03-02T18:51:17.599223",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "49e428fc2795",
+      "title": "Block lays off 40% of workforce as it goes all-in on AI tools",
+      "url": "https://arstechnica.com/ai/2026/02/block-lays-off-40-of-workforce-as-it-goes-all-in-on-ai-tools/",
+      "source": "Ars Technica",
+      "categories": [
+        "科技",
+        "技术",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 22:19:00",
+      "crawl_time": "2026-03-02T18:51:17.599274",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "80507660a618",
+      "title": "Apple says it has \"a big week ahead.\" Here's what we expect to see.",
+      "url": "https://arstechnica.com/gadgets/2026/02/what-new-hardware-to-expect-from-apple-next-week/",
+      "source": "Ars Technica",
+      "categories": [
+        "科技",
+        "技术",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 21:37:42",
+      "crawl_time": "2026-03-02T18:51:17.599308",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "bca2ca082219",
+      "title": "Rocket Report: Vulcan \"many months\" from flying; Falcon 9 extends reuse milestone",
+      "url": "https://arstechnica.com/space/2026/02/rocket-report-neutron-launch-date-is-delayed-again-vector-launch-is-back-sort-of/",
+      "source": "Ars Technica",
+      "categories": [
+        "科技",
+        "技术",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 20:00:13",
+      "crawl_time": "2026-03-02T18:51:17.599342",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "472f47d590c0",
+      "title": "Neanderthals seemed to have a thing for modern human women",
+      "url": "https://arstechnica.com/science/2026/02/genomes-chart-the-history-of-neanderthal-modern-human-interactions/",
+      "source": "Ars Technica",
+      "categories": [
+        "科技",
+        "技术",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 07:16:46",
+      "crawl_time": "2026-03-02T18:51:17.599383",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "eeae0a779159",
+      "title": "What if the real risk of AI isn’t deepfakes — but daily whispers?",
+      "url": "https://venturebeat.com/technology/what-if-the-real-risk-of-ai-isnt-deepfakes-but-daily-whispers",
+      "source": "VentureBeat",
+      "categories": [
+        "科技",
+        "AI",
+        "国际"
+      ],
+      "pub_date": "2026-03-01 19:00:00",
+      "crawl_time": "2026-03-02T18:51:18.549494",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "43ce49e324d3",
+      "title": "When AI lies: The rise of alignment faking in autonomous systems",
+      "url": "https://venturebeat.com/security/when-ai-lies-the-rise-of-alignment-faking-in-autonomous-systems",
+      "source": "VentureBeat",
+      "categories": [
+        "科技",
+        "AI",
+        "国际"
+      ],
+      "pub_date": "2026-03-01 19:00:00",
+      "crawl_time": "2026-03-02T18:51:18.549574",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "3fc74f4c9eef",
+      "title": "Vibe coding with overeager AI: Lessons learned from treating Google AI Studio like a teammate",
+      "url": "https://venturebeat.com/orchestration/vibe-coding-with-overeager-ai-lessons-learned-from-treating-google-ai-studio",
+      "source": "VentureBeat",
+      "categories": [
+        "科技",
+        "AI",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 08:00:00",
+      "crawl_time": "2026-03-02T18:51:18.549616",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "Google"
+        ],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "e0d1b6ed26d2",
+      "title": "Anthropic vs. The Pentagon: what enterprises should do",
+      "url": "https://venturebeat.com/technology/anthropic-vs-the-pentagon-what-enterprises-should-do",
+      "source": "VentureBeat",
+      "categories": [
+        "科技",
+        "AI",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 06:16:00",
+      "crawl_time": "2026-03-02T18:51:18.549651",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "1fb769210167",
+      "title": "Google's Opal just quietly showed enterprise teams the new blueprint for building AI agents",
+      "url": "https://venturebeat.com/technology/googles-opal-just-quietly-showed-enterprise-teams-the-new-blueprint-for",
+      "source": "VentureBeat",
+      "categories": [
+        "科技",
+        "AI",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 23:25:00",
+      "crawl_time": "2026-03-02T18:51:18.549684",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "Google"
+        ],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "ebd62955cf54",
+      "title": "OpenAI's big investment from Amazon comes with something else: new 'stateful' architecture for enterprise agents",
+      "url": "https://venturebeat.com/orchestration/openais-big-investment-from-aws-comes-with-something-else-new-stateful",
+      "source": "VentureBeat",
+      "categories": [
+        "科技",
+        "AI",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 23:16:00",
+      "crawl_time": "2026-03-02T18:51:18.549803",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "OpenAI"
+        ],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "49f5c269430c",
+      "title": "Enterprise MCP adoption is outpacing security controls",
+      "url": "https://venturebeat.com/security/enterprise-mcp-adoption-is-outpacing-security-controls",
+      "source": "VentureBeat",
+      "categories": [
+        "科技",
+        "AI",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 19:00:00",
+      "crawl_time": "2026-03-02T18:51:18.549861",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "975e0eeec1ee",
+      "title": "MIT Technology Review is a 2026 ASME finalist in reporting",
+      "url": "https://www.technologyreview.com/2026/02/27/1133769/asme-finalist-reporting/",
+      "source": "MIT Tech Review",
+      "categories": [
+        "科技",
+        "研究",
+        "国际"
+      ],
+      "pub_date": "2026-02-28 05:41:31",
+      "crawl_time": "2026-03-02T18:51:19.647087",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "676d5bc566b6",
+      "title": "The Download: how AI is shaking up Go, and a cybersecurity mystery",
+      "url": "https://www.technologyreview.com/2026/02/27/1133754/the-download-how-ai-is-shaking-up-go-and-a-cybersecurity-mystery/",
+      "source": "MIT Tech Review",
+      "categories": [
+        "科技",
+        "研究",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 21:10:00",
+      "crawl_time": "2026-03-02T18:51:19.647157",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "5683c983cba0",
+      "title": "AI is rewiring how the world’s best Go players think",
+      "url": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
+      "source": "MIT Tech Review",
+      "categories": [
+        "科技",
+        "研究",
+        "国际"
+      ],
+      "pub_date": "2026-02-27 18:00:00",
+      "crawl_time": "2026-03-02T18:51:19.647215",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "afa77996018f",
+      "title": "Finding value with AI and Industry 5.0 transformation",
+      "url": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/",
+      "source": "MIT Tech Review",
+      "categories": [
+        "科技",
+        "研究",
+        "国际"
+      ],
+      "pub_date": "2026-02-26 23:00:59",
+      "crawl_time": "2026-03-02T18:51:19.647283",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "923386a21f9f",
+      "title": "The Download: how America lost its lead in the hunt for alien life, and ambitious battery claims",
+      "url": "https://www.technologyreview.com/2026/02/26/1133734/the-download-how-america-lost-its-lead-in-the-hunt-for-alien-life-and-ambitious-battery-claims/",
+      "source": "MIT Tech Review",
+      "categories": [
+        "科技",
+        "研究",
+        "国际"
+      ],
+      "pub_date": "2026-02-26 21:10:00",
+      "crawl_time": "2026-03-02T18:51:19.647339",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "7a03025235cf",
+      "title": "This company claims a battery breakthrough. Now they need to prove it.",
+      "url": "https://www.technologyreview.com/2026/02/26/1133722/solid-state-batteries-donut-lab/",
+      "source": "MIT Tech Review",
+      "categories": [
+        "科技",
+        "研究",
+        "国际"
+      ],
+      "pub_date": "2026-02-26 19:00:00",
+      "crawl_time": "2026-03-02T18:51:19.647387",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "0be33aab6454",
+      "title": "America was winning the race to find Martian life. Then China jumped in.",
+      "url": "https://www.technologyreview.com/2026/02/26/1133584/america-china-mars-sample-return-space-race-nasa/",
+      "source": "MIT Tech Review",
+      "categories": [
+        "科技",
+        "研究",
+        "国际"
+      ],
+      "pub_date": "2026-02-26 18:00:00",
+      "crawl_time": "2026-03-02T18:51:19.647422",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "e40a3ccaa598",
+      "title": "Roundtables: Why 2026 Is the Year for Sodium-Ion Batteries",
+      "url": "https://www.technologyreview.com/2026/02/25/1132873/roundtables-why-2026-is-the-year-for-sodium-ion-batteries/",
+      "source": "MIT Tech Review",
+      "categories": [
+        "科技",
+        "研究",
+        "国际"
+      ],
+      "pub_date": "2026-02-26 05:15:27",
+      "crawl_time": "2026-03-02T18:51:19.647456",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "9651950cc247",
+      "title": "The Download: introducing the Crime issue",
+      "url": "https://www.technologyreview.com/2026/02/25/1133653/the-download-introducing-the-crime-issue/",
+      "source": "MIT Tech Review",
+      "categories": [
+        "科技",
+        "研究",
+        "国际"
+      ],
+      "pub_date": "2026-02-25 21:10:00",
+      "crawl_time": "2026-03-02T18:51:19.647685",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "6d7d62b4f02c",
+      "title": "Listen to Earth’s rumbling, secret soundtrack",
+      "url": "https://www.technologyreview.com/2026/02/25/1132829/listen-earths-rumbling-secret-soundtrack/",
+      "source": "MIT Tech Review",
+      "categories": [
+        "科技",
+        "研究",
+        "国际"
+      ],
+      "pub_date": "2026-02-25 19:00:00",
+      "crawl_time": "2026-03-02T18:51:19.647970",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "859ff442f955",
+      "title": "Jolla phone – a full-stack European alternative",
+      "url": "https://commerce.jolla.com/products/jolla-phone-sept-26",
+      "source": "Hacker News",
+      "categories": [
+        "技术",
+        "开源",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 18:21:24",
+      "crawl_time": "2026-03-02T18:51:21.725898",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "fccea25f9fa4",
+      "title": "AWS data center hit by Iran",
+      "url": "https://www.reuters.com/world/middle-east/amazons-cloud-unit-reports-fire-after-objects-hit-uae-data-center-2026-03-01/",
+      "source": "Hacker News",
+      "categories": [
+        "技术",
+        "开源",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 18:02:38",
+      "crawl_time": "2026-03-02T18:51:21.726102",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "6d6067ffa5fe",
+      "title": "Ask HN: How are you all staying sane?",
+      "url": "https://news.ycombinator.com/item?id=47215569",
+      "source": "Hacker News",
+      "categories": [
+        "技术",
+        "开源",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 17:20:51",
+      "crawl_time": "2026-03-02T18:51:21.726150",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "b2614fc3319d",
+      "title": "/e/OS is a complete \"deGoogled\", mobile ecosystem",
+      "url": "https://e.foundation/e-os/",
+      "source": "Hacker News",
+      "categories": [
+        "技术",
+        "开源",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 17:09:44",
+      "crawl_time": "2026-03-02T18:51:21.726188",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [
+          "Google"
+        ],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "d03c2e2a31e6",
+      "title": "Show HN: Omni – Open-source workplace search and chat, built on Postgres",
+      "url": "https://github.com/getomnico/omni",
+      "source": "Hacker News",
+      "categories": [
+        "技术",
+        "开源",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 16:58:14",
+      "crawl_time": "2026-03-02T18:51:21.726235",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "5a0dc2c03e5b",
+      "title": "How to talk to anyone and why you should",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
+      "source": "Hacker News",
+      "categories": [
+        "技术",
+        "开源",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 15:30:12",
+      "crawl_time": "2026-03-02T18:51:21.726323",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "3d4e69a3ec0d",
+      "title": "Motorola announces a partnership with GrapheneOS Foundation",
+      "url": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
+      "source": "Hacker News",
+      "categories": [
+        "技术",
+        "开源",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 14:48:07",
+      "crawl_time": "2026-03-02T18:51:21.726367",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "b2db5ff739a7",
+      "title": "An interactive intro to Elliptic Curve Cryptography",
+      "url": "https://growingswe.com/blog/elliptic-curve-cryptography",
+      "source": "Hacker News",
+      "categories": [
+        "技术",
+        "开源",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 13:59:03",
+      "crawl_time": "2026-03-02T18:51:21.726403",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "2524d0cd3080",
+      "title": "Evolving descriptive text of mental content from human brain activity",
+      "url": "https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts",
+      "source": "Hacker News",
+      "categories": [
+        "技术",
+        "开源",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 13:39:36",
+      "crawl_time": "2026-03-02T18:51:21.726438",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "8f399721ad78",
+      "title": "Process-Based Concurrency: Why Beam and OTP Keep Being Right",
+      "url": "https://variantsystems.io/blog/beam-otp-process-concurrency",
+      "source": "Hacker News",
+      "categories": [
+        "技术",
+        "开源",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 13:01:08",
+      "crawl_time": "2026-03-02T18:51:21.726471",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "4fdac65c128e",
+      "title": "Computer-generated dream world: Virtual reality for a 286 processor",
+      "url": "https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/",
+      "source": "Hacker News",
+      "categories": [
+        "技术",
+        "开源",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 12:23:53",
+      "crawl_time": "2026-03-02T18:51:21.726505",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "6ace04698e23",
+      "title": "How to record and retrieve anything you've ever had to look up twice",
+      "url": "https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase",
+      "source": "Hacker News",
+      "categories": [
+        "技术",
+        "开源",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 12:15:16",
+      "crawl_time": "2026-03-02T18:51:21.726544",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "24524222add2",
+      "title": "Everett shuts down Flock camera network after judge rules footage public record",
+      "url": "https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae",
+      "source": "Hacker News",
+      "categories": [
+        "技术",
+        "开源",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 12:06:00",
+      "crawl_time": "2026-03-02T18:51:21.726598",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "bddacf9662cf",
+      "title": "Show HN: Timber – Ollama for classical ML models, 336x faster than Python",
+      "url": "https://github.com/kossisoroyce/timber",
+      "source": "Hacker News",
+      "categories": [
+        "技术",
+        "开源",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 08:57:40",
+      "crawl_time": "2026-03-02T18:51:21.726637",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "f14b0aad8363",
+      "title": "If AI writes code, should the session be part of the commit?",
+      "url": "https://github.com/mandel-macaque/memento",
+      "source": "Hacker News",
+      "categories": [
+        "技术",
+        "开源",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 08:27:52",
+      "crawl_time": "2026-03-02T18:51:21.726672",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "d539e1e56a59",
+      "title": "Right-sizes LLM models to your system's RAM, CPU, and GPU",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "source": "Hacker News",
+      "categories": [
+        "技术",
+        "开源",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 07:15:16",
+      "crawl_time": "2026-03-02T18:51:21.726802",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "GPU",
+          "LLM"
+        ]
+      }
+    },
+    {
+      "id": "ef696ee04cdc",
+      "title": "Little Free Library",
+      "url": "https://littlefreelibrary.org/",
+      "source": "Hacker News",
+      "categories": [
+        "技术",
+        "开源",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 06:18:10",
+      "crawl_time": "2026-03-02T18:51:21.726840",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "fe83d393ae7b",
+      "title": "WebMCP is available for early preview",
+      "url": "https://developer.chrome.com/blog/webmcp-epp",
+      "source": "Hacker News",
+      "categories": [
+        "技术",
+        "开源",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 06:13:58",
+      "crawl_time": "2026-03-02T18:51:21.726872",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "f7f14bf53252",
+      "title": "Why does C have the best file API",
+      "url": "https://maurycyz.com/misc/c_files/",
+      "source": "Hacker News",
+      "categories": [
+        "技术",
+        "开源",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 03:25:04",
+      "crawl_time": "2026-03-02T18:51:21.726904",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "c41172612095",
+      "title": "When does MCP make sense vs CLI?",
+      "url": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
+      "source": "Hacker News",
+      "categories": [
+        "技术",
+        "开源",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 00:54:49",
+      "crawl_time": "2026-03-02T18:51:21.726935",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "5d4dbb0db4ff",
+      "title": "University Voting System (Blockchain Based)",
+      "url": "https://dev.to/sazid_ahmed_bappi/university-voting-system-blockchain-based-1k8j",
+      "source": "Dev.to",
+      "categories": [
+        "技术",
+        "开发",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 18:36:21",
+      "crawl_time": "2026-03-02T18:51:22.719493",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "aac11f24d7e4",
+      "title": "We Built an Open Protocol So AI Agents Can Actually See Your Screen",
+      "url": "https://dev.to/k4cper-g/we-built-an-open-protocol-so-ai-agents-can-actually-see-your-screen-55aj",
+      "source": "Dev.to",
+      "categories": [
+        "技术",
+        "开发",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 18:35:26",
+      "crawl_time": "2026-03-02T18:51:22.719560",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "2e17259a6d07",
+      "title": "How to Use Docker with Python",
+      "url": "https://dev.to/masteringbackend/how-to-use-docker-with-python-43bi",
+      "source": "Dev.to",
+      "categories": [
+        "技术",
+        "开发",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 18:30:00",
+      "crawl_time": "2026-03-02T18:51:22.719600",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "09e5db84c229",
+      "title": "I replaced my agents markdown memory with a semantic graph",
+      "url": "https://dev.to/eahm60/i-replaced-my-agents-markdown-memory-with-a-semantic-graph-1elp",
+      "source": "Dev.to",
+      "categories": [
+        "技术",
+        "开发",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 18:26:08",
+      "crawl_time": "2026-03-02T18:51:22.719638",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "9d1f965a4fe1",
+      "title": "Kairos",
+      "url": "https://dev.to/bishalsunuwar202/kairos-5da2",
+      "source": "Dev.to",
+      "categories": [
+        "技术",
+        "开发",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 18:24:46",
+      "crawl_time": "2026-03-02T18:51:22.719671",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "7500fd0cd091",
+      "title": "I Built a CLI That Gives Your LLM Accurate Library Docs — No MCP Server Needed",
+      "url": "https://dev.to/vedanthb/i-built-a-cli-that-gives-your-llm-accurate-library-docs-no-mcp-server-needed-47g",
+      "source": "Dev.to",
+      "categories": [
+        "技术",
+        "开发",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 18:23:24",
+      "crawl_time": "2026-03-02T18:51:22.719842",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "LLM"
+        ]
+      }
+    },
+    {
+      "id": "f59e28cd13da",
+      "title": "Why Modern AI Models Sound More “Explanatory”",
+      "url": "https://dev.to/kato_masato_c5593c81af5c6/why-modern-ai-models-sound-more-explanatory-51h9",
+      "source": "Dev.to",
+      "categories": [
+        "技术",
+        "开发",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 18:20:44",
+      "crawl_time": "2026-03-02T18:51:22.719885",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": [
+          "AI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "id": "b337183036dd",
+      "title": "Missing My Coworker Jason Today",
+      "url": "https://dev.to/art_light/missing-my-coworker-jason-today-23h3",
+      "source": "Dev.to",
+      "categories": [
+        "技术",
+        "开发",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 18:17:25",
+      "crawl_time": "2026-03-02T18:51:22.719919",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "ded71057cdd0",
+      "title": "Control Gemini with Just a URL. The Chrome Extension \"Send to Gemini\" Is Incredibly Useful",
+      "url": "https://dev.to/takoyaki1/control-gemini-with-just-a-url-the-chrome-extension-send-to-gemini-is-incredibly-useful-b8d",
+      "source": "Dev.to",
+      "categories": [
+        "技术",
+        "开发",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 18:17:11",
+      "crawl_time": "2026-03-02T18:51:22.719955",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "d623a5fa3659",
+      "title": "Solved: Trying to expand my business from abroad into the States. Any pointers?",
+      "url": "https://dev.to/techresolve/solved-trying-to-expand-my-business-from-abroad-into-the-states-any-pointers-4d69",
+      "source": "Dev.to",
+      "categories": [
+        "技术",
+        "开发",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 18:14:26",
+      "crawl_time": "2026-03-02T18:51:22.719991",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "4d11ae9204ec",
+      "title": "3 Vite Tricks I Wish I Knew When I Started",
+      "url": "https://dev.to/bishoy_bishai/3-vite-tricks-i-wish-i-knew-when-i-started-m64",
+      "source": "Dev.to",
+      "categories": [
+        "技术",
+        "开发",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 18:12:47",
+      "crawl_time": "2026-03-02T18:51:22.720025",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    },
+    {
+      "id": "aef530cdf414",
+      "title": "How CloudFront Delivers Traffic to AWS Workloads",
+      "url": "https://dev.to/irfansatrio/how-cloudfront-delivers-traffic-to-aws-workloads-3m38",
+      "source": "Dev.to",
+      "categories": [
+        "技术",
+        "开发",
+        "国际"
+      ],
+      "pub_date": "2026-03-02 18:11:28",
+      "crawl_time": "2026-03-02T18:51:22.720076",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "companies": [],
+        "products": [],
+        "technologies": []
+      }
+    }
+  ]
+}
