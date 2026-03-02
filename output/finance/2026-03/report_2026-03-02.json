@@ -1,21 +1,22 @@
 {
   "date": "2026-03-02",
+  "date_range": 3,
   "type": "finance",
   "analysis": {
     "total": 245,
     "signal_stats": {
-      "bullish": 27,
-      "bearish": 7,
-      "neutral": 211
+      "bullish": 28,
+      "bearish": 5,
+      "neutral": 212
     },
     "source_stats": {
       "新浪财经": 7,
       "东方财富": 21,
-      "证券时报": 65,
+      "证券时报": 68,
       "第一财经": 1,
       "财新网": 20,
-      "21世纪经济报道": 39,
-      "经济观察报": 27,
+      "21世纪经济报道": 37,
+      "经济观察报": 26,
       "CNBC": 30,
       "MarketWatch": 10,
       "OilPrice": 15,
@@ -23,13 +24,13 @@
     },
     "category_stats": {
       "宏观": 189,
-      "股市": 163,
+      "股市": 164,
       "期货": 28,
       "基金": 21,
-      "政策": 65,
+      "政策": 68,
       "国际": 31,
       "金融": 20,
-      "产业": 86,
+      "产业": 83,
       "美股": 10,
       "数据": 20,
       "能源": 15,
@@ -38,15 +39,20 @@
       "外汇": 10
     },
     "entity_stats": {
-      "AI": 11,
-      "银行": 4,
+      "储能": 1,
+      "AI": 12,
+      "银行": 5,
       "上证指数": 3,
       "宁德时代": 1,
-      "券商": 3,
+      "券商": 4,
       "芯片": 1,
-      "汽车": 1,
+      "汽车": 2,
       "OpenAI": 2,
+      "比亚迪": 1,
       "阿里": 1
+    },
+    "date_stats": {
+      "2026-03-02": 245
     },
     "sentiment": "中性 ➖"
   },
@@ -62,7 +68,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:23.613411",
+      "crawl_time": "2026-03-02T19:19:40.619643",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -88,7 +94,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:23.613800",
+      "crawl_time": "2026-03-02T19:19:40.620054",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -114,7 +120,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:23.614161",
+      "crawl_time": "2026-03-02T19:19:40.620259",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -140,7 +146,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:23.614313",
+      "crawl_time": "2026-03-02T19:19:40.620341",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -166,7 +172,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:23.614341",
+      "crawl_time": "2026-03-02T19:19:40.620358",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -192,7 +198,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:23.615000",
+      "crawl_time": "2026-03-02T19:19:40.620820",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -218,7 +224,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:23.615082",
+      "crawl_time": "2026-03-02T19:19:40.621033",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -244,7 +250,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:24.627995",
+      "crawl_time": "2026-03-02T19:19:41.384394",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -270,7 +276,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:24.628015",
+      "crawl_time": "2026-03-02T19:19:41.384532",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -296,7 +302,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:24.628042",
+      "crawl_time": "2026-03-02T19:19:41.384586",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -322,7 +328,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:24.628054",
+      "crawl_time": "2026-03-02T19:19:41.384620",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -348,7 +354,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:24.628068",
+      "crawl_time": "2026-03-02T19:19:41.384644",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -374,7 +380,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:24.628174",
+      "crawl_time": "2026-03-02T19:19:41.384886",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -400,7 +406,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:24.628198",
+      "crawl_time": "2026-03-02T19:19:41.384920",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -426,7 +432,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:24.628220",
+      "crawl_time": "2026-03-02T19:19:41.384943",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -452,7 +458,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:24.628265",
+      "crawl_time": "2026-03-02T19:19:41.384989",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -478,7 +484,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:24.628517",
+      "crawl_time": "2026-03-02T19:19:41.385161",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -504,7 +510,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:24.628814",
+      "crawl_time": "2026-03-02T19:19:41.385461",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -530,7 +536,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:24.629086",
+      "crawl_time": "2026-03-02T19:19:41.385647",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -556,7 +562,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:24.629128",
+      "crawl_time": "2026-03-02T19:19:41.385690",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -582,7 +588,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:24.629147",
+      "crawl_time": "2026-03-02T19:19:41.385868",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -608,7 +614,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:24.629187",
+      "crawl_time": "2026-03-02T19:19:41.385911",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -634,7 +640,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:24.629203",
+      "crawl_time": "2026-03-02T19:19:41.385933",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -660,7 +666,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:24.629216",
+      "crawl_time": "2026-03-02T19:19:41.385953",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -686,7 +692,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:24.629271",
+      "crawl_time": "2026-03-02T19:19:41.386012",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -712,7 +718,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:24.629331",
+      "crawl_time": "2026-03-02T19:19:41.386075",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -738,7 +744,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:24.629353",
+      "crawl_time": "2026-03-02T19:19:41.386097",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -764,7 +770,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:24.629368",
+      "crawl_time": "2026-03-02T19:19:41.386110",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -790,7 +796,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.460449",
+      "crawl_time": "2026-03-02T19:19:45.633177",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -806,9 +812,9 @@
       }
     },
     {
-      "id": "03de30e74480",
-      "title": "华峰测控：股东解除一致行动人协议 公司变更为无实控人",
-      "url": "https://www.stcn.com/article/detail/3657442.html",
+      "id": "bbe4442c67be",
+      "title": "金时科技：拟约5亿元投建独立储能电站项目",
+      "url": "https://www.stcn.com/article/detail/3657644.html",
       "source": "证券时报",
       "categories": [
         "股市",
@@ -816,7 +822,35 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.461291",
+      "crawl_time": "2026-03-02T19:19:45.633534",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [
+          "储能"
+        ],
+        "indices": []
+      }
+    },
+    {
+      "id": "006eb0c0d8ba",
+      "title": "天华新能：筹划发行H股股票并在港交所上市",
+      "url": "https://www.stcn.com/article/detail/3657641.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T19:19:45.633551",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -832,9 +866,9 @@
       }
     },
     {
-      "id": "575d879fdde1",
-      "title": "欧洲天然气价格涨超20%",
-      "url": "https://www.stcn.com/article/detail/3657434.html",
+      "id": "cb26ebe637b7",
+      "title": "洁美科技：筹划购买埃福思100%股权 股票3日起停牌",
+      "url": "https://www.stcn.com/article/detail/3657625.html",
       "source": "证券时报",
       "categories": [
         "股市",
@@ -842,7 +876,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.461392",
+      "crawl_time": "2026-03-02T19:19:45.633662",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -858,9 +892,9 @@
       }
     },
     {
-      "id": "690b649f4a71",
-      "title": "盛和资源：股东王全根拟减持公司不超1%股份",
-      "url": "https://www.stcn.com/article/detail/3657428.html",
+      "id": "33004d5e7a1c",
+      "title": "高能环境：控股股东拟减持公司不超3%股份",
+      "url": "https://www.stcn.com/article/detail/3657619.html",
       "source": "证券时报",
       "categories": [
         "股市",
@@ -868,13 +902,39 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.461467",
+      "crawl_time": "2026-03-02T19:19:45.633675",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
         "bearish": 1,
         "neutral": 0,
         "overall": "bearish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      }
+    },
+    {
+      "id": "3b5b356eb9fc",
+      "title": "伊朗首都德黑兰遭袭 市中心发生爆炸",
+      "url": "https://www.stcn.com/article/detail/3657467.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T19:19:45.633777",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
       },
       "entities": {
         "stocks": [],
@@ -894,7 +954,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.461481",
+      "crawl_time": "2026-03-02T19:19:45.633902",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 2,
@@ -920,7 +980,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.461496",
+      "crawl_time": "2026-03-02T19:19:45.633920",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -936,9 +996,9 @@
       }
     },
     {
-      "id": "a4b76ff25f00",
-      "title": "触发熔断！这国股市，突然暴跌！刚刚，伊朗强硬表态！",
-      "url": "https://www.stcn.com/article/detail/3656892.html",
+      "id": "b90f81ff630b",
+      "title": "以色列股市大涨，欧股普跌！",
+      "url": "https://www.stcn.com/article/detail/3657263.html",
       "source": "证券时报",
       "categories": [
         "股市",
@@ -946,13 +1006,13 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.461509",
+      "crawl_time": "2026-03-02T19:19:45.633934",
       "date": "2026-03-02",
       "market_signal": {
-        "bullish": 0,
-        "bearish": 1,
+        "bullish": 1,
+        "bearish": 0,
         "neutral": 0,
-        "overall": "bearish"
+        "overall": "bullish"
       },
       "entities": {
         "stocks": [],
@@ -972,7 +1032,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.461546",
+      "crawl_time": "2026-03-02T19:19:45.633979",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -990,6 +1050,58 @@
       }
     },
     {
+      "id": "f7d9fcd2f586",
+      "title": "战火波及，这国宣布股市休市2天！亚马逊突传利空",
+      "url": "https://www.stcn.com/article/detail/3657459.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T19:19:45.634015",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 1,
+        "neutral": 0,
+        "overall": "bearish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      }
+    },
+    {
+      "id": "e3c3ec2dc995",
+      "title": "东方证券发布董事会决议公告 选举周磊为公司董事长",
+      "url": "https://www.stcn.com/article/detail/3657457.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T19:19:45.634028",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      }
+    },
+    {
       "id": "2d7b705be5b6",
       "title": "石油基金LOF：将于3月3日开市起至当日10:30停牌",
       "url": "https://www.stcn.com/article/detail/3657407.html",
@@ -1000,7 +1112,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.461581",
+      "crawl_time": "2026-03-02T19:19:45.634047",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1026,7 +1138,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.461631",
+      "crawl_time": "2026-03-02T19:19:45.634081",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1052,7 +1164,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.461674",
+      "crawl_time": "2026-03-02T19:19:45.634118",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -1078,7 +1190,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.461687",
+      "crawl_time": "2026-03-02T19:19:45.634131",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -1104,7 +1216,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.461789",
+      "crawl_time": "2026-03-02T19:19:45.634172",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1130,7 +1242,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.461804",
+      "crawl_time": "2026-03-02T19:19:45.634186",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1156,33 +1268,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.461818",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      }
-    },
-    {
-      "id": "d8218ea4a463",
-      "title": "法治体系更趋完善 代表委员共绘金融监管新图景",
-      "url": "https://www.stcn.com/article/detail/3655956.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.461873",
+      "crawl_time": "2026-03-02T19:19:45.634199",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1208,7 +1294,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.461934",
+      "crawl_time": "2026-03-02T19:19:45.634307",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1234,7 +1320,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.461959",
+      "crawl_time": "2026-03-02T19:19:45.634326",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1260,7 +1346,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462041",
+      "crawl_time": "2026-03-02T19:19:45.634380",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1286,7 +1372,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462062",
+      "crawl_time": "2026-03-02T19:19:45.634393",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1312,7 +1398,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462103",
+      "crawl_time": "2026-03-02T19:19:45.634432",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1338,7 +1424,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462149",
+      "crawl_time": "2026-03-02T19:19:45.634480",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -1364,7 +1450,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462195",
+      "crawl_time": "2026-03-02T19:19:45.634515",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1390,7 +1476,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462209",
+      "crawl_time": "2026-03-02T19:19:45.634529",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1416,7 +1502,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462225",
+      "crawl_time": "2026-03-02T19:19:45.634542",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1446,7 +1532,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462253",
+      "crawl_time": "2026-03-02T19:19:45.634560",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1472,7 +1558,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462270",
+      "crawl_time": "2026-03-02T19:19:45.634572",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -1498,7 +1584,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462289",
+      "crawl_time": "2026-03-02T19:19:45.634592",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -1524,7 +1610,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462303",
+      "crawl_time": "2026-03-02T19:19:45.634605",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1552,7 +1638,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462379",
+      "crawl_time": "2026-03-02T19:19:45.634726",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 2,
@@ -1578,7 +1664,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462440",
+      "crawl_time": "2026-03-02T19:19:45.634811",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1606,7 +1692,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462460",
+      "crawl_time": "2026-03-02T19:19:45.634943",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1632,7 +1718,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462497",
+      "crawl_time": "2026-03-02T19:19:45.635029",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1658,7 +1744,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462512",
+      "crawl_time": "2026-03-02T19:19:45.635053",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1684,7 +1770,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462525",
+      "crawl_time": "2026-03-02T19:19:45.635074",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1710,7 +1796,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462537",
+      "crawl_time": "2026-03-02T19:19:45.635094",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -1736,7 +1822,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462550",
+      "crawl_time": "2026-03-02T19:19:45.635117",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1762,7 +1848,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462562",
+      "crawl_time": "2026-03-02T19:19:45.635132",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1788,7 +1874,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462581",
+      "crawl_time": "2026-03-02T19:19:45.635154",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1814,7 +1900,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462612",
+      "crawl_time": "2026-03-02T19:19:45.635188",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1840,7 +1926,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462627",
+      "crawl_time": "2026-03-02T19:19:45.635203",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1866,7 +1952,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462640",
+      "crawl_time": "2026-03-02T19:19:45.635217",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1892,7 +1978,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462683",
+      "crawl_time": "2026-03-02T19:19:45.635310",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1918,7 +2004,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462800",
+      "crawl_time": "2026-03-02T19:19:45.635352",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1944,7 +2030,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462834",
+      "crawl_time": "2026-03-02T19:19:45.635388",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1970,7 +2056,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462867",
+      "crawl_time": "2026-03-02T19:19:45.635424",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1996,7 +2082,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462881",
+      "crawl_time": "2026-03-02T19:19:45.635438",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -2024,7 +2110,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462923",
+      "crawl_time": "2026-03-02T19:19:45.635481",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -2050,7 +2136,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462944",
+      "crawl_time": "2026-03-02T19:19:45.635499",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -2078,7 +2164,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.462989",
+      "crawl_time": "2026-03-02T19:19:45.635543",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2104,7 +2190,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.463012",
+      "crawl_time": "2026-03-02T19:19:45.635567",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2130,7 +2216,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.463079",
+      "crawl_time": "2026-03-02T19:19:45.635634",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2156,7 +2242,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.463092",
+      "crawl_time": "2026-03-02T19:19:45.635649",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2182,7 +2268,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.463112",
+      "crawl_time": "2026-03-02T19:19:45.635668",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2208,7 +2294,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.463125",
+      "crawl_time": "2026-03-02T19:19:45.635681",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2234,7 +2320,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.463177",
+      "crawl_time": "2026-03-02T19:19:45.635775",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2260,7 +2346,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.463194",
+      "crawl_time": "2026-03-02T19:19:45.635803",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2288,7 +2374,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.463210",
+      "crawl_time": "2026-03-02T19:19:45.635827",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2314,7 +2400,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.463245",
+      "crawl_time": "2026-03-02T19:19:45.635865",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2340,7 +2426,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.464335",
+      "crawl_time": "2026-03-02T19:19:45.636064",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2366,7 +2452,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.465117",
+      "crawl_time": "2026-03-02T19:19:45.636164",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2392,7 +2478,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.465136",
+      "crawl_time": "2026-03-02T19:19:45.636186",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2418,7 +2504,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.465185",
+      "crawl_time": "2026-03-02T19:19:45.636240",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2446,7 +2532,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.465208",
+      "crawl_time": "2026-03-02T19:19:45.636295",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2472,7 +2558,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:26.465223",
+      "crawl_time": "2026-03-02T19:19:45.636310",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2500,7 +2586,7 @@
         "国际"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:27.104378",
+      "crawl_time": "2026-03-02T19:19:46.462261",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -2528,7 +2614,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:27.692093",
+      "crawl_time": "2026-03-02T19:19:47.182477",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2554,7 +2640,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:27.692147",
+      "crawl_time": "2026-03-02T19:19:47.182511",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2580,7 +2666,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:27.692180",
+      "crawl_time": "2026-03-02T19:19:47.182528",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2606,7 +2692,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:27.692220",
+      "crawl_time": "2026-03-02T19:19:47.182567",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2634,7 +2720,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:27.692236",
+      "crawl_time": "2026-03-02T19:19:47.182581",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2660,7 +2746,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:27.692249",
+      "crawl_time": "2026-03-02T19:19:47.182595",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2686,7 +2772,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:27.693320",
+      "crawl_time": "2026-03-02T19:19:47.182657",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2712,7 +2798,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:27.693359",
+      "crawl_time": "2026-03-02T19:19:47.182675",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -2738,7 +2824,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:27.693405",
+      "crawl_time": "2026-03-02T19:19:47.182815",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -2766,7 +2852,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:27.693449",
+      "crawl_time": "2026-03-02T19:19:47.182884",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2792,7 +2878,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:27.693465",
+      "crawl_time": "2026-03-02T19:19:47.182904",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2812,6 +2898,110 @@
       }
     },
     {
+      "id": "ee3e2927a344",
+      "title": "美以联合突袭伊朗！德黑兰市中心总统府等约30个目标遭袭",
+      "url": "https://photos.caixin.com/2026-02-28/102417872.html",
+      "source": "财新网",
+      "categories": [
+        "宏观",
+        "金融",
+        "产业"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T19:19:47.183095",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      }
+    },
+    {
+      "id": "0b8f6edb42cf",
+      "title": "最新财新周刊·显影",
+      "url": "https://weekly.caixin.com/2026/cw1195/",
+      "source": "财新网",
+      "categories": [
+        "宏观",
+        "金融",
+        "产业"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T19:19:47.183280",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      }
+    },
+    {
+      "id": "4a675bea8094",
+      "title": "财新mini+",
+      "url": "http://mini.caixin.com",
+      "source": "财新网",
+      "categories": [
+        "宏观",
+        "金融",
+        "产业"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T19:19:47.183401",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      }
+    },
+    {
+      "id": "442f675b3e10",
+      "title": "财新闻｜以色列总理：未来几天对伊朗打击力度会进一步加强",
+      "url": "https://mini.caixin.com/2026-03-02/102418438.html",
+      "source": "财新网",
+      "categories": [
+        "宏观",
+        "金融",
+        "产业"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T19:19:47.183421",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      }
+    },
+    {
       "id": "650a1b3476ac",
       "title": "今日开盘：两市双双低开 沪指跌幅0.27%",
       "url": "https://finance.caixin.com/2026-03-02/102418452.html",
@@ -2822,7 +3012,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:27.693489",
+      "crawl_time": "2026-03-02T19:19:47.183508",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2850,117 +3040,13 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:27.693504",
+      "crawl_time": "2026-03-02T19:19:47.183528",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
         "bearish": 0,
         "neutral": 0,
         "overall": "bullish"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      }
-    },
-    {
-      "id": "ee3e2927a344",
-      "title": "美以联合突袭伊朗！德黑兰市中心总统府等约30个目标遭袭",
-      "url": "https://photos.caixin.com/2026-02-28/102417872.html",
-      "source": "财新网",
-      "categories": [
-        "宏观",
-        "金融",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:27.693608",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      }
-    },
-    {
-      "id": "0b8f6edb42cf",
-      "title": "最新财新周刊·显影",
-      "url": "https://weekly.caixin.com/2026/cw1195/",
-      "source": "财新网",
-      "categories": [
-        "宏观",
-        "金融",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:27.694042",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      }
-    },
-    {
-      "id": "4a675bea8094",
-      "title": "财新mini+",
-      "url": "http://mini.caixin.com",
-      "source": "财新网",
-      "categories": [
-        "宏观",
-        "金融",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:27.694152",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      }
-    },
-    {
-      "id": "442f675b3e10",
-      "title": "财新闻｜以色列总理：未来几天对伊朗打击力度会进一步加强",
-      "url": "https://mini.caixin.com/2026-03-02/102418438.html",
-      "source": "财新网",
-      "categories": [
-        "宏观",
-        "金融",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:27.694177",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
       },
       "entities": {
         "stocks": [],
@@ -2980,7 +3066,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:27.694420",
+      "crawl_time": "2026-03-02T19:19:47.183617",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3006,7 +3092,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:27.694435",
+      "crawl_time": "2026-03-02T19:19:47.183631",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3032,7 +3118,33 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:27.694594",
+      "crawl_time": "2026-03-02T19:19:47.183669",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      }
+    },
+    {
+      "id": "26a7e6d28f63",
+      "title": "\"三桶油\"集体涨停创历史！28股涨停，石油石化板块还能追吗？",
+      "url": "https://www.21jingji.com/article/20260302/herald/da2b03918ea4eb1e0e347426b47b5f93.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T19:19:47.951850",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3058,7 +3170,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.395603",
+      "crawl_time": "2026-03-02T19:19:47.952051",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -3074,9 +3186,9 @@
       }
     },
     {
-      "id": "b57d29fef6c0",
-      "title": "石油基金LOF：将于3月3日开市起至当日10:30停牌",
-      "url": "https://m.21jingji.com/timeline/479b599267174c756a877f4e59f4154a.html",
+      "id": "6cfb4219545e",
+      "title": "刘永好答21财经：“通常我们在海外盈利能力更高”",
+      "url": "https://www.21jingji.com/article/20260302/herald/42938d77c6383e7f04e061e551fe6989.html",
       "source": "21世纪经济报道",
       "categories": [
         "宏观",
@@ -3084,13 +3196,13 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.395625",
+      "crawl_time": "2026-03-02T19:19:47.952090",
       "date": "2026-03-02",
       "market_signal": {
-        "bullish": 0,
+        "bullish": 1,
         "bearish": 0,
         "neutral": 0,
-        "overall": "neutral"
+        "overall": "bullish"
       },
       "entities": {
         "stocks": [],
@@ -3100,8 +3212,8 @@
       }
     },
     {
-      "id": "7bcc871f30da",
-      "title": "滚动｜以色列特拉维夫TA35指数一度涨超4%",
+      "id": "343a2b060cd3",
+      "title": "滚动｜亚洲液化天然气基准价格跳涨近39%",
       "url": "https://m.21jingji.com/journal/241.html",
       "source": "21世纪经济报道",
       "categories": [
@@ -3110,7 +3222,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.396008",
+      "crawl_time": "2026-03-02T19:19:47.952126",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3126,9 +3238,9 @@
       }
     },
     {
-      "id": "83d224102a6c",
-      "title": "法尔胜收获6天5板，油气相关概念涨幅居前丨强势个股",
-      "url": "https://www.21jingji.com/article/20260302/herald/2663a9e5be6688d375ed6bbb0c7d3714.html",
+      "id": "c74e97e47d48",
+      "title": "张曼辞任长沙银行行长，银行业密集换人",
+      "url": "https://www.21jingji.com/article/20260302/herald/9c9a4cb54f490e358769b619ecbbd2e3.html",
       "source": "21世纪经济报道",
       "categories": [
         "宏观",
@@ -3136,13 +3248,151 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.396066",
+      "crawl_time": "2026-03-02T19:19:47.952174",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
         "bearish": 0,
         "neutral": 0,
         "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [
+          "银行"
+        ],
+        "indices": []
+      }
+    },
+    {
+      "id": "e3781cfd1028",
+      "title": "三大期货交易所，齐发风险提示",
+      "url": "https://www.21jingji.com/article/20260302/herald/289529066f05e397bd737e6b6e703297.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T19:19:47.952192",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      }
+    },
+    {
+      "id": "b4f0494a1b78",
+      "title": "800亿元市值券商“换帅”",
+      "url": "https://www.21jingji.com/article/20260302/herald/59c85578a64a8b2419fad31e11a8344a.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T19:19:47.952236",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [
+          "券商"
+        ],
+        "indices": []
+      }
+    },
+    {
+      "id": "7fdd88b84082",
+      "title": "破局 谋局 开局——从三个维度看当前中国经济",
+      "url": "https://www.21jingji.com/article/20260302/herald/9ead5a2e20129e4bb5fd6a4c9f45150a.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T19:19:47.952346",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      }
+    },
+    {
+      "id": "2a3f3f3808ee",
+      "title": "比亚迪汽车单月出口量占比首次过半，股价暴涨超8%",
+      "url": "https://www.21jingji.com/article/20260302/herald/69f6966d1074ee3d72da6a2c0c321ca4.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T19:19:47.952395",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [
+          "比亚迪"
+        ],
+        "sectors": [
+          "汽车"
+        ],
+        "indices": []
+      }
+    },
+    {
+      "id": "54e467e39096",
+      "title": "原油类ETF全线大涨，OPEC+初步同意增产",
+      "url": "https://www.21jingji.com/article/20260302/herald/7a21de4d72950db829000d3717d3056e.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T19:19:47.952474",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
       },
       "entities": {
         "stocks": [],
@@ -3162,7 +3412,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.396088",
+      "crawl_time": "2026-03-02T19:19:47.952513",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3180,216 +3430,6 @@
       }
     },
     {
-      "id": "d0bf3c4314b1",
-      "title": "海通国际张忆东：战略资源价值重估是大势所趋，A股新叙事已展开",
-      "url": "https://www.21jingji.com/article/20260302/herald/cb920b35a47bc1510b50d359e7907501.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.396144",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      }
-    },
-    {
-      "id": "940e1d2de639",
-      "title": "21专访｜达晨财智任俊照：人形机器人是AI时代的集大成产品",
-      "url": "https://www.21jingji.com/article/20260302/herald/d832fc79620b94cde2f3377e1380ebed.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.396175",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [
-          "AI"
-        ],
-        "indices": []
-      }
-    },
-    {
-      "id": "0c3cc345fa8a",
-      "title": "新闻分析：税务合规管理如何赋能全国统一大市场建设？",
-      "url": "https://www.21jingji.com/article/20260302/herald/a92ca1195b4f0255801277f460d2fb26.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.396358",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      }
-    },
-    {
-      "id": "09530a1a5841",
-      "title": "市场监管总局启动检验检测智慧监管能力提升攻坚行动",
-      "url": "https://www.21jingji.com/article/20260302/herald/f8bb495cfba3c4b749717ca3522cdb93.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.396420",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      }
-    },
-    {
-      "id": "969186574515",
-      "title": "历史首次，A股“三桶油”收盘集体涨停",
-      "url": "https://www.21jingji.com/article/20260302/herald/bb9656c6b8ed030885561d69a7819609.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.396534",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      }
-    },
-    {
-      "id": "54e467e39096",
-      "title": "原油类ETF全线大涨，OPEC+初步同意增产",
-      "url": "https://www.21jingji.com/article/20260302/herald/7a21de4d72950db829000d3717d3056e.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.396569",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 1,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "bullish"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      }
-    },
-    {
-      "id": "611194f12d4d",
-      "title": "法治体系更趋完善 代表委员共绘金融监管新图景",
-      "url": "https://www.21jingji.com/article/20260302/herald/9ba63e70203acc7b0325b669cb3cdf15.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.396610",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      }
-    },
-    {
-      "id": "b319c888d57e",
-      "title": "建元信托开年多位高管变动，前投资总监履新红塔证券",
-      "url": "https://www.21jingji.com/article/20260302/herald/8e27ce3ee7fbcfe9c2a191f6a5705f88.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.396624",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      }
-    },
-    {
       "id": "6e439201062d",
       "title": "以色列股市大涨，欧股普跌！",
       "url": "https://www.21jingji.com/article/20260302/herald/2a66347e7a62df9749da947c6ed30695.html",
@@ -3400,7 +3440,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.396639",
+      "crawl_time": "2026-03-02T19:19:47.952550",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -3426,7 +3466,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.396652",
+      "crawl_time": "2026-03-02T19:19:47.952563",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3442,9 +3482,9 @@
       }
     },
     {
-      "id": "ee3845c5fada",
-      "title": "刚刚，全线暴跌！紧急救市！",
-      "url": "https://www.21jingji.com/article/20260302/herald/cf03651c5b887ffd0ae76a38c0183ee9.html",
+      "id": "551bc6f61d9a",
+      "title": "美伊冲突冲击全球供应链：多家航运巨头紧急涨价 中东空运遭严重干扰",
+      "url": "https://www.21jingji.com/article/20260302/herald/740b430bfd8fde92aeda401b9dfdd68b.html",
       "source": "21世纪经济报道",
       "categories": [
         "宏观",
@@ -3452,13 +3492,13 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.396665",
+      "crawl_time": "2026-03-02T19:19:47.952578",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
-        "bearish": 1,
+        "bearish": 0,
         "neutral": 0,
-        "overall": "bearish"
+        "overall": "neutral"
       },
       "entities": {
         "stocks": [],
@@ -3468,9 +3508,9 @@
       }
     },
     {
-      "id": "c941ad4a9ba8",
-      "title": "港股全线下跌，科网股大面积重挫，南向资金流入162亿港元丨港股收盘",
-      "url": "https://www.21jingji.com/article/20260302/herald/8c67dcb447d5909e4283a824cd926596.html",
+      "id": "6a292338ebab",
+      "title": "伊朗里亚尔两月暴跌30倍",
+      "url": "https://www.21jingji.com/article/20260302/herald/78aa746ae4c66a18b33758f2a5dfc6ad.html",
       "source": "21世纪经济报道",
       "categories": [
         "宏观",
@@ -3478,7 +3518,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.396678",
+      "crawl_time": "2026-03-02T19:19:47.952599",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3504,7 +3544,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.396692",
+      "crawl_time": "2026-03-02T19:19:47.952640",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 2,
@@ -3530,7 +3570,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.396763",
+      "crawl_time": "2026-03-02T19:19:47.952653",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -3546,9 +3586,9 @@
       }
     },
     {
-      "id": "57a78b916593",
-      "title": "伊朗允许外国留学生无需出境许可经陆路口岸离境",
-      "url": "https://www.21jingji.com/article/20260302/herald/3dbc0607b6293c55253bcb0a089cbbcd.html",
+      "id": "5dbb22345fc1",
+      "title": "详解美伊冲突：黄金石油大变局？",
+      "url": "https://www.21jingji.com/article/20260302/herald/121cc3578432c7c17329502dba1334c3.html",
       "source": "21世纪经济报道",
       "categories": [
         "宏观",
@@ -3556,7 +3596,33 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.396819",
+      "crawl_time": "2026-03-02T19:19:47.952821",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      }
+    },
+    {
+      "id": "2f8f11d16188",
+      "title": "专访周生生集团执行董事兼首席品牌长周嘉颖：从保值到悦己再到信任 黄金消费的三次跨越",
+      "url": "https://www.21jingji.com/article/20260228/c869854ad7db25cee49ef4087d544023.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T19:19:47.952839",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3582,7 +3648,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.396874",
+      "crawl_time": "2026-03-02T19:19:47.952898",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3608,7 +3674,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.396929",
+      "crawl_time": "2026-03-02T19:19:47.952912",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3624,6 +3690,34 @@
       }
     },
     {
+      "id": "940e1d2de639",
+      "title": "21专访｜达晨财智任俊照：人形机器人是AI时代的集大成产品",
+      "url": "https://www.21jingji.com/article/20260302/herald/d832fc79620b94cde2f3377e1380ebed.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T19:19:47.952926",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [
+          "AI"
+        ],
+        "indices": []
+      }
+    },
+    {
       "id": "66dd1aee2198",
       "title": "一级市场再迎活水！510亿元央企战新基金正式“开闸”",
       "url": "https://www.21jingji.com/article/20260228/herald/16ef7fdb121bf4623e4de354e46b604c.html",
@@ -3634,7 +3728,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.396943",
+      "crawl_time": "2026-03-02T19:19:47.952940",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3660,7 +3754,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.396990",
+      "crawl_time": "2026-03-02T19:19:47.952981",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3686,65 +3780,13 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.397007",
+      "crawl_time": "2026-03-02T19:19:47.953021",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
         "bearish": 0,
         "neutral": 0,
         "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      }
-    },
-    {
-      "id": "e94e7d76ab27",
-      "title": "超9万亿元！粤港澳大湾区内地九市外贸规模何以连上新台阶？",
-      "url": "https://www.21jingji.com/article/20260302/herald/956bbc01dbd40acad8d933e67daa990d.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.397209",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      }
-    },
-    {
-      "id": "af99af0be4e1",
-      "title": "国家药监局批准罗伐昔替尼片上市；亚辉龙收到行政处罚事先告知书",
-      "url": "https://www.21jingji.com/article/20260302/herald/be490b45564a5292aa9d18159f2dca16.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.397473",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 1,
-        "neutral": 0,
-        "overall": "bearish"
       },
       "entities": {
         "stocks": [],
@@ -3764,7 +3806,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.397488",
+      "crawl_time": "2026-03-02T19:19:47.953470",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3790,7 +3832,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.397524",
+      "crawl_time": "2026-03-02T19:19:47.953506",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3816,7 +3858,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.397561",
+      "crawl_time": "2026-03-02T19:19:47.953544",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3842,7 +3884,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.397617",
+      "crawl_time": "2026-03-02T19:19:47.953602",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3868,7 +3910,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.397635",
+      "crawl_time": "2026-03-02T19:19:47.953616",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -3894,7 +3936,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.397653",
+      "crawl_time": "2026-03-02T19:19:47.953634",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -3920,7 +3962,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.397797",
+      "crawl_time": "2026-03-02T19:19:47.953690",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3946,7 +3988,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.397813",
+      "crawl_time": "2026-03-02T19:19:47.953742",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3974,7 +4016,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.397853",
+      "crawl_time": "2026-03-02T19:19:47.953798",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4000,7 +4042,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.397866",
+      "crawl_time": "2026-03-02T19:19:47.953812",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4026,7 +4068,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.397879",
+      "crawl_time": "2026-03-02T19:19:47.953825",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4052,7 +4094,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:28.397953",
+      "crawl_time": "2026-03-02T19:19:47.953877",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4077,7 +4119,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:29.729543",
+      "crawl_time": "2026-03-02T19:19:49.931910",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4093,41 +4135,16 @@
       }
     },
     {
-      "id": "5bf928f6ef29",
-      "title": "安迪苏股价连续上涨，5日累计涨幅超16%",
-      "url": "http://www.eeo.com.cn/2026/0302/804133.shtml",
+      "id": "c64c33e40ba7",
+      "title": "伊朗首都德黑兰遭袭 市中心发生爆炸",
+      "url": "http://www.eeo.com.cn/2026/0302/804147.shtml",
       "source": "经济观察报",
       "categories": [
         "宏观",
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:29.730091",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 1,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "bullish"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      }
-    },
-    {
-      "id": "7eab87df4ef4",
-      "title": "朗科智能股价单日跌5.48%至10.87元，主力资金净流出836.37万元",
-      "url": "http://www.eeo.com.cn/2026/0302/804130.shtml",
-      "source": "经济观察报",
-      "categories": [
-        "宏观",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:29.730148",
+      "crawl_time": "2026-03-02T19:19:49.932954",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4143,45 +4160,20 @@
       }
     },
     {
-      "id": "21b643b3e90c",
-      "title": "晋西车轴融资净卖出78.21万元，2025年净利润预计增长25.67%",
-      "url": "http://www.eeo.com.cn/2026/0302/804127.shtml",
+      "id": "953a72fb3316",
+      "title": "归创通桥股价下跌2.75%报21.20港元，创60日新低",
+      "url": "http://www.eeo.com.cn/2026/0302/804143.shtml",
       "source": "经济观察报",
       "categories": [
         "宏观",
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:29.730195",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 1,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "bullish"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      }
-    },
-    {
-      "id": "e6ac4a584bff",
-      "title": "歌华有线近7日股价下跌1.75%，涿州智慧云项目2#机房竣工",
-      "url": "http://www.eeo.com.cn/2026/0302/804129.shtml",
-      "source": "经济观察报",
-      "categories": [
-        "宏观",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:29.730231",
+      "crawl_time": "2026-03-02T19:19:49.933083",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
-        "bearish": 1,
+        "bearish": 2,
         "neutral": 0,
         "overall": "bearish"
       },
@@ -4193,16 +4185,41 @@
       }
     },
     {
-      "id": "d51c2c7f603b",
-      "title": "新农开发召开临时股东会，股价近7日涨幅9.28%",
-      "url": "http://www.eeo.com.cn/2026/0302/804128.shtml",
+      "id": "a158fd424692",
+      "title": "山东高速集团计划投资400亿元推进重点工程建设",
+      "url": "http://www.eeo.com.cn/2026/0302/804144.shtml",
       "source": "经济观察报",
       "categories": [
         "宏观",
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:29.730248",
+      "crawl_time": "2026-03-02T19:19:49.933139",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      }
+    },
+    {
+      "id": "d3715a03ea2d",
+      "title": "受美以袭击伊朗影响 欧洲天然气价格涨超20%",
+      "url": "http://www.eeo.com.cn/2026/0302/804138.shtml",
+      "source": "经济观察报",
+      "categories": [
+        "宏观",
+        "产业"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T19:19:49.933255",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4227,7 +4244,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:29.730408",
+      "crawl_time": "2026-03-02T19:19:49.933455",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4252,7 +4269,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:29.730421",
+      "crawl_time": "2026-03-02T19:19:49.933474",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4277,7 +4294,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:29.730435",
+      "crawl_time": "2026-03-02T19:19:49.933797",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4302,7 +4319,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:29.730448",
+      "crawl_time": "2026-03-02T19:19:49.933910",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4327,7 +4344,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:29.730484",
+      "crawl_time": "2026-03-02T19:19:49.933998",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4352,7 +4369,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:29.730654",
+      "crawl_time": "2026-03-02T19:19:49.934091",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4377,7 +4394,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:29.730678",
+      "crawl_time": "2026-03-02T19:19:49.934119",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -4402,7 +4419,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:29.730784",
+      "crawl_time": "2026-03-02T19:19:49.934668",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4427,7 +4444,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:29.730820",
+      "crawl_time": "2026-03-02T19:19:49.934828",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4452,7 +4469,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:29.730879",
+      "crawl_time": "2026-03-02T19:19:49.934939",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4477,7 +4494,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:29.731065",
+      "crawl_time": "2026-03-02T19:19:49.935299",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -4502,7 +4519,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:29.731198",
+      "crawl_time": "2026-03-02T19:19:49.935631",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4527,7 +4544,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:29.731213",
+      "crawl_time": "2026-03-02T19:19:49.935657",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4552,7 +4569,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:29.731326",
+      "crawl_time": "2026-03-02T19:19:49.935933",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4577,7 +4594,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:29.731340",
+      "crawl_time": "2026-03-02T19:19:49.935957",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -4602,7 +4619,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:29.731358",
+      "crawl_time": "2026-03-02T19:19:49.936159",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4627,7 +4644,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:29.731414",
+      "crawl_time": "2026-03-02T19:19:49.936248",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -4652,7 +4669,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:29.731436",
+      "crawl_time": "2026-03-02T19:19:49.936279",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4677,7 +4694,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:29.732113",
+      "crawl_time": "2026-03-02T19:19:49.937137",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4702,7 +4719,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:29.732142",
+      "crawl_time": "2026-03-02T19:19:49.937357",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4729,7 +4746,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T18:51:29.732784",
+      "crawl_time": "2026-03-02T19:19:49.938383",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4755,7 +4772,7 @@
         "宏观"
       ],
       "pub_date": "2026-03-02 09:49:08",
-      "crawl_time": "2026-03-02T18:51:45.733401",
+      "crawl_time": "2026-03-02T19:20:04.785758",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4781,7 +4798,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-28 14:44:01",
-      "crawl_time": "2026-03-02T18:51:45.733469",
+      "crawl_time": "2026-03-02T19:20:04.785881",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4807,7 +4824,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-28 15:04:18",
-      "crawl_time": "2026-03-02T18:51:45.733509",
+      "crawl_time": "2026-03-02T19:20:04.785930",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4833,7 +4850,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-27 16:59:22",
-      "crawl_time": "2026-03-02T18:51:45.733565",
+      "crawl_time": "2026-03-02T19:20:04.785969",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4859,7 +4876,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-27 12:00:01",
-      "crawl_time": "2026-03-02T18:51:45.733615",
+      "crawl_time": "2026-03-02T19:20:04.786004",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4885,7 +4902,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-26 14:25:31",
-      "crawl_time": "2026-03-02T18:51:45.733664",
+      "crawl_time": "2026-03-02T19:20:04.786516",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4911,7 +4928,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-26 08:23:22",
-      "crawl_time": "2026-03-02T18:51:45.734116",
+      "crawl_time": "2026-03-02T19:20:04.786630",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4939,7 +4956,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-26 04:26:21",
-      "crawl_time": "2026-03-02T18:51:45.734231",
+      "crawl_time": "2026-03-02T19:20:04.786693",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4965,7 +4982,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-25 21:33:54",
-      "crawl_time": "2026-03-02T18:51:45.734356",
+      "crawl_time": "2026-03-02T19:20:04.786811",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4991,7 +5008,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-25 08:42:49",
-      "crawl_time": "2026-03-02T18:51:45.734403",
+      "crawl_time": "2026-03-02T19:20:04.786870",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5017,7 +5034,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-25 02:46:43",
-      "crawl_time": "2026-03-02T18:51:45.734457",
+      "crawl_time": "2026-03-02T19:20:04.786920",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5045,7 +5062,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-24 23:08:25",
-      "crawl_time": "2026-03-02T18:51:45.734492",
+      "crawl_time": "2026-03-02T19:20:04.786955",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5071,7 +5088,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-25 18:11:01",
-      "crawl_time": "2026-03-02T18:51:45.734524",
+      "crawl_time": "2026-03-02T19:20:04.786990",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5097,7 +5114,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-24 21:33:36",
-      "crawl_time": "2026-03-02T18:51:45.734561",
+      "crawl_time": "2026-03-02T19:20:04.787027",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5125,7 +5142,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-25 19:57:11",
-      "crawl_time": "2026-03-02T18:51:45.734600",
+      "crawl_time": "2026-03-02T19:20:04.787067",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5151,7 +5168,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-24 13:17:41",
-      "crawl_time": "2026-03-02T18:51:45.734640",
+      "crawl_time": "2026-03-02T19:20:04.787107",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5177,7 +5194,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-24 15:36:53",
-      "crawl_time": "2026-03-02T18:51:45.734675",
+      "crawl_time": "2026-03-02T19:20:04.787142",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5203,7 +5220,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-23 18:02:59",
-      "crawl_time": "2026-03-02T18:51:45.734767",
+      "crawl_time": "2026-03-02T19:20:04.787182",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5229,7 +5246,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-21 17:46:51",
-      "crawl_time": "2026-03-02T18:51:45.734821",
+      "crawl_time": "2026-03-02T19:20:04.787217",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5255,7 +5272,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-21 16:00:01",
-      "crawl_time": "2026-03-02T18:51:45.734863",
+      "crawl_time": "2026-03-02T19:20:04.787267",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5281,7 +5298,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-20 22:07:13",
-      "crawl_time": "2026-03-02T18:51:45.734929",
+      "crawl_time": "2026-03-02T19:20:04.787530",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5307,7 +5324,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-19 15:47:35",
-      "crawl_time": "2026-03-02T18:51:45.734979",
+      "crawl_time": "2026-03-02T19:20:04.787651",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5333,7 +5350,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-17 22:02:39",
-      "crawl_time": "2026-03-02T18:51:45.735039",
+      "crawl_time": "2026-03-02T19:20:04.787687",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5359,7 +5376,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-17 17:45:51",
-      "crawl_time": "2026-03-02T18:51:45.735072",
+      "crawl_time": "2026-03-02T19:20:04.787897",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5385,7 +5402,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-15 15:24:48",
-      "crawl_time": "2026-03-02T18:51:45.735106",
+      "crawl_time": "2026-03-02T19:20:04.788045",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5411,7 +5428,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-13 18:19:01",
-      "crawl_time": "2026-03-02T18:51:45.735143",
+      "crawl_time": "2026-03-02T19:20:04.788107",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5439,7 +5456,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-13 08:03:24",
-      "crawl_time": "2026-03-02T18:51:45.735175",
+      "crawl_time": "2026-03-02T19:20:04.788143",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5467,7 +5484,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-13 02:31:38",
-      "crawl_time": "2026-03-02T18:51:45.735207",
+      "crawl_time": "2026-03-02T19:20:04.788191",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5493,7 +5510,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-12 13:00:01",
-      "crawl_time": "2026-03-02T18:51:45.735249",
+      "crawl_time": "2026-03-02T19:20:04.788224",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5519,7 +5536,32 @@
         "宏观"
       ],
       "pub_date": "2026-02-11 18:09:08",
-      "crawl_time": "2026-03-02T18:51:45.735320",
+      "crawl_time": "2026-03-02T19:20:04.788279",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      }
+    },
+    {
+      "id": "cbfb810087f9",
+      "title": "Here’s the path to oil hitting $120 per barrel, according to JPMorgan",
+      "url": "https://www.marketwatch.com/story/heres-the-path-to-oil-hitting-120-per-barrel-according-to-jpmorgan-71792b31?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "categories": [
+        "美股",
+        "数据"
+      ],
+      "pub_date": "2026-03-02 10:55:00",
+      "crawl_time": "2026-03-02T19:20:06.597253",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5544,7 +5586,7 @@
         "数据"
       ],
       "pub_date": "2026-03-02 10:31:00",
-      "crawl_time": "2026-03-02T18:51:47.232923",
+      "crawl_time": "2026-03-02T19:20:06.597318",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5569,7 +5611,7 @@
         "数据"
       ],
       "pub_date": "2026-03-02 10:26:00",
-      "crawl_time": "2026-03-02T18:51:47.233000",
+      "crawl_time": "2026-03-02T19:20:06.597358",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5594,7 +5636,7 @@
         "数据"
       ],
       "pub_date": "2026-03-02 10:02:00",
-      "crawl_time": "2026-03-02T18:51:47.233048",
+      "crawl_time": "2026-03-02T19:20:06.597415",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5619,7 +5661,7 @@
         "数据"
       ],
       "pub_date": "2026-03-02 10:01:00",
-      "crawl_time": "2026-03-02T18:51:47.233086",
+      "crawl_time": "2026-03-02T19:20:06.597524",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5644,7 +5686,7 @@
         "数据"
       ],
       "pub_date": "2026-03-02 01:32:00",
-      "crawl_time": "2026-03-02T18:51:47.233122",
+      "crawl_time": "2026-03-02T19:20:06.597563",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5673,7 +5715,7 @@
         "数据"
       ],
       "pub_date": "2026-03-01 23:37:00",
-      "crawl_time": "2026-03-02T18:51:47.233158",
+      "crawl_time": "2026-03-02T19:20:06.597608",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5698,7 +5740,7 @@
         "数据"
       ],
       "pub_date": "2026-03-01 20:51:00",
-      "crawl_time": "2026-03-02T18:51:47.233190",
+      "crawl_time": "2026-03-02T19:20:06.597661",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5723,7 +5765,7 @@
         "数据"
       ],
       "pub_date": "2026-03-01 20:03:00",
-      "crawl_time": "2026-03-02T18:51:47.233229",
+      "crawl_time": "2026-03-02T19:20:06.598330",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5748,32 +5790,7 @@
         "数据"
       ],
       "pub_date": "2026-03-01 19:29:00",
-      "crawl_time": "2026-03-02T18:51:47.233328",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      }
-    },
-    {
-      "id": "16ad0aeb3bbf",
-      "title": "Here’s where traders expect crude-oil prices to open after this weekend’s attack on Iran",
-      "url": "https://www.marketwatch.com/story/heres-where-traders-expect-crude-oil-prices-to-open-after-this-weekends-attack-on-iran-d5dc2ee4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "categories": [
-        "美股",
-        "数据"
-      ],
-      "pub_date": "2026-03-01 19:17:00",
-      "crawl_time": "2026-03-02T18:51:47.233392",
+      "crawl_time": "2026-03-02T19:20:06.598391",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5798,7 +5815,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 18:38:54",
-      "crawl_time": "2026-03-02T18:51:49.177895",
+      "crawl_time": "2026-03-02T19:20:08.646209",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5823,7 +5840,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 17:39:22",
-      "crawl_time": "2026-03-02T18:51:49.177974",
+      "crawl_time": "2026-03-02T19:20:08.646356",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5848,7 +5865,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 16:07:29",
-      "crawl_time": "2026-03-02T18:51:49.178019",
+      "crawl_time": "2026-03-02T19:20:08.646413",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5873,7 +5890,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 15:27:47",
-      "crawl_time": "2026-03-02T18:51:49.178058",
+      "crawl_time": "2026-03-02T19:20:08.646454",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5898,7 +5915,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 14:22:08",
-      "crawl_time": "2026-03-02T18:51:49.178253",
+      "crawl_time": "2026-03-02T19:20:08.646492",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5923,7 +5940,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 09:58:00",
-      "crawl_time": "2026-03-02T18:51:49.178323",
+      "crawl_time": "2026-03-02T19:20:08.646530",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5948,7 +5965,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 09:00:00",
-      "crawl_time": "2026-03-02T18:51:49.178378",
+      "crawl_time": "2026-03-02T19:20:08.646575",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5973,7 +5990,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 08:00:00",
-      "crawl_time": "2026-03-02T18:51:49.178419",
+      "crawl_time": "2026-03-02T19:20:08.646615",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5998,7 +6015,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 06:00:00",
-      "crawl_time": "2026-03-02T18:51:49.178455",
+      "crawl_time": "2026-03-02T19:20:08.646649",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6023,7 +6040,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 05:00:00",
-      "crawl_time": "2026-03-02T18:51:49.178491",
+      "crawl_time": "2026-03-02T19:20:08.646683",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6048,7 +6065,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 02:01:00",
-      "crawl_time": "2026-03-02T18:51:49.178527",
+      "crawl_time": "2026-03-02T19:20:08.646802",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6073,7 +6090,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 02:00:00",
-      "crawl_time": "2026-03-02T18:51:49.178561",
+      "crawl_time": "2026-03-02T19:20:08.646844",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6098,7 +6115,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 00:58:00",
-      "crawl_time": "2026-03-02T18:51:49.178597",
+      "crawl_time": "2026-03-02T19:20:08.646880",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6123,7 +6140,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 00:00:00",
-      "crawl_time": "2026-03-02T18:51:49.178630",
+      "crawl_time": "2026-03-02T19:20:08.646913",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6148,7 +6165,7 @@
         "原油"
       ],
       "pub_date": "2026-03-01 05:00:00",
-      "crawl_time": "2026-03-02T18:51:49.178667",
+      "crawl_time": "2026-03-02T19:20:08.646950",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6164,17 +6181,17 @@
       }
     },
     {
-      "id": "0181d7363c92",
-      "title": "Nokia expands 5G partnership with TIM Brasil using NVIDIA tech",
-      "url": "https://www.investing.com/news/company-news/nokia-expands-5g-partnership-with-tim-brasil-using-nvidia-tech-93CH-4533940",
+      "id": "c35818ad3ec6",
+      "title": "Factbox-Eight US Senate races to watch in the 2026 midterm elections",
+      "url": "https://www.investing.com/news/politics-news/factboxeight-us-senate-races-to-watch-in-the-2026-midterm-elections-4534020",
       "source": "Investing.com",
       "categories": [
         "商品",
         "外汇",
         "数据"
       ],
-      "pub_date": "2026-03-02 10:33:18",
-      "crawl_time": "2026-03-02T18:51:49.905552",
+      "pub_date": "2026-03-02 11:08:33",
+      "crawl_time": "2026-03-02T19:20:09.727100",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6190,17 +6207,17 @@
       }
     },
     {
-      "id": "ab62bbf6e82a",
-      "title": "Berkshire Hathaway profit falls on lower insurance income, Occidental writedown",
-      "url": "https://www.investing.com/news/stock-market-news/berkshire-hathaway-profit-falls-on-lower-insurance-income-occidental-writedown-4533938",
+      "id": "b18259b64b6a",
+      "title": "Analysis-Trump presses ahead with Iran war despite warnings of political risk for midterms",
+      "url": "https://www.investing.com/news/politics-news/analysistrump-presses-ahead-with-iran-war-despite-warnings-of-political-risk-for-midterms-4534019",
       "source": "Investing.com",
       "categories": [
         "商品",
         "外汇",
         "数据"
       ],
-      "pub_date": "2026-03-02 10:31:33",
-      "crawl_time": "2026-03-02T18:51:49.905641",
+      "pub_date": "2026-03-02 11:08:15",
+      "crawl_time": "2026-03-02T19:20:09.727393",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6216,17 +6233,17 @@
       }
     },
     {
-      "id": "58c93ac2e991",
-      "title": "Hezbollah attacks Israel, prompting Israeli strikes and Lebanese criticism",
-      "url": "https://www.investing.com/news/commodities-news/israeli-military-launches-strikes-against-hezbollah-after-group-attacks-israel-4533591",
+      "id": "0da995f0992c",
+      "title": "US Supreme Court scrutinizes gun ownership ban for illegal drug users",
+      "url": "https://www.investing.com/news/politics-news/us-supreme-court-scrutinizes-gun-ownership-ban-for-illegal-drug-users-4534013",
       "source": "Investing.com",
       "categories": [
         "商品",
         "外汇",
         "数据"
       ],
-      "pub_date": "2026-03-02 10:31:13",
-      "crawl_time": "2026-03-02T18:51:49.905693",
+      "pub_date": "2026-03-02 11:07:56",
+      "crawl_time": "2026-03-02T19:20:09.727446",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6242,17 +6259,17 @@
       }
     },
     {
-      "id": "dd9503312554",
-      "title": "Amazon’s AWS reports outage after UAE data center struck by ’objects’",
-      "url": "https://www.investing.com/news/stock-market-news/amazons-aws-reports-power-connectivity-issues-in-bahrain-uae-amid-iran-strikes-4533744",
+      "id": "6e937382cc59",
+      "title": "Factbox-Ten US House races to watch in 2026",
+      "url": "https://www.investing.com/news/politics-news/factboxten-us-house-races-to-watch-in-2026-4534009",
       "source": "Investing.com",
       "categories": [
         "商品",
         "外汇",
         "数据"
       ],
-      "pub_date": "2026-03-02 10:30:56",
-      "crawl_time": "2026-03-02T18:51:49.906059",
+      "pub_date": "2026-03-02 11:07:40",
+      "crawl_time": "2026-03-02T19:20:09.727488",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6268,17 +6285,17 @@
       }
     },
     {
-      "id": "a448dd58f979",
-      "title": "No sign Iran’s nuclear sites were hit, IAEA says, but Iran alleges one was",
-      "url": "https://www.investing.com/news/world-news/no-sign-irans-nuclear-sites-were-hit-iaea-says-but-iran-alleges-one-was-4533937",
+      "id": "808b3c220027",
+      "title": "Explainer-Europe braces for economic hit from Iran conflict",
+      "url": "https://www.investing.com/news/economy-news/explainereurope-braces-for-economic-hit-from-iran-conflict-4534008",
       "source": "Investing.com",
       "categories": [
         "商品",
         "外汇",
         "数据"
       ],
-      "pub_date": "2026-03-02 10:30:39",
-      "crawl_time": "2026-03-02T18:51:49.906108",
+      "pub_date": "2026-03-02 11:07:22",
+      "crawl_time": "2026-03-02T19:20:09.727544",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6294,17 +6311,45 @@
       }
     },
     {
-      "id": "9b3a79857296",
-      "title": "KuMining 2.0: Redefining Cloud Mining via True Hashrate Ownership",
-      "url": "https://www.investing.com/news/cryptocurrency-news/kumining-20-redefining-cloud-mining-via-true-hashrate-ownership-4533936",
+      "id": "efb0cd654e34",
+      "title": "Exclusive-ASML plots future of chipmaking tools for AI beyond EUV",
+      "url": "https://www.investing.com/news/stock-market-news/exclusiveasml-plots-future-of-chipmaking-tools-for-ai-beyond-euv-4534007",
       "source": "Investing.com",
       "categories": [
         "商品",
         "外汇",
         "数据"
       ],
-      "pub_date": "2026-03-02 10:30:32",
-      "crawl_time": "2026-03-02T18:51:49.906150",
+      "pub_date": "2026-03-02 11:06:47",
+      "crawl_time": "2026-03-02T19:20:09.727588",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [
+          "AI"
+        ],
+        "indices": []
+      }
+    },
+    {
+      "id": "e8239d2c4236",
+      "title": "BofA raises Eversource Energy price target on regulatory outlook",
+      "url": "https://www.investing.com/news/analyst-ratings/bofa-raises-eversource-energy-price-target-on-regulatory-outlook-93CH-4534006",
+      "source": "Investing.com",
+      "categories": [
+        "商品",
+        "外汇",
+        "数据"
+      ],
+      "pub_date": "2026-03-02 11:05:59",
+      "crawl_time": "2026-03-02T19:20:09.727627",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6320,17 +6365,17 @@
       }
     },
     {
-      "id": "f93035e64728",
-      "title": "Earnings call transcript: Gelion reports progress in Q1 2026 with tech breakthroughs",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-gelion-reports-progress-in-q1-2026-with-tech-breakthroughs-93CH-4533935",
+      "id": "65ae156f7a8c",
+      "title": "Zymeworks secures $250M royalty financing from Royalty Pharma",
+      "url": "https://www.investing.com/news/company-news/zymeworks-secures-250m-royalty-financing-from-royalty-pharma-93CH-4534005",
       "source": "Investing.com",
       "categories": [
         "商品",
         "外汇",
         "数据"
       ],
-      "pub_date": "2026-03-02 10:30:24",
-      "crawl_time": "2026-03-02T18:51:49.906203",
+      "pub_date": "2026-03-02 11:05:27",
+      "crawl_time": "2026-03-02T19:20:09.727664",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6346,17 +6391,17 @@
       }
     },
     {
-      "id": "3970e6a40820",
-      "title": "India stocks lower at close of trade; Nifty 50 down 1.24%",
-      "url": "https://www.investing.com/news/stock-market-news/india-stocks-lower-at-close-of-trade-nifty-50-down-124-4533934",
+      "id": "22bc7da5d666",
+      "title": "Flex begins U.S. manufacturing of AMD Instinct MI355X platforms",
+      "url": "https://www.investing.com/news/company-news/flex-begins-us-manufacturing-of-amd-instinct-mi355x-platforms-93CH-4534004",
       "source": "Investing.com",
       "categories": [
         "商品",
         "外汇",
         "数据"
       ],
-      "pub_date": "2026-03-02 10:30:05",
-      "crawl_time": "2026-03-02T18:51:49.906269",
+      "pub_date": "2026-03-02 11:05:13",
+      "crawl_time": "2026-03-02T19:20:09.727770",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6372,43 +6417,17 @@
       }
     },
     {
-      "id": "b3a251dc3039",
-      "title": "U.S. stock futures slump after U.S.-Iran escalation; crude prices soar",
-      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-slide-over-1-on-usiran-escalation-4533585",
+      "id": "8d3c1754812a",
+      "title": "Jefferies cuts Campbell Soup stock price target on soft volumes",
+      "url": "https://www.investing.com/news/analyst-ratings/jefferies-cuts-campbell-soup-stock-price-target-on-soft-volumes-93CH-4534003",
       "source": "Investing.com",
       "categories": [
         "商品",
         "外汇",
         "数据"
       ],
-      "pub_date": "2026-03-02 10:29:09",
-      "crawl_time": "2026-03-02T18:51:49.906324",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      }
-    },
-    {
-      "id": "1c650efd8c89",
-      "title": "Maersk, Hapag-Lloyd jump 4% as Iran shuts Strait of Hormuz to shipping",
-      "url": "https://www.investing.com/news/stock-market-news/maersk-hapaglloyd-jump-4-as-iran-shuts-strait-of-hormuz-to-shipping-4533928",
-      "source": "Investing.com",
-      "categories": [
-        "商品",
-        "外汇",
-        "数据"
-      ],
-      "pub_date": "2026-03-02 10:24:53",
-      "crawl_time": "2026-03-02T18:51:49.906372",
+      "pub_date": "2026-03-02 11:05:11",
+      "crawl_time": "2026-03-02T19:20:09.727813",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
