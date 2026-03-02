@@ -5,19 +5,19 @@
   "version": "v3",
   "ai_enhanced": true,
   "analysis": {
-    "total": 140,
+    "total": 141,
     "signal_stats": {
-      "bullish": 33,
-      "bearish": 1,
-      "neutral": 106
+      "bullish": 29,
+      "bearish": 3,
+      "neutral": 109
     },
     "source_stats": {
       "新浪财经": 1,
       "东方财富": 1,
-      "证券时报": 38,
+      "证券时报": 37,
       "第一财经": 2,
       "财新网": 7,
-      "21世纪经济报道": 12,
+      "21世纪经济报道": 14,
       "经济观察报": 14,
       "CNBC": 30,
       "MarketWatch": 10,
@@ -25,14 +25,14 @@
       "Investing.com": 10
     },
     "category_stats": {
-      "宏观": 104,
-      "股市": 84,
+      "宏观": 105,
+      "股市": 85,
       "期货": 2,
       "基金": 1,
-      "政策": 38,
+      "政策": 37,
       "国际": 32,
       "金融": 7,
-      "产业": 33,
+      "产业": 35,
       "美股": 10,
       "数据": 20,
       "能源": 15,
@@ -42,39 +42,39 @@
     },
     "entity_stats": {
       "科创50": 1,
-      "比亚迪": 1,
+      "比亚迪": 2,
       "腾讯": 1,
       "华为": 1,
-      "银行": 1,
+      "银行": 3,
       "上证指数": 3,
       "宁德时代": 1,
-      "AI": 12,
       "券商": 2,
       "保险": 1,
       "芯片": 2,
       "汽车": 1,
-      "OpenAI": 2,
+      "AI": 10,
+      "OpenAI": 1,
       "小米": 2,
       "英伟达": 1,
       "阿里": 1
     },
     "date_stats": {
-      "2026-03-02": 140
+      "2026-03-02": 141
     },
     "company_stats": {
       "华为": 1,
       "字节": 1,
       "腾讯": 1,
-      "比亚迪": 1,
+      "比亚迪": 2,
       "宁德时代": 1,
-      "OpenAI": 2,
+      "OpenAI": 1,
       "小米": 2,
       "英伟达": 1,
       "百度": 1,
       "阿里": 1
     },
-    "sentiment": "偏多 📈",
-    "sentiment_desc": "市场情绪乐观，利好消息占优"
+    "sentiment": "中性 ➖",
+    "sentiment_desc": "市场多空平衡，观望为主"
   },
   "articles": [
     {
@@ -88,7 +88,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:17.741121",
+      "crawl_time": "2026-03-02T22:02:16.495666",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -121,7 +121,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:18.428238",
+      "crawl_time": "2026-03-02T22:02:19.652821",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -144,6 +144,39 @@
       "mentioned_companies": []
     },
     {
+      "id": "c846160393f7",
+      "title": "罕见！石油类LOF基金，涨停潮",
+      "url": "https://www.stcn.com/article/detail/3657817.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T22:02:21.518047",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
       "id": "93c2b17a080f",
       "title": "国际油价大涨，A股油气板块全线暴涨，中东局势最新动态丨专题",
       "url": "https://www.stcn.com/topic/detail/556.html",
@@ -154,7 +187,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.305964",
+      "crawl_time": "2026-03-02T22:02:21.518084",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 2,
@@ -190,7 +223,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.305982",
+      "crawl_time": "2026-03-02T22:02:21.518103",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -223,7 +256,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.305999",
+      "crawl_time": "2026-03-02T22:02:21.518129",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -258,7 +291,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.306021",
+      "crawl_time": "2026-03-02T22:02:21.518206",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -291,7 +324,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.306060",
+      "crawl_time": "2026-03-02T22:02:21.518273",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -324,7 +357,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.306099",
+      "crawl_time": "2026-03-02T22:02:21.518311",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -359,7 +392,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.306194",
+      "crawl_time": "2026-03-02T22:02:21.518436",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -384,39 +417,6 @@
       "mentioned_companies": []
     },
     {
-      "id": "0098daade763",
-      "title": "公募基金节后扎堆调研 顺周期板块最是“心头好”",
-      "url": "https://www.stcn.com/article/detail/3655968.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.306248",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
       "id": "f61775f29a65",
       "title": "时报会客厅丨A股马年行情如何演绎？节后如何布局？",
       "url": "https://www.stcn.com/live/detail/1211.html",
@@ -427,7 +427,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.306336",
+      "crawl_time": "2026-03-02T22:02:21.518515",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -460,7 +460,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.306454",
+      "crawl_time": "2026-03-02T22:02:21.518591",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -495,7 +495,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.306473",
+      "crawl_time": "2026-03-02T22:02:21.518610",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -532,7 +532,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.306490",
+      "crawl_time": "2026-03-02T22:02:21.518628",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -565,7 +565,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.306534",
+      "crawl_time": "2026-03-02T22:02:21.518667",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -607,7 +607,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.306621",
+      "crawl_time": "2026-03-02T22:02:21.518775",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -640,7 +640,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.306639",
+      "crawl_time": "2026-03-02T22:02:21.518793",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -677,7 +677,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.306678",
+      "crawl_time": "2026-03-02T22:02:21.518831",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -712,7 +712,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.306761",
+      "crawl_time": "2026-03-02T22:02:21.518851",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -747,7 +747,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.306790",
+      "crawl_time": "2026-03-02T22:02:21.518872",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -772,6 +772,72 @@
       "mentioned_companies": []
     },
     {
+      "id": "7666768dcea0",
+      "title": "回购变减持 多家上市公司披露减持已回购股份进展",
+      "url": "https://www.stcn.com/article/detail/3657834.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T22:02:21.518933",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 1,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "上市动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "87acd28f898f",
+      "title": "加快“世界光谷”传感器产业集群 湖北多家上市公司聚合发力",
+      "url": "https://www.stcn.com/article/detail/3657833.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T22:02:21.518950",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "上市动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
       "id": "060c8df47489",
       "title": "MiniMax上市后首份成绩单发布 2025年营收同比增长159%至7904万美元",
       "url": "https://www.stcn.com/article/detail/3657802.html",
@@ -782,7 +848,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.306831",
+      "crawl_time": "2026-03-02T22:02:21.518990",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -818,7 +884,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.306869",
+      "crawl_time": "2026-03-02T22:02:21.519028",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -845,113 +911,6 @@
       ]
     },
     {
-      "id": "da8e0dbd951d",
-      "title": "直击华工科技AI战略发布会：1.6T光模块规模化商用今年全面启动，3.2T NPO率先应用于头部客户",
-      "url": "https://www.stcn.com/article/detail/3657752.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.306885",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [
-          "AI"
-        ],
-        "indices": []
-      },
-      "ai_summary": "产品发布",
-      "sentiment_analysis": {
-        "sentiment": "bullish",
-        "confidence": 0.6,
-        "signals": [
-          "发布"
-        ]
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "f6ca2454fe1a",
-      "title": "星动纪元陈建宇×斯坦福Chelsea团队发布VLAW 世界模型×VLA协同进化",
-      "url": "https://www.stcn.com/article/detail/3657751.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.306904",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "产品发布",
-      "sentiment_analysis": {
-        "sentiment": "bullish",
-        "confidence": 0.6,
-        "signals": [
-          "发布"
-        ]
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "afa05e12807c",
-      "title": "铭科精技更改募资投向 溢价近一倍收购双骏智能",
-      "url": "https://www.stcn.com/article/detail/3657728.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.306973",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 1,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "bullish"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "收购动态",
-      "sentiment_analysis": {
-        "sentiment": "bullish",
-        "confidence": 0.6,
-        "signals": [
-          "收购"
-        ]
-      },
-      "mentioned_companies": []
-    },
-    {
       "id": "78deb81b2e85",
       "title": "万亿巨头罕见涨停！航运板块爆发，资金抢筹股出炉",
       "url": "https://www.stcn.com/article/detail/3657637.html",
@@ -962,7 +921,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.307002",
+      "crawl_time": "2026-03-02T22:02:21.519044",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -995,7 +954,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.307084",
+      "crawl_time": "2026-03-02T22:02:21.519100",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -1030,7 +989,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.307220",
+      "crawl_time": "2026-03-02T22:02:21.519242",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1063,7 +1022,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.307240",
+      "crawl_time": "2026-03-02T22:02:21.519262",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1096,7 +1055,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.307417",
+      "crawl_time": "2026-03-02T22:02:21.519403",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1129,7 +1088,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.307448",
+      "crawl_time": "2026-03-02T22:02:21.519424",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -1166,7 +1125,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.307466",
+      "crawl_time": "2026-03-02T22:02:21.519441",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -1203,7 +1162,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.307484",
+      "crawl_time": "2026-03-02T22:02:21.519457",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -1238,7 +1197,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.307500",
+      "crawl_time": "2026-03-02T22:02:21.519474",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -1275,7 +1234,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.307544",
+      "crawl_time": "2026-03-02T22:02:21.519511",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1308,7 +1267,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.307782",
+      "crawl_time": "2026-03-02T22:02:21.519775",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1341,7 +1300,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.307797",
+      "crawl_time": "2026-03-02T22:02:21.519792",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1376,7 +1335,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.308073",
+      "crawl_time": "2026-03-02T22:02:21.520065",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1411,7 +1370,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.308110",
+      "crawl_time": "2026-03-02T22:02:21.520149",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1444,7 +1403,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:20.308126",
+      "crawl_time": "2026-03-02T22:02:21.520165",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1477,7 +1436,7 @@
         "国际"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:33.082097",
+      "crawl_time": "2026-03-02T22:02:34.549284",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -1512,7 +1471,7 @@
         "国际"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:33.082136",
+      "crawl_time": "2026-03-02T22:02:34.549319",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -1549,7 +1508,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:33.736555",
+      "crawl_time": "2026-03-02T22:02:35.619215",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1582,7 +1541,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:33.736623",
+      "crawl_time": "2026-03-02T22:02:35.619294",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1615,7 +1574,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:33.736919",
+      "crawl_time": "2026-03-02T22:02:35.619446",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1650,7 +1609,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:33.737075",
+      "crawl_time": "2026-03-02T22:02:35.619579",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1683,7 +1642,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:33.737115",
+      "crawl_time": "2026-03-02T22:02:35.619609",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -1718,7 +1677,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:33.738019",
+      "crawl_time": "2026-03-02T22:02:35.620572",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -1754,7 +1713,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:33.738084",
+      "crawl_time": "2026-03-02T22:02:35.620647",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1793,7 +1752,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:34.597139",
+      "crawl_time": "2026-03-02T22:02:38.040892",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -1820,6 +1779,111 @@
       "mentioned_companies": []
     },
     {
+      "id": "41697053cf6f",
+      "title": "伊朗局势冲击港股，恒生科技失守5000点｜港股复盘",
+      "url": "https://www.21jingji.com/article/20260302/herald/954c6d89bd327f0cdf2fb5faabb242ee.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T22:02:38.041032",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "a21e6ba56caf",
+      "title": "超预期！大模型上市公司首份年报来了",
+      "url": "https://www.21jingji.com/article/20260302/herald/a2523b387e19e7eff1a07ddf4b529f94.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T22:02:38.041138",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "上市动态",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "超预期"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "9150d9415606",
+      "title": "主力复盘：33.98亿爆拉比亚迪 16.48亿出逃天孚通信",
+      "url": "https://www.21jingji.com/article/20260302/herald/b6411fbc8e92a64cbd6f69b64d686c28.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T22:02:38.041306",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [
+          "比亚迪"
+        ],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "涉及比亚迪",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": [
+        "比亚迪"
+      ]
+    },
+    {
       "id": "12878434658a",
       "title": "小米机器人，已进厂实习",
       "url": "https://www.21jingji.com/article/20260302/herald/31b424b6477d96aa1260f63daa394ffa.html",
@@ -1830,7 +1894,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:34.597384",
+      "crawl_time": "2026-03-02T22:02:38.041334",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1857,9 +1921,9 @@
       ]
     },
     {
-      "id": "b06969bb65c0",
-      "title": "MiniMax 2025年业绩超预期：加速全球化，明确“AI平台型公司”战略",
-      "url": "https://www.21jingji.com/article/20260302/herald/46d07e109956f66df36727146446f22b.html",
+      "id": "09fd91a24efb",
+      "title": "中国银行业协会发布《银行业金融机构合规管理自律规范》",
+      "url": "https://www.21jingji.com/article/20260302/herald/8eaa93afea5eb11a0de1eaa63d67467c.html",
       "source": "21世纪经济报道",
       "categories": [
         "宏观",
@@ -1867,44 +1931,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:34.597420",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 1,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "bullish"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [
-          "AI"
-        ],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "bullish",
-        "confidence": 0.6,
-        "signals": [
-          "超预期"
-        ]
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "7e6f92a6b27e",
-      "title": "第一次！三桶油集体涨停，这个变量决定后市",
-      "url": "https://www.21jingji.com/article/20260302/herald/a90d6548d38ba510a33070f6b66e8bfa.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:34.597676",
+      "crawl_time": "2026-03-02T22:02:38.041390",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1915,14 +1942,53 @@
       "entities": {
         "stocks": [],
         "companies": [],
+        "sectors": [
+          "银行"
+        ],
+        "indices": []
+      },
+      "ai_summary": "产品发布",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "发布"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "5eea99a92bd1",
+      "title": "美股明星科技股，盘前集体下跌",
+      "url": "https://www.21jingji.com/article/20260302/herald/a3876dc901b6bd5fdc478b6cac5f3a5f.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T22:02:38.041511",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 1,
+        "neutral": 0,
+        "overall": "bearish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "行业动态",
+      "ai_summary": "市场下跌 | 📉利空",
       "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
+        "sentiment": "bearish",
+        "confidence": 0.6,
+        "signals": [
+          "下跌"
+        ]
       },
       "mentioned_companies": []
     },
@@ -1937,7 +2003,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:34.597732",
+      "crawl_time": "2026-03-02T22:02:38.041530",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -1962,74 +2028,6 @@
       "mentioned_companies": []
     },
     {
-      "id": "6e4b781f3415",
-      "title": "华友钴业碳排大增258%，镍王锂王碳排放齐上涨",
-      "url": "https://www.21jingji.com/article/20260302/herald/a565a189d13903fefac45a91900f0f20.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:34.597794",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 1,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "bullish"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "市场上涨",
-      "sentiment_analysis": {
-        "sentiment": "bullish",
-        "confidence": 0.6,
-        "signals": [
-          "上涨"
-        ]
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "1aa087f0dd74",
-      "title": "证监会：加强上市公司ESG信披指引的动态评估｜ESG热搜榜",
-      "url": "https://www.21jingji.com/article/20260302/herald/bc6d0d42a943e2cdbec053dace66cc90.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:34.597819",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "上市动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
       "id": "0c305558d0ef",
       "title": "神玑单挑英伟达：蔚来拆分芯片业务，赌的是AI时代算力话语权",
       "url": "https://www.21jingji.com/article/20260302/herald/375c6b1c0d9fa875370083012be56163.html",
@@ -2040,7 +2038,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:34.598139",
+      "crawl_time": "2026-03-02T22:02:38.041811",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2080,7 +2078,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:34.598197",
+      "crawl_time": "2026-03-02T22:02:38.041870",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2107,6 +2105,39 @@
       ]
     },
     {
+      "id": "1aa087f0dd74",
+      "title": "证监会：加强上市公司ESG信披指引的动态评估｜ESG热搜榜",
+      "url": "https://www.21jingji.com/article/20260302/herald/bc6d0d42a943e2cdbec053dace66cc90.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T22:02:38.042171",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "上市动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
       "id": "c884035027ab",
       "title": "全线大涨！伊朗，突传重磅！美国，最新宣布！",
       "url": "https://www.21jingji.com/article/20260228/herald/ce0a8df83af434254446e21e40e28656.html",
@@ -2117,7 +2148,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:34.598594",
+      "crawl_time": "2026-03-02T22:02:38.042269",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -2152,7 +2183,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:34.598610",
+      "crawl_time": "2026-03-02T22:02:38.042409",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -2187,7 +2218,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:34.598685",
+      "crawl_time": "2026-03-02T22:02:38.042500",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2210,6 +2241,74 @@
       "mentioned_companies": []
     },
     {
+      "id": "a0e99dc36fec",
+      "title": "南方乳业调整上市方案",
+      "url": "http://www.eeo.com.cn/2026/0302/804192.shtml",
+      "source": "经济观察报",
+      "categories": [
+        "宏观",
+        "产业"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T22:02:41.494144",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "上市动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "422cd95106d5",
+      "title": "大众银行股价单日下跌5.02%，成交额约1.09亿美元",
+      "url": "http://www.eeo.com.cn/2026/0302/804188.shtml",
+      "source": "经济观察报",
+      "categories": [
+        "宏观",
+        "产业"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T22:02:41.494232",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 1,
+        "neutral": 0,
+        "overall": "bearish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [
+          "银行"
+        ],
+        "indices": []
+      },
+      "ai_summary": "市场下跌 | 📉利空",
+      "sentiment_analysis": {
+        "sentiment": "bearish",
+        "confidence": 0.6,
+        "signals": [
+          "下跌"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
       "id": "ef2ae521d38b",
       "title": "百特国际派息0.01美元，股价近七日跌4.14%",
       "url": "http://www.eeo.com.cn/2026/0302/804186.shtml",
@@ -2219,7 +2318,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:36.911047",
+      "crawl_time": "2026-03-02T22:02:41.494271",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2251,7 +2350,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:36.911140",
+      "crawl_time": "2026-03-02T22:02:41.494309",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2274,40 +2373,6 @@
       "mentioned_companies": []
     },
     {
-      "id": "eadfa4186b45",
-      "title": "全球星2025年营收2.73亿美元，同比增长9.04%",
-      "url": "http://www.eeo.com.cn/2026/0302/804179.shtml",
-      "source": "经济观察报",
-      "categories": [
-        "宏观",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:36.911229",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 1,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "bullish"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "业绩增长 | 📈利好",
-      "sentiment_analysis": {
-        "sentiment": "bullish",
-        "confidence": 0.6,
-        "signals": [
-          "增长"
-        ]
-      },
-      "mentioned_companies": []
-    },
-    {
       "id": "5cd9cc751fd9",
       "title": "多个手机品牌加速涨价，预计最大涨幅25%",
       "url": "http://www.eeo.com.cn/2026/0226/801838.shtml",
@@ -2317,7 +2382,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:36.911531",
+      "crawl_time": "2026-03-02T22:02:41.494575",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -2351,7 +2416,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:36.911548",
+      "crawl_time": "2026-03-02T22:02:41.494592",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2374,44 +2439,6 @@
       "mentioned_companies": []
     },
     {
-      "id": "a88f1be289dd",
-      "title": "OpenAI创始人点赞中国大模型，国产方案成国",
-      "url": "http://www.eeo.com.cn/2026/0220/798864.shtml",
-      "source": "经济观察报",
-      "categories": [
-        "宏观",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:36.911575",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [
-          "OpenAI"
-        ],
-        "sectors": [
-          "AI"
-        ],
-        "indices": []
-      },
-      "ai_summary": "涉及OpenAI",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": [
-        "OpenAI"
-      ]
-    },
-    {
       "id": "dac4a73b9bf4",
       "title": "好发展，在平安！平安人寿“高才计划”重磅发布",
       "url": "http://www.eeo.com.cn/2026/0228/803203.shtml",
@@ -2421,7 +2448,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:36.911836",
+      "crawl_time": "2026-03-02T22:02:41.494846",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2455,7 +2482,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:36.912055",
+      "crawl_time": "2026-03-02T22:02:41.495142",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2491,7 +2518,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:36.912089",
+      "crawl_time": "2026-03-02T22:02:41.495194",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -2525,7 +2552,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:36.912107",
+      "crawl_time": "2026-03-02T22:02:41.495221",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2557,7 +2584,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:36.912145",
+      "crawl_time": "2026-03-02T22:02:41.495284",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -2591,7 +2618,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:36.912226",
+      "crawl_time": "2026-03-02T22:02:41.495510",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2623,7 +2650,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:36.912243",
+      "crawl_time": "2026-03-02T22:02:41.495534",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -2658,7 +2685,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T21:28:36.912344",
+      "crawl_time": "2026-03-02T22:02:41.495636",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2695,7 +2722,7 @@
         "宏观"
       ],
       "pub_date": "2026-03-02 09:49:08",
-      "crawl_time": "2026-03-02T21:28:51.960840",
+      "crawl_time": "2026-03-02T22:02:57.035828",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2709,7 +2736,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]Khamenei's death raises questions about Trump's Ch | 行业动态",
+      "ai_summary": "[翻译] [英文]Khamenei's death raises questions about Trump's China trip | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -2728,7 +2755,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-28 14:44:01",
-      "crawl_time": "2026-03-02T21:28:51.960962",
+      "crawl_time": "2026-03-02T22:02:57.036006",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2742,7 +2769,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] Berkshire CEO Greg Abel vows to keep Buffett's culture of disciplined 投资ing in 首次 annual letter | 行业动态",
+      "ai_summary": "[翻译] [英文]Berkshire CEO Greg Abel vows 至 keep Buffett's culture of disciplined investing 在 首次 年度 letter | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -2761,7 +2788,7 @@
         "宏观"
       ],
       "pub_date": "2026-03-02 12:05:48",
-      "crawl_time": "2026-03-02T21:28:51.961020",
+      "crawl_time": "2026-03-02T22:02:57.036153",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2775,7 +2802,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]Berkshire Hathaway operating earnings fell nearly  | 行业动态",
+      "ai_summary": "[翻译] [英文]Berkshire Hathaway operating 收益 下跌 nearly 30% 在 Warren Buffett's final 季度 as CEO | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -2794,7 +2821,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-27 16:59:22",
-      "crawl_time": "2026-03-02T21:28:51.961896",
+      "crawl_time": "2026-03-02T22:02:57.036227",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2808,7 +2835,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] UBS downgrades the U.S. 股票 市场. Here's what has the 投资ment bank worried | 行业动态",
+      "ai_summary": "[翻译] [英文]UBS downgrades the U.S. 股票 市场. Here's what 已 the 投资 bank worried | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -2827,7 +2854,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-27 12:00:01",
-      "crawl_time": "2026-03-02T21:28:51.962146",
+      "crawl_time": "2026-03-02T22:02:57.036271",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2841,7 +2868,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]Not all strategies belong in an ETF wrapper. Here' | 行业动态",
+      "ai_summary": "[翻译] [英文]不 all strategies belong 在 an ETF wrapper. Here's why | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -2860,7 +2887,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-26 14:25:31",
-      "crawl_time": "2026-03-02T21:28:51.962940",
+      "crawl_time": "2026-03-02T22:02:57.036306",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2874,7 +2901,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]MP Materials selects Texas for rare earth magnet m | 行业动态",
+      "ai_summary": "[翻译] [英文]MP Materials selects Texas 为 rare earth magnet manufacturing site | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -2893,7 +2920,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-26 08:23:22",
-      "crawl_time": "2026-03-02T21:28:51.963126",
+      "crawl_time": "2026-03-02T22:02:57.036367",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2909,7 +2936,7 @@
         ],
         "indices": []
       },
-      "ai_summary": "[翻译] 英伟达 still hasn't sold its U.S.-approved China AI 芯片s — and it’s worried local AI rivals could take over | 行业动态",
+      "ai_summary": "[翻译] [英文]英伟达 still hasn't sold 其 U.S.-approved China AI 芯片 — 和 it’s worried local AI rivals could take over | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -2928,7 +2955,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-26 04:26:21",
-      "crawl_time": "2026-03-02T21:28:51.963183",
+      "crawl_time": "2026-03-02T22:02:57.036433",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2942,7 +2969,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]China holiday spending sends a strong signal on co | 行业动态",
+      "ai_summary": "[翻译] [英文]China holiday spending sends a strong signal 在 consumer stimulus 计划 | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -2961,7 +2988,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-25 21:33:54",
-      "crawl_time": "2026-03-02T21:28:51.963245",
+      "crawl_time": "2026-03-02T22:02:57.036472",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2975,7 +3002,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]Are collectibles a viable asset class? The buyer o | 行业动态",
+      "ai_summary": "[翻译] [英文]是 collectibles a viable asset class? The buyer of the $16.5 million Pokémon card thinks so | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -2994,7 +3021,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-25 08:42:49",
-      "crawl_time": "2026-03-02T21:28:51.963301",
+      "crawl_time": "2026-03-02T22:02:57.036505",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3008,7 +3035,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]Trump makes little mention of China in the longest | 行业动态",
+      "ai_summary": "[翻译] [英文]Trump makes little mention of China 在 the longest State of the Union speech | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -3027,7 +3054,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-25 02:46:43",
-      "crawl_time": "2026-03-02T21:28:51.963424",
+      "crawl_time": "2026-03-02T22:02:57.036553",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3043,7 +3070,7 @@
         ],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]The global M&A boom is rolling into 2026 as AI spa | 行业动态",
+      "ai_summary": "[翻译] [英文]The global M&A boom 是 rolling into 2026 as AI sparks deal frenzy — 但 cash 是 getting tight | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -3062,7 +3089,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-24 23:08:25",
-      "crawl_time": "2026-03-02T21:28:51.963584",
+      "crawl_time": "2026-03-02T22:02:57.036586",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3076,7 +3103,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]Register now: Applications open for the World's To | 行业动态",
+      "ai_summary": "[翻译] [英文]Register now: Applications open 为 the World's Top Fintech Companies 2026 | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -3095,7 +3122,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-25 18:11:01",
-      "crawl_time": "2026-03-02T21:28:51.963637",
+      "crawl_time": "2026-03-02T22:02:57.036622",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3109,7 +3136,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] PayPal pops nearly 7% on 报告 fintech 初创公司 Stripe is weighing an acquisition | 行业动态",
+      "ai_summary": "[翻译] [英文]PayPal pops nearly 7% 在 报告 fintech 初创公司 Stripe 是 weighing an 收购 | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -3128,7 +3155,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-24 21:33:36",
-      "crawl_time": "2026-03-02T21:28:51.963682",
+      "crawl_time": "2026-03-02T22:02:57.036659",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3144,7 +3171,7 @@
         ],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]Jamie Dimon says AI is already reshaping JPMorgan  | 行业动态",
+      "ai_summary": "[翻译] [英文]Jamie Dimon 表示 AI 是 already reshaping JPMorgan Chase's workforce as bank 计划 'huge redeployment’ | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -3163,7 +3190,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-25 19:57:11",
-      "crawl_time": "2026-03-02T21:28:51.963783",
+      "crawl_time": "2026-03-02T22:02:57.036692",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3177,7 +3204,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]Fed's Goolsbee calls for a hold on cuts as current | 行业动态",
+      "ai_summary": "[翻译] [英文]Fed's Goolsbee calls 为 a hold 在 cuts as current rate of inflation 是 '不 good enough' | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -3196,7 +3223,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-24 13:17:41",
-      "crawl_time": "2026-03-02T21:28:51.963833",
+      "crawl_time": "2026-03-02T22:02:57.036785",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3210,7 +3237,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]Jamie Dimon says 'watch out’ as lofty asset prices | 行业动态",
+      "ai_summary": "[翻译] [英文]Jamie Dimon 表示 'watch out’ as lofty asset prices add 至 economic risks: ‘My anxiety 是 high’ | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -3229,7 +3256,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-24 15:36:53",
-      "crawl_time": "2026-03-02T21:28:51.963869",
+      "crawl_time": "2026-03-02T22:02:57.036821",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3243,7 +3270,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]Supreme Court ruling throws Trump administration's | 行业动态",
+      "ai_summary": "[翻译] [英文]Supreme Court ruling throws Trump administration's tariff strategy into flux. What it means 为 global trade, U.S. economy | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -3262,7 +3289,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-23 18:02:59",
-      "crawl_time": "2026-03-02T21:28:51.963903",
+      "crawl_time": "2026-03-02T22:02:57.036858",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3276,7 +3303,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] Bitcoin 下跌s to nearly $64,000 as 2026 crypto woes continue | 行业动态",
+      "ai_summary": "[翻译] [英文]Bitcoin 下跌 至 nearly $64,000 as 2026 crypto woes continue | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -3295,7 +3322,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-21 17:46:51",
-      "crawl_time": "2026-03-02T21:28:51.963939",
+      "crawl_time": "2026-03-02T22:02:57.036894",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3309,7 +3336,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] Here are 3 forces that drove the 股票 市场 during Wall Street’s comeback week | 行业动态",
+      "ai_summary": "[翻译] [英文]Here 是 3 forces 该 drove the 股票 市场 during Wall Street’s comeback week | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -3328,7 +3355,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-21 16:00:01",
-      "crawl_time": "2026-03-02T21:28:51.963973",
+      "crawl_time": "2026-03-02T22:02:57.036926",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3342,7 +3369,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] Market volatility trap? Why this income-首次 strategy may 'leave a lot on the table' | 行业动态",
+      "ai_summary": "[翻译] [英文]市场 volatility trap? Why 此次 income-首次 strategy may 'leave a lot 在 the table' | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -3361,7 +3388,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-20 22:07:13",
-      "crawl_time": "2026-03-02T21:28:51.964009",
+      "crawl_time": "2026-03-02T22:02:57.036958",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3375,7 +3402,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] Illiquid loans, 投资or demands: Blue Owl's 软件 lending triggers another quake in private credit | 行业动态",
+      "ai_summary": "[翻译] [英文]Illiquid loans, 投资者 demands: Blue Owl's 软件 lending triggers another quake 在 private credit | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -3394,7 +3421,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-19 15:47:35",
-      "crawl_time": "2026-03-02T21:28:51.964042",
+      "crawl_time": "2026-03-02T22:02:57.036989",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3408,7 +3435,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]Fed officials split on where interest rates should | 行业动态",
+      "ai_summary": "[翻译] [英文]Fed officials split 在 where interest rates should go, minutes say | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -3427,7 +3454,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-17 22:02:39",
-      "crawl_time": "2026-03-02T21:28:51.964079",
+      "crawl_time": "2026-03-02T22:02:57.037028",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3441,7 +3468,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] Berkshire Hathaway trims 苹果 stake, buys NYTimes 股票 in Buffett's last moves as CEO | 行业动态",
+      "ai_summary": "[翻译] [英文]Berkshire Hathaway trims 苹果 stake, buys NYTimes 股票 在 Buffett's last moves as CEO | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -3460,7 +3487,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-17 17:45:51",
-      "crawl_time": "2026-03-02T21:28:51.964113",
+      "crawl_time": "2026-03-02T22:02:57.037059",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3474,7 +3501,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] CFTC defends its right to prediction 市场 enforcement as states challenge platforms | 行业动态",
+      "ai_summary": "[翻译] [英文]CFTC defends 其 right 至 prediction 市场 enforcement as states challenge platforms | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -3493,7 +3520,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-15 15:24:48",
-      "crawl_time": "2026-03-02T21:28:51.964146",
+      "crawl_time": "2026-03-02T22:02:57.037091",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3507,7 +3534,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] In bitcoin price plummet, ETF flows are down but aren't signaling 'crypto winter' 投资or panic | 行业动态",
+      "ai_summary": "[翻译] [英文]在 bitcoin price plummet, ETF flows 是 down 但 aren't signaling 'crypto winter' 投资者 panic | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -3526,7 +3553,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-13 18:19:01",
-      "crawl_time": "2026-03-02T21:28:51.964183",
+      "crawl_time": "2026-03-02T22:02:57.037151",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3542,7 +3569,7 @@
         ],
         "indices": []
       },
-      "ai_summary": "[翻译] AI disruption could spark a ‘shock to the system’ in credit 市场s, UBS analyst says | 行业动态",
+      "ai_summary": "[翻译] [英文]AI disruption could spark a ‘shock 至 the system’ 在 credit 市场, UBS analyst 表示 | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -3561,7 +3588,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-13 08:03:24",
-      "crawl_time": "2026-03-02T21:28:51.964239",
+      "crawl_time": "2026-03-02T22:02:57.037185",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3577,7 +3604,7 @@
         ],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]China's Baidu adds OpenClaw AI into search app for | 行业动态",
+      "ai_summary": "[翻译] [英文]China's 百度 adds OpenClaw AI into search 应用 为 700 million users ahead of Lunar 新款 Year | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -3596,7 +3623,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-13 02:31:38",
-      "crawl_time": "2026-03-02T21:28:51.964291",
+      "crawl_time": "2026-03-02T22:02:57.037219",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3610,7 +3637,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] Xiaomi's electric SUV tops China sales in January, sells twice as many as 特斯拉's Model Y | 行业动态",
+      "ai_summary": "[翻译] [英文]小米's electric SUV tops China sales 在 January, sells twice as many as 特斯拉's Model Y | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -3629,7 +3656,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-12 13:00:01",
-      "crawl_time": "2026-03-02T21:28:51.964330",
+      "crawl_time": "2026-03-02T22:02:57.037251",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3643,7 +3670,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] Tech 上市 hype gets drowned out on Wall Street by prospect of $1 trillion in debt sales | 行业动态",
+      "ai_summary": "[翻译] [英文]科技 上市 hype gets drowned out 在 Wall Street by prospect of $1 trillion 在 debt sales | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -3662,7 +3689,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-11 18:09:08",
-      "crawl_time": "2026-03-02T21:28:51.964406",
+      "crawl_time": "2026-03-02T22:02:57.037283",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3676,7 +3703,103 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]David Einhorn says the Fed will cut 'substantially | 行业动态",
+      "ai_summary": "[翻译] [英文]David Einhorn 表示 the Fed 将 cut 'substantially more' than two times. So he's betting big 在 gold | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "10d0f8c29f1a",
+      "title": "My brother is paranoid, alone and has forgotten that he sold his house. How can we help?",
+      "url": "https://www.marketwatch.com/story/my-sister-and-i-are-his-only-family-my-brother-is-paranoid-and-forgot-he-sold-his-house-what-can-i-do-006a8d3a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "categories": [
+        "美股",
+        "数据"
+      ],
+      "pub_date": "2026-03-02 13:44:00",
+      "crawl_time": "2026-03-02T22:02:58.657635",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]My brother 是 paranoid, 单独 和 已 forgotten 该 he sold his house. How can we help? | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "420790154419",
+      "title": "Here’s how far oil is away from dragging stocks into a bear market, according to Morgan Stanley",
+      "url": "https://www.marketwatch.com/story/heres-how-far-oil-is-away-from-dragging-stocks-into-a-bear-market-according-to-morgan-stanley-b8e1932b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "categories": [
+        "美股",
+        "数据"
+      ],
+      "pub_date": "2026-03-02 13:37:00",
+      "crawl_time": "2026-03-02T22:02:58.657832",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Here’s how far oil 是 away 来自 dragging 股票 into a bear 市场, 据 Morgan Stanley | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "7f6beb509df3",
+      "title": "Anthropic’s Claude suffers an outage. Here’s what to know.",
+      "url": "https://www.marketwatch.com/story/anthropics-claude-suffers-an-outage-heres-what-to-know-df8ada64?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "categories": [
+        "美股",
+        "数据"
+      ],
+      "pub_date": "2026-03-02 13:29:00",
+      "crawl_time": "2026-03-02T22:02:58.657892",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Anthropic’s Claude suffers an 故障. Here’s what 至 know. | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -3694,7 +3817,7 @@
         "数据"
       ],
       "pub_date": "2026-03-02 13:15:00",
-      "crawl_time": "2026-03-02T21:28:53.689077",
+      "crawl_time": "2026-03-02T22:02:58.657933",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3708,7 +3831,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]Here’s what’s worth streaming in March 2026 on Net | 行业动态",
+      "ai_summary": "[翻译] [英文]Here’s what’s worth streaming 在 March 2026 在 奈飞, Hulu, HBO Max 和 more | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -3726,7 +3849,7 @@
         "数据"
       ],
       "pub_date": "2026-03-02 13:11:00",
-      "crawl_time": "2026-03-02T21:28:53.689150",
+      "crawl_time": "2026-03-02T22:02:58.657973",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3740,7 +3863,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]‘I don’t earn enough to support us and our baby’:  | 行业动态",
+      "ai_summary": "[翻译] [英文]‘I don’t earn enough 至 support us 和 our baby’: My husband 是 unemployed 和 lost $22,000 trading sports cards. What now? | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -3758,7 +3881,7 @@
         "数据"
       ],
       "pub_date": "2026-03-02 13:10:00",
-      "crawl_time": "2026-03-02T21:28:53.689260",
+      "crawl_time": "2026-03-02T22:02:58.658011",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3772,7 +3895,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]The economy looks great on paper — but this split  | 行业动态",
+      "ai_summary": "[翻译] [英文]The economy 寻求 great 在 paper — 但 此次 split 在 consumer mood spells trouble | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -3790,7 +3913,7 @@
         "数据"
       ],
       "pub_date": "2026-03-02 12:56:00",
-      "crawl_time": "2026-03-02T21:28:53.690034",
+      "crawl_time": "2026-03-02T22:02:58.658063",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3804,7 +3927,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] ‘I dread the snow’: My heating and air conditioning always breaks down. Do I spend $15,000 on a 新 one? | 行业动态",
+      "ai_summary": "[翻译] [英文]‘I dread the snow’: My heating 和 air conditioning always breaks down. Do I spend $15,000 在 a 新款 one? | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -3822,7 +3945,7 @@
         "数据"
       ],
       "pub_date": "2026-03-02 12:55:00",
-      "crawl_time": "2026-03-02T21:28:53.690130",
+      "crawl_time": "2026-03-02T22:02:58.658098",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3836,7 +3959,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]Why Big Tech’s slide is the best thing to happen t | 行业动态",
+      "ai_summary": "[翻译] [英文]Why Big 科技’s slide 是 the 最佳 thing 至 happen 至 your portfolio | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -3854,7 +3977,7 @@
         "数据"
       ],
       "pub_date": "2026-03-02 12:51:00",
-      "crawl_time": "2026-03-02T21:28:53.690187",
+      "crawl_time": "2026-03-02T22:02:58.658138",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3868,7 +3991,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] Conflict in the Middle East won’t stop 市场’s rotation away from U.S. tech 股票s but accelerate it, says BCA strategist | 行业动态",
+      "ai_summary": "[翻译] [英文]Conflict 在 the Middle East won’t stop 市场’s rotation away 来自 U.S. 科技 股票 但 accelerate it, 表示 BCA strategist | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -3886,7 +4009,7 @@
         "数据"
       ],
       "pub_date": "2026-03-02 12:51:00",
-      "crawl_time": "2026-03-02T21:28:53.690228",
+      "crawl_time": "2026-03-02T22:02:58.658173",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3900,7 +4023,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] Cruise 股票s 下跌, as there’s more than just the Iran conflict to worry about | 行业动态",
+      "ai_summary": "[翻译] [英文]Cruise 股票 下跌, as there’s more than just the 伊朗 conflict 至 worry about | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -3909,16 +4032,16 @@
       "mentioned_companies": []
     },
     {
-      "id": "420790154419",
-      "title": "Here’s how far oil is away from dragging stocks into a bear market, according to Morgan Stanley",
-      "url": "https://www.marketwatch.com/story/heres-how-far-oil-is-away-from-dragging-stocks-into-a-bear-market-according-to-morgan-stanley-b8e1932b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
+      "id": "d344d0180a0f",
+      "title": "Global Gas Markets Shocked as Qatar Ceases LNG Production",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Global-Gas-Markets-Shocked-as-Qatar-Ceases-LNG-Production.html",
+      "source": "OilPrice",
       "categories": [
-        "美股",
-        "数据"
+        "能源",
+        "原油"
       ],
-      "pub_date": "2026-03-02 11:38:00",
-      "crawl_time": "2026-03-02T21:28:53.690268",
+      "pub_date": "2026-03-02 21:54:00",
+      "crawl_time": "2026-03-02T22:03:00.719196",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3932,7 +4055,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] Here’s how far oil is away from dragging 股票s into a bear 市场, according to Morgan Stanley | 行业动态",
+      "ai_summary": "[翻译] [英文]Global Gas 市场 Shocked as Qatar Ceases LNG Production | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -3941,16 +4064,16 @@
       "mentioned_companies": []
     },
     {
-      "id": "af8ef0487147",
-      "title": "What it would take for oil to reach $120 per barrel, according to JPMorgan",
-      "url": "https://www.marketwatch.com/story/heres-the-path-to-oil-hitting-120-per-barrel-according-to-jpmorgan-71792b31?mod=mw_rss_topstories",
-      "source": "MarketWatch",
+      "id": "afe71039c57b",
+      "title": "Drone Strike Halts Saudi Arabia's Largest Oil Refinery",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Drone-Strike-Halts-Saudi-Arabias-Largest-Oil-Refinery.html",
+      "source": "OilPrice",
       "categories": [
-        "美股",
-        "数据"
+        "能源",
+        "原油"
       ],
-      "pub_date": "2026-03-02 10:55:00",
-      "crawl_time": "2026-03-02T21:28:53.690841",
+      "pub_date": "2026-03-02 21:30:00",
+      "crawl_time": "2026-03-02T22:03:00.719264",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3964,39 +4087,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]What it would take for oil to reach $120 per barre | 行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "b8875e032188",
-      "title": "Gasoil is spiking more than crude. What it is and why prices are soaring amid Iran conflict.",
-      "url": "https://www.marketwatch.com/story/gasoil-is-spiking-more-than-crude-what-it-is-and-why-prices-are-soaring-amid-iran-conflict-af45ca50?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "categories": [
-        "美股",
-        "数据"
-      ],
-      "pub_date": "2026-03-02 10:31:00",
-      "crawl_time": "2026-03-02T21:28:53.691090",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "[翻译] [英文]Gasoil is spiking more than crude. What it is and  | 行业动态",
+      "ai_summary": "[翻译] [英文]Drone Strike Halts Saudi Arabia's 最大 Oil Refinery | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -4014,7 +4105,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 20:30:00",
-      "crawl_time": "2026-03-02T21:28:55.689350",
+      "crawl_time": "2026-03-02T22:03:00.719307",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4028,7 +4119,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]Pakistan Reroutes Oil Supply as Strait of Hormuz C | 行业动态",
+      "ai_summary": "[翻译] [英文]Pakistan Reroutes Oil Supply as Strait of Hormuz Crisis Escalates | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -4046,7 +4137,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 19:55:00",
-      "crawl_time": "2026-03-02T21:28:55.689531",
+      "crawl_time": "2026-03-02T22:03:00.719404",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4060,7 +4151,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]How China’s Rare Earth Ban Backfired into a U.S. T | 行业动态",
+      "ai_summary": "[翻译] [英文]How China’s Rare Earth Ban Backfired into a U.S. 科技 Breakthrough | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -4078,7 +4169,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 19:54:29",
-      "crawl_time": "2026-03-02T21:28:55.689588",
+      "crawl_time": "2026-03-02T22:03:00.719469",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4092,7 +4183,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]How the Iran Conflict Could Trigger a Wider Econom | 行业动态",
+      "ai_summary": "[翻译] [英文]How the 伊朗 Conflict Could Trigger a Wider Economic Shock | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -4110,7 +4201,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 19:35:34",
-      "crawl_time": "2026-03-02T21:28:55.689631",
+      "crawl_time": "2026-03-02T22:03:00.719513",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4124,7 +4215,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]Fire Disrupts Operations at Ecuador’s Biggest Refi | 行业动态",
+      "ai_summary": "[翻译] [英文]Fire Disrupts Operations 在 Ecuador’s 最大 Refinery | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -4142,7 +4233,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 18:38:54",
-      "crawl_time": "2026-03-02T21:28:55.689669",
+      "crawl_time": "2026-03-02T22:03:00.719550",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4156,7 +4247,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]Diesel Jumps 17%, Outpacing Crude Oil After Weeken | 行业动态",
+      "ai_summary": "[翻译] [英文]Diesel Jumps 17%, Outpacing Crude Oil 后 Weekend Conflict | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -4174,7 +4265,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 17:39:22",
-      "crawl_time": "2026-03-02T21:28:55.690239",
+      "crawl_time": "2026-03-02T22:03:00.719588",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4188,7 +4279,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]India Mulls Return to Russian Oil as Iran War Halt | 行业动态",
+      "ai_summary": "[翻译] [英文]印度 Mulls Return 至 Russian Oil as 伊朗 War Halts Middle East Flows | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -4206,7 +4297,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 16:07:29",
-      "crawl_time": "2026-03-02T21:28:55.690304",
+      "crawl_time": "2026-03-02T22:03:00.719690",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4220,7 +4311,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]Ukrainian Drones Strike Major Russian Oil Export H | 行业动态",
+      "ai_summary": "[翻译] [英文]Ukrainian Drones Strike 主要 Russian Oil Export Hub 在 Black Sea | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -4238,7 +4329,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 15:27:47",
-      "crawl_time": "2026-03-02T21:28:55.690345",
+      "crawl_time": "2026-03-02T22:03:00.719803",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4252,7 +4343,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]Goldman: Asian and European LNG Prices Could Jump  | 行业动态",
+      "ai_summary": "[翻译] [英文]Goldman: Asian 和 European LNG Prices Could Jump 130% | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -4270,7 +4361,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 14:22:08",
-      "crawl_time": "2026-03-02T21:28:55.690381",
+      "crawl_time": "2026-03-02T22:03:00.719870",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4284,7 +4375,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]Analysts See $100 Oil on Strait of Hormuz Disrupti | 行业动态",
+      "ai_summary": "[翻译] [英文]Analysts See $100 Oil 在 Strait of Hormuz Disruption | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -4302,7 +4393,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 09:58:00",
-      "crawl_time": "2026-03-02T21:28:55.690416",
+      "crawl_time": "2026-03-02T22:03:00.719909",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4316,7 +4407,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]Oil Prices Soar Amid Escalating Middle East Confli | 行业动态",
+      "ai_summary": "[翻译] [英文]Oil Prices 大涨 Amid Escalating Middle East Conflict | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -4334,7 +4425,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 08:00:00",
-      "crawl_time": "2026-03-02T21:28:55.690459",
+      "crawl_time": "2026-03-02T22:03:00.719949",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4348,7 +4439,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]China’s Oil Buying Spree May Be Running Out of Ste | 行业动态",
+      "ai_summary": "[翻译] [英文]China’s Oil Buying Spree May Be Running Out of Steam | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -4366,7 +4457,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 06:00:00",
-      "crawl_time": "2026-03-02T21:28:55.690820",
+      "crawl_time": "2026-03-02T22:03:00.719984",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4380,7 +4471,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]BP Boosts Shale Output in Pivot to Global Upstream | 行业动态",
+      "ai_summary": "[翻译] [英文]BP Boosts Shale Output 在 Pivot 至 Global Upstream Growth | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -4398,7 +4489,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 05:00:00",
-      "crawl_time": "2026-03-02T21:28:55.690915",
+      "crawl_time": "2026-03-02T22:03:00.720018",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4412,7 +4503,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]Middle Eastern Oil Giants Accelerate Multibillion- | 行业动态",
+      "ai_summary": "[翻译] [英文]Middle Eastern Oil Giants Accelerate Multibillion-Dollar Clean Energy Push | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -4421,81 +4512,17 @@
       "mentioned_companies": []
     },
     {
-      "id": "81c9285564df",
-      "title": "Inside North America’s First Fully Integrated Rare Earth Facility",
-      "url": "https://oilprice.com/Interviews/Inside-North-Americas-First-Fully-Integrated-Rare-Earth-Facility.html",
-      "source": "OilPrice",
-      "categories": [
-        "能源",
-        "原油"
-      ],
-      "pub_date": "2026-03-02 02:01:00",
-      "crawl_time": "2026-03-02T21:28:55.690960",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "[翻译] [英文]Inside North America’s First Fully Integrated Rare | 行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "6407fc30ee3d",
-      "title": "China and America Battle for the Future of Limitless Energy",
-      "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/China-and-America-Battle-for-the-Future-of-Limitless-Energy.html",
-      "source": "OilPrice",
-      "categories": [
-        "能源",
-        "原油"
-      ],
-      "pub_date": "2026-03-02 02:00:00",
-      "crawl_time": "2026-03-02T21:28:55.691002",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "[翻译] [英文]China and America Battle for the Future of Limitle | 行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "0162105f0a74",
-      "title": "Pentagon says Iran will not be \"endless war\"",
-      "url": "https://www.investing.com/news/world-news/pentagon-says-iran-will-not-be-endless-war-4534718",
+      "id": "eeda01a14d96",
+      "title": "Trump will decide how long Iran lasts, says Hegseth",
+      "url": "https://www.investing.com/news/economy-news/trump-will-decide-how-long-iran-lasts-says-hegseth-93CH-4534914",
       "source": "Investing.com",
       "categories": [
         "商品",
         "外汇",
         "数据"
       ],
-      "pub_date": "2026-03-02 13:18:34",
-      "crawl_time": "2026-03-02T21:28:56.738975",
+      "pub_date": "2026-03-02 13:48:07",
+      "crawl_time": "2026-03-02T22:03:01.618190",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4509,7 +4536,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]Pentagon says Iran will not be \"endless war\" | 行业动态",
+      "ai_summary": "[翻译] [英文]Trump 将 decide how long 伊朗 lasts, 表示 Hegseth | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -4518,17 +4545,17 @@
       "mentioned_companies": []
     },
     {
-      "id": "ea1f9e2a205b",
-      "title": "Coherent stock surges after Nvidia invests $2 billion",
-      "url": "https://www.investing.com/news/stock-market-news/coherent-stock-surges-after-nvidia-invests-2-billion-93CH-4534717",
+      "id": "29424461c571",
+      "title": "Euda Health Holdings raises $3.75 million in share offering, cancels warrant",
+      "url": "https://www.investing.com/news/sec-filings/euda-health-holdings-raises-375-million-in-share-offering-cancels-warrant-93CH-4534913",
       "source": "Investing.com",
       "categories": [
         "商品",
         "外汇",
         "数据"
       ],
-      "pub_date": "2026-03-02 13:17:58",
-      "crawl_time": "2026-03-02T21:28:56.739115",
+      "pub_date": "2026-03-02 13:46:34",
+      "crawl_time": "2026-03-02T22:03:01.618353",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4542,7 +4569,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] Coherent 股票 大涨s after 英伟达 投资s $2 billion | 行业动态",
+      "ai_summary": "[翻译] [英文]Euda Health Holdings raises $3.75 million 在 股票 offering, cancels warrant | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -4551,17 +4578,17 @@
       "mentioned_companies": []
     },
     {
-      "id": "e3f9b7cd48fc",
-      "title": "Intellia Therapeutics Shares Rise 4.8% as FDA Lifts Clinical Hold",
-      "url": "https://www.investing.com/news/stock-market-news/intellia-therapeutics-shares-rise-48-as-fda-lifts-clinical-hold-93CH-4534716",
+      "id": "aa1b4f95d6b2",
+      "title": "System1 founder sells 23% stake to Brave Bison at 248.64p per share",
+      "url": "https://www.investing.com/news/company-news/system1-founder-sells-23-stake-to-brave-bison-at-24864p-per-share-93CH-4534912",
       "source": "Investing.com",
       "categories": [
         "商品",
         "外汇",
         "数据"
       ],
-      "pub_date": "2026-03-02 13:17:45",
-      "crawl_time": "2026-03-02T21:28:56.739205",
+      "pub_date": "2026-03-02 13:46:22",
+      "crawl_time": "2026-03-02T22:03:01.618401",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4575,7 +4602,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] 英特尔lia Therapeutics Shares Rise 4.8% as FDA Lifts Clinical Hold | 行业动态",
+      "ai_summary": "[翻译] [英文]System1 founder sells 23% stake 至 Brave Bison 在 248.64p per 股票 | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -4584,17 +4611,17 @@
       "mentioned_companies": []
     },
     {
-      "id": "1fc0800a76d2",
-      "title": "Turning Point Brands earnings beat by $0.07, revenue topped estimates",
-      "url": "https://www.investing.com/news/earnings/turning-point-brands-earnings-beat-by-007-revenue-topped-estimates-4534715",
+      "id": "5cd71c11347a",
+      "title": "Birchtech Corp: MacPherson buys $750,000 in BCHT stock",
+      "url": "https://www.investing.com/news/insider-trading-news/birchtech-corp-macpherson-buys-750000-in-bcht-stock-93CH-4534911",
       "source": "Investing.com",
       "categories": [
         "商品",
         "外汇",
         "数据"
       ],
-      "pub_date": "2026-03-02 13:17:36",
-      "crawl_time": "2026-03-02T21:28:56.739270",
+      "pub_date": "2026-03-02 13:45:45",
+      "crawl_time": "2026-03-02T22:03:01.618454",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4608,7 +4635,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] Turning Point Brands earnings beat by $0.07, 营收 topped estimates | 行业动态",
+      "ai_summary": "[翻译] [英文]Birchtech Corp: MacPherson buys $750,000 在 BCHT 股票 | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -4617,17 +4644,17 @@
       "mentioned_companies": []
     },
     {
-      "id": "1b282a54d91c",
-      "title": "Earnings call transcript: Kongsberg Maritime Q4 2025 misses forecasts, stock rises",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-kongsberg-maritime-q4-2025-misses-forecasts-stock-rises-93CH-4534713",
+      "id": "a9a9a375fda8",
+      "title": "Citizens financial SVP Guillaume buys $741 in shares",
+      "url": "https://www.investing.com/news/insider-trading-news/citizens-financial-svp-guillaume-buys-741-in-shares-93CH-4534910",
       "source": "Investing.com",
       "categories": [
         "商品",
         "外汇",
         "数据"
       ],
-      "pub_date": "2026-03-02 13:16:02",
-      "crawl_time": "2026-03-02T21:28:56.739313",
+      "pub_date": "2026-03-02 13:45:41",
+      "crawl_time": "2026-03-02T22:03:01.618494",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4641,7 +4668,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] Earnings call transcript: Kongsberg Maritime Q4 2025 misses forecasts, 股票 上涨s | 行业动态",
+      "ai_summary": "[翻译] [英文]Citizens financial SVP Guillaume buys $741 在 股票 | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -4650,17 +4677,17 @@
       "mentioned_companies": []
     },
     {
-      "id": "ffe90e8130b7",
-      "title": "Earnings call transcript: Yatsen Q4 2025 shows strong revenue growth",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-yatsen-q4-2025-shows-strong-revenue-growth-93CH-4534712",
+      "id": "90eb9f1bc969",
+      "title": "Bernstein reiterates Dell stock rating on AI server strength",
+      "url": "https://www.investing.com/news/analyst-ratings/bernstein-reiterates-dell-stock-rating-on-ai-server-strength-93CH-4534909",
       "source": "Investing.com",
       "categories": [
         "商品",
         "外汇",
         "数据"
       ],
-      "pub_date": "2026-03-02 13:14:56",
-      "crawl_time": "2026-03-02T21:28:56.739402",
+      "pub_date": "2026-03-02 13:45:40",
+      "crawl_time": "2026-03-02T22:03:01.618579",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4671,10 +4698,12 @@
       "entities": {
         "stocks": [],
         "companies": [],
-        "sectors": [],
+        "sectors": [
+          "AI"
+        ],
         "indices": []
       },
-      "ai_summary": "[翻译] Earnings call transcript: Yatsen Q4 2025 shows strong 营收 增长 | 行业动态",
+      "ai_summary": "[翻译] [英文]Bernstein reiterates Dell 股票 rating 在 AI server strength | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -4683,17 +4712,17 @@
       "mentioned_companies": []
     },
     {
-      "id": "b3e82c59cd1a",
-      "title": "Triad Group names Steve Sanderson as senior independent director",
-      "url": "https://www.investing.com/news/company-news/triad-group-names-steve-sanderson-as-senior-independent-director-93CH-4534706",
+      "id": "9ed6242e4ecc",
+      "title": "Bernstein reiterates BYD stock rating on global EV positioning",
+      "url": "https://www.investing.com/news/analyst-ratings/bernstein-reiterates-byd-stock-rating-on-global-ev-positioning-93CH-4534908",
       "source": "Investing.com",
       "categories": [
         "商品",
         "外汇",
         "数据"
       ],
-      "pub_date": "2026-03-02 13:13:55",
-      "crawl_time": "2026-03-02T21:28:56.739446",
+      "pub_date": "2026-03-02 13:45:30",
+      "crawl_time": "2026-03-02T22:03:01.618639",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4707,7 +4736,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]Triad Group names Steve Sanderson as senior indepe | 行业动态",
+      "ai_summary": "[翻译] [英文]Bernstein reiterates 比亚迪 股票 rating 在 global EV positioning | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -4716,17 +4745,17 @@
       "mentioned_companies": []
     },
     {
-      "id": "b1ae95b3eb5e",
-      "title": "Form 8K Cantor Equity Partners I Inc For: 2 March",
-      "url": "https://www.investing.com/news/filings/form-8k-cantor-equity-partners-i-inc-for-2-march-93CH-4534705",
+      "id": "e5f0334da93e",
+      "title": "KeyBanc names 7 undervalued energy stocks amid Iran conflict",
+      "url": "https://www.investing.com/news/stock-market-news/keybanc-names-7-undervalued-energy-stocks-amid-iran-conflict-93CH-4534904",
       "source": "Investing.com",
       "categories": [
         "商品",
         "外汇",
         "数据"
       ],
-      "pub_date": "2026-03-02 13:13:49",
-      "crawl_time": "2026-03-02T21:28:56.739484",
+      "pub_date": "2026-03-02 13:43:52",
+      "crawl_time": "2026-03-02T22:03:01.618678",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4740,7 +4769,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]Form 8K Cantor Equity Partners I Inc For: 2 March | 行业动态",
+      "ai_summary": "[翻译] [英文]KeyBanc names 7 undervalued energy 股票 amid 伊朗 conflict | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -4749,17 +4778,17 @@
       "mentioned_companies": []
     },
     {
-      "id": "fd3cd0b7da6e",
-      "title": "Form 8K Pulmatrix Inc For: 2 March",
-      "url": "https://www.investing.com/news/filings/form-8k-pulmatrix-inc-for-2-march-93CH-4534704",
+      "id": "3a710cb0a8eb",
+      "title": "Medallion Financial repays $31.25 million in privately placed notes at maturity",
+      "url": "https://www.investing.com/news/sec-filings/medallion-financial-repays-3125-million-in-privately-placed-notes-at-maturity-93CH-4534903",
       "source": "Investing.com",
       "categories": [
         "商品",
         "外汇",
         "数据"
       ],
-      "pub_date": "2026-03-02 13:13:47",
-      "crawl_time": "2026-03-02T21:28:56.739522",
+      "pub_date": "2026-03-02 13:43:10",
+      "crawl_time": "2026-03-02T22:03:01.618799",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4773,7 +4802,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]Form 8K Pulmatrix Inc For: 2 March | 行业动态",
+      "ai_summary": "[翻译] [英文]Medallion Financial repays $31.25 million 在 privately placed notes 在 maturity | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
@@ -4782,17 +4811,17 @@
       "mentioned_companies": []
     },
     {
-      "id": "0be9b9ab8b6d",
-      "title": "Form 8K Monopar Therapeutics Inc For: 2 March",
-      "url": "https://www.investing.com/news/filings/form-8k-monopar-therapeutics-inc-for-2-march-93CH-4534703",
+      "id": "7c984695db79",
+      "title": "4 scenarios for a post-Khamanei Iran",
+      "url": "https://www.investing.com/news/economy-news/4-scenarios-for-a-postkhamanei-iran-4534902",
       "source": "Investing.com",
       "categories": [
         "商品",
         "外汇",
         "数据"
       ],
-      "pub_date": "2026-03-02 13:13:47",
-      "crawl_time": "2026-03-02T21:28:56.739567",
+      "pub_date": "2026-03-02 13:42:40",
+      "crawl_time": "2026-03-02T22:03:01.618905",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4806,7 +4835,7 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "[翻译] [英文]Form 8K Monopar Therapeutics Inc For: 2 March | 行业动态",
+      "ai_summary": "[翻译] [英文]4 scenarios 为 a post-Khamanei 伊朗 | 行业动态",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
