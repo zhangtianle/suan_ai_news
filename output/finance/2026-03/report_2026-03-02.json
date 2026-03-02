@@ -1,38 +1,38 @@
 {
   "date": "2026-03-02",
-  "date_range": 3,
+  "date_range": 1,
   "type": "finance",
   "version": "v3",
   "ai_enhanced": true,
   "analysis": {
-    "total": 250,
+    "total": 145,
     "signal_stats": {
-      "bullish": 33,
-      "bearish": 3,
-      "neutral": 214
+      "bullish": 38,
+      "bearish": 2,
+      "neutral": 105
     },
     "source_stats": {
-      "新浪财经": 7,
-      "东方财富": 21,
-      "证券时报": 69,
-      "第一财经": 1,
-      "财新网": 20,
-      "21世纪经济报道": 45,
-      "经济观察报": 22,
+      "新浪财经": 1,
+      "东方财富": 1,
+      "证券时报": 42,
+      "第一财经": 2,
+      "财新网": 8,
+      "21世纪经济报道": 15,
+      "经济观察报": 11,
       "CNBC": 30,
       "MarketWatch": 10,
       "OilPrice": 15,
       "Investing.com": 10
     },
     "category_stats": {
-      "宏观": 194,
-      "股市": 173,
-      "期货": 28,
-      "基金": 21,
-      "政策": 69,
-      "国际": 31,
-      "金融": 20,
-      "产业": 87,
+      "宏观": 109,
+      "股市": 91,
+      "期货": 2,
+      "基金": 1,
+      "政策": 42,
+      "国际": 32,
+      "金融": 8,
+      "产业": 34,
       "美股": 10,
       "数据": 20,
       "能源": 15,
@@ -41,26 +41,39 @@
       "外汇": 10
     },
     "entity_stats": {
-      "汽车": 2,
-      "银行": 4,
+      "科创50": 1,
+      "比亚迪": 1,
+      "腾讯": 1,
+      "华为": 1,
+      "银行": 2,
       "上证指数": 3,
-      "储能": 1,
+      "AI": 14,
       "半导体": 1,
       "券商": 2,
-      "芯片": 1,
-      "AI": 12,
-      "OpenAI": 2,
+      "保险": 1,
+      "芯片": 2,
+      "汽车": 1,
+      "OpenAI": 3,
+      "英伟达": 1,
+      "小米": 1,
       "阿里": 1
     },
     "date_stats": {
-      "2026-03-02": 250
+      "2026-03-02": 145
     },
     "company_stats": {
-      "OpenAI": 2,
+      "华为": 1,
+      "字节": 1,
+      "腾讯": 1,
+      "比亚迪": 1,
+      "OpenAI": 3,
+      "英伟达": 1,
+      "小米": 1,
+      "百度": 1,
       "阿里": 1
     },
-    "sentiment": "中性 ➖",
-    "sentiment_desc": "市场多空平衡，观望为主"
+    "sentiment": "偏多 📈",
+    "sentiment_desc": "市场情绪乐观，利好消息占优"
   },
   "articles": [
     {
@@ -74,766 +87,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:18.274101",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "6fe3727654a2",
-      "title": "华盛通 港美股",
-      "url": "https://hd.hstong.com/register/2019/0424?_scnl=NWZpNGk2OWJjYTIy",
-      "source": "新浪财经",
-      "categories": [
-        "宏观",
-        "股市",
-        "期货"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:18.274283",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "b20e8ed018b8",
-      "title": "金麒麟研报",
-      "url": "https://finance.sina.com.cn/stock/reportch/jinqilin.shtml",
-      "source": "新浪财经",
-      "categories": [
-        "宏观",
-        "股市",
-        "期货"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:18.274490",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "efe3e2097b4d",
-      "title": "历史资金流向明细>>",
-      "url": "https://touzi.sina.com.cn/public/data",
-      "source": "新浪财经",
-      "categories": [
-        "宏观",
-        "股市",
-        "期货"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:18.274570",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "eb5350706e97",
-      "title": "主题轮动该抓哪些股>>",
-      "url": "https://touzi.sina.com.cn",
-      "source": "新浪财经",
-      "categories": [
-        "宏观",
-        "股市",
-        "期货"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:18.274589",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "457defc737d5",
-      "title": "中国概念股",
-      "url": "http://finance.sina.com.cn/stock/usstock/cnlist.html",
-      "source": "新浪财经",
-      "categories": [
-        "宏观",
-        "股市",
-        "期货"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:18.274996",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "a816f64c0f0e",
-      "title": "SPDR黄金持仓",
-      "url": "http://stock.finance.sina.com.cn/futures/view/vGoldEtf.php",
-      "source": "新浪财经",
-      "categories": [
-        "宏观",
-        "股市",
-        "期货"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:18.275044",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "c173da271c36",
-      "title": "东方财富手机版",
-      "url": "https://marketing.dfcfs.com/views/aghdhtml/activity3.html",
-      "source": "东方财富",
-      "categories": [
-        "股市",
-        "基金",
-        "期货"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:19.150095",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "df93152db406",
-      "title": "天天基金手机版",
-      "url": "http://js1.eastmoney.com/tg.aspx?ID=3120",
-      "source": "东方财富",
-      "categories": [
-        "股市",
-        "基金",
-        "期货"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:19.150117",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "248984b48896",
-      "title": "东方财富专业版",
-      "url": "https://acttg.eastmoney.com/pub/pctg_hskh_act_wysfzyb_01_01_01_0",
-      "source": "东方财富",
-      "categories": [
-        "股市",
-        "基金",
-        "期货"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:19.150144",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "9927b4b1912e",
-      "title": "东方财富增值版",
-      "url": "https://www.dfcfw.com/cpmm/TYB.html",
-      "source": "东方财富",
-      "categories": [
-        "股市",
-        "基金",
-        "期货"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:19.150157",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "89f5d7e61c4e",
-      "title": "天天基金网",
-      "url": "http://fund.eastmoney.com/",
-      "source": "东方财富",
-      "categories": [
-        "股市",
-        "基金",
-        "期货"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:19.150171",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "6519e9857258",
-      "title": "东方财富证券",
-      "url": "http://acttg.eastmoney.com/pub/web_kh_dcsy_jycdl_01_01_01_1",
-      "source": "东方财富",
-      "categories": [
-        "股市",
-        "基金",
-        "期货"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:19.150277",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "bf3ab2d963a0",
-      "title": "惊喜佣金开户",
-      "url": "https://zqhd.18.cn/index.html?tz=web_kh_cgds_khewmsms_01_01_01_0",
-      "source": "东方财富",
-      "categories": [
-        "股市",
-        "基金",
-        "期货"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:19.150350",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "41948ea281da",
-      "title": "证券交易客户端",
-      "url": "https://acttg.eastmoney.com/pub/pctg_hskh_act_wysfzqjy_01_01_01_0",
-      "source": "东方财富",
-      "categories": [
-        "股市",
-        "基金",
-        "期货"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:19.150374",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "cc03c698ec78",
-      "title": "东方财富期货",
-      "url": "https://qs.dfcfw.com/1585",
-      "source": "东方财富",
-      "categories": [
-        "股市",
-        "基金",
-        "期货"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:19.150418",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "1bb68805cda1",
-      "title": "Choice金融终端",
-      "url": "https://choice.eastmoney.com/terminal?adid=web_choice_dcsy_website_01_01_01_0",
-      "source": "东方财富",
-      "categories": [
-        "股市",
-        "基金",
-        "期货"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:19.150598",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "2127db85b5e0",
-      "title": "惊喜佣金开户",
-      "url": "https://zqhd.18.cn/index.html?ad_id=web_kh_dcsy_jyagkh_01_01_01_0",
-      "source": "东方财富",
-      "categories": [
-        "股市",
-        "基金",
-        "期货"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:19.150947",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "e8bc1ef879ff",
-      "title": "油服工程板块领涨",
-      "url": "https://so.eastmoney.com/Web/s?keyword=%E6%B2%B9%E6%9C%8D%E5%B7%A5%E7%A8%8B",
-      "source": "东方财富",
-      "categories": [
-        "股市",
-        "基金",
-        "期货"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:19.151128",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "ab22fde2063f",
-      "title": "贵金属板块走强",
-      "url": "https://so.eastmoney.com/Web/s?keyword=%E8%B4%B5%E9%87%91%E5%B1%9E",
-      "source": "东方财富",
-      "categories": [
-        "股市",
-        "基金",
-        "期货"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:19.151144",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "691bd9feab91",
-      "title": "航空机场板块领跌",
-      "url": "https://so.eastmoney.com/Web/s?keyword=%E8%88%AA%E7%A9%BA%E6%9C%BA%E5%9C%BA",
-      "source": "东方财富",
-      "categories": [
-        "股市",
-        "基金",
-        "期货"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:19.151157",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "f2f871bb4686",
-      "title": "沪深资金流向",
-      "url": "https://data.eastmoney.com/zjlx/dpzjlx.html",
-      "source": "东方财富",
-      "categories": [
-        "股市",
-        "基金",
-        "期货"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:19.151172",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "7525e6a46b96",
-      "title": "A股估值分析全览",
-      "url": "http://data.eastmoney.com/gzfx/",
-      "source": "东方财富",
-      "categories": [
-        "股市",
-        "基金",
-        "期货"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:19.151184",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "5d71597ab33d",
-      "title": "重要机构持股数据",
-      "url": "http://data.eastmoney.com/gjdcg/",
-      "source": "东方财富",
-      "categories": [
-        "股市",
-        "基金",
-        "期货"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:19.151197",
+      "crawl_time": "2026-03-02T20:52:59.237638",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -866,7 +120,7 @@
         "期货"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:19.151251",
+      "crawl_time": "2026-03-02T20:53:00.163948",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -889,138 +143,6 @@
       "mentioned_companies": []
     },
     {
-      "id": "38c3c142edfa",
-      "title": "东方财富PC版",
-      "url": "https://emdesk.eastmoney.com/pc_activity/Pages/VIPTrade/pages/index.html",
-      "source": "东方财富",
-      "categories": [
-        "股市",
-        "基金",
-        "期货"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:19.151353",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "1133119a7672",
-      "title": "天天基金手机版",
-      "url": "http://fundact.eastmoney.com/app/?spm=100015.sjj",
-      "source": "东方财富",
-      "categories": [
-        "股市",
-        "基金",
-        "期货"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:19.151385",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "f23611807d8f",
-      "title": "东方财富期货PC版",
-      "url": "https://qhweb.eastmoney.com/download/windows",
-      "source": "东方财富",
-      "categories": [
-        "股市",
-        "基金",
-        "期货"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:19.151403",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "53b67b936189",
-      "title": "证券市场信息披露媒体",
-      "url": "https://www.stcn.com/xinpi/index.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.067927",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
       "id": "e74084714248",
       "title": "纳芯微：2025年营业总收入同比增长71.8% H股明起恢复买卖",
       "url": "https://www.stcn.com/article/detail/3657757.html",
@@ -1031,7 +153,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.068288",
+      "crawl_time": "2026-03-02T20:53:01.883236",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 2,
@@ -1067,139 +189,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.068315",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "eae34dde199b",
-      "title": "杭州高新：拟向公司控股股东定增募资不超2亿元",
-      "url": "https://www.stcn.com/article/detail/3657742.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.068466",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "b45057c8c4d2",
-      "title": "市场波动较大，多家交易所紧急提示！做好市场风险控制",
-      "url": "https://www.stcn.com/article/detail/3657662.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.068555",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "📉利空",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "008d1f4877e7",
-      "title": "水贝金价一日涨超110元/克，商家担心补不到货",
-      "url": "https://www.stcn.com/article/detail/3657666.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.068568",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "ece310f99008",
-      "title": "石油基金LOF：将于明日开市起至当日10:30停牌",
-      "url": "https://www.stcn.com/article/detail/3657407.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.068581",
+      "crawl_time": "2026-03-02T20:53:01.883264",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1232,7 +222,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.068595",
+      "crawl_time": "2026-03-02T20:53:01.884036",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 2,
@@ -1268,7 +258,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.068609",
+      "crawl_time": "2026-03-02T20:53:01.884061",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1301,7 +291,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.068622",
+      "crawl_time": "2026-03-02T20:53:01.884086",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -1336,7 +326,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.068635",
+      "crawl_time": "2026-03-02T20:53:01.884112",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1359,43 +349,6 @@
       "mentioned_companies": []
     },
     {
-      "id": "e7652d58378c",
-      "title": "长安汽车公告，拟最高回购14亿元公司A股股份",
-      "url": "https://www.stcn.com/article/detail/3657673.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.068654",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 1,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "bullish"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [
-          "汽车"
-        ],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "bullish",
-        "confidence": 0.6,
-        "signals": [
-          "回购"
-        ]
-      },
-      "mentioned_companies": []
-    },
-    {
       "id": "e9dd8dee22c6",
       "title": "具身智能企业融资提速，银河通用完成新一轮融资",
       "url": "https://www.stcn.com/article/detail/3657658.html",
@@ -1406,7 +359,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.068667",
+      "crawl_time": "2026-03-02T20:53:01.884170",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1429,41 +382,6 @@
       "mentioned_companies": []
     },
     {
-      "id": "f7d9fcd2f586",
-      "title": "战火波及，这国宣布股市休市2天！亚马逊突传利空",
-      "url": "https://www.stcn.com/article/detail/3657459.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.068685",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 1,
-        "neutral": 0,
-        "overall": "bearish"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "📉利空",
-      "sentiment_analysis": {
-        "sentiment": "bearish",
-        "confidence": 0.6,
-        "signals": [
-          "利空"
-        ]
-      },
-      "mentioned_companies": []
-    },
-    {
       "id": "e3c3ec2dc995",
       "title": "东方证券发布董事会决议公告 选举周磊为公司董事长",
       "url": "https://www.stcn.com/article/detail/3657457.html",
@@ -1474,7 +392,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.068752",
+      "crawl_time": "2026-03-02T20:53:01.884230",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1499,74 +417,6 @@
       "mentioned_companies": []
     },
     {
-      "id": "5047cf7caf80",
-      "title": "新逻辑！小金属逆市爆发！公募拥抱“旧爱”",
-      "url": "https://www.stcn.com/article/detail/3656893.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.068817",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "4a0e497312df",
-      "title": "港股回购榜大洗牌！科技股扛大旗，金融股退居二线",
-      "url": "https://www.stcn.com/article/detail/3656493.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.068933",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 1,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "bullish"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "bullish",
-        "confidence": 0.6,
-        "signals": [
-          "回购"
-        ]
-      },
-      "mentioned_companies": []
-    },
-    {
       "id": "3e713d946baf",
       "title": "券业重磅！东吴证券停牌，拟收购东海证券控制权！",
       "url": "https://www.stcn.com/article/detail/3656326.html",
@@ -1577,7 +427,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.068947",
+      "crawl_time": "2026-03-02T20:53:01.884443",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -1602,39 +452,6 @@
       "mentioned_companies": []
     },
     {
-      "id": "1886ad03f56e",
-      "title": "义乌市场“进货式旅游”大增 客户催着开门营业",
-      "url": "https://www.stcn.com/article/detail/3655958.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.068987",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
       "id": "0098daade763",
       "title": "公募基金节后扎堆调研 顺周期板块最是“心头好”",
       "url": "https://www.stcn.com/article/detail/3655968.html",
@@ -1645,40 +462,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.069001",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "b887d13ec425",
-      "title": "时报会客厅丨春节消费呈现哪些特点？如何看2026年消费的投资机会？",
-      "url": "https://www.stcn.com/live/detail/1212.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.069064",
+      "crawl_time": "2026-03-02T20:53:01.884758",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1711,7 +495,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.069079",
+      "crawl_time": "2026-03-02T20:53:01.884929",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1730,6 +514,78 @@
         "sentiment": "neutral",
         "confidence": 0.5,
         "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "60e6fe5e9da4",
+      "title": "深圳二手房成交价连续两个月小幅上涨",
+      "url": "https://www.stcn.com/article/detail/3657715.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T20:53:01.885044",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "市场上涨",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "上涨"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "3204eb2f32f7",
+      "title": "开局“十五五”，春耕硬科技丨科创板公司2025年净利润预计增长近三成 两大“硬科技”赛道增势强劲",
+      "url": "https://www.stcn.com/article/detail/3657435.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T20:53:01.885073",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": [
+          "科创50"
+        ]
+      },
+      "ai_summary": "业绩增长 | 📈利好",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "增长"
+        ]
       },
       "mentioned_companies": []
     },
@@ -1744,7 +600,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.069166",
+      "crawl_time": "2026-03-02T20:53:01.885109",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1767,9 +623,9 @@
       "mentioned_companies": []
     },
     {
-      "id": "73264f1773bd",
-      "title": "3.2万亿元投资计划背后，深圳在补什么？",
-      "url": "https://www.stcn.com/article/detail/3656896.html",
+      "id": "17f1eac266ea",
+      "title": "最新清华毕业生数据出炉，华为、比亚迪、字节跳动、腾讯等抢走大量人才",
+      "url": "https://www.stcn.com/article/detail/3656774.html",
       "source": "证券时报",
       "categories": [
         "股市",
@@ -1777,7 +633,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.069183",
+      "crawl_time": "2026-03-02T20:53:01.885191",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1787,118 +643,26 @@
       },
       "entities": {
         "stocks": [],
-        "companies": [],
+        "companies": [
+          "比亚迪",
+          "腾讯",
+          "华为"
+        ],
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "行业动态",
+      "ai_summary": "涉及华为, 字节",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
         "signals": []
       },
-      "mentioned_companies": []
-    },
-    {
-      "id": "07e180e7fe6a",
-      "title": "产油国宣布增产效果“杯水车薪”？国际油价大幅跳涨，机构上调风险溢价",
-      "url": "https://www.stcn.com/article/detail/3656666.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.069223",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "📉利空",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "838ad0ee1df8",
-      "title": "中指研究院：多家房企销售业绩明显增长 核心城市或迎\"小阳春\"行情",
-      "url": "https://www.stcn.com/article/detail/3656333.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.069268",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 1,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "bullish"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "业绩增长 | 📈利好",
-      "sentiment_analysis": {
-        "sentiment": "bullish",
-        "confidence": 0.6,
-        "signals": [
-          "增长"
-        ]
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "70a13cb9b994",
-      "title": "数据复盘丨石油石化、贵金属等行业走强 89股获主力资金净流入超1亿元",
-      "url": "https://www.stcn.com/article/detail/3657280.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.069289",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
+      "mentioned_companies": [
+        "华为",
+        "字节",
+        "腾讯",
+        "比亚迪"
+      ]
     },
     {
       "id": "fd3b53d20bd1",
@@ -1911,7 +675,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.069328",
+      "crawl_time": "2026-03-02T20:53:01.885289",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1944,7 +708,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.069351",
+      "crawl_time": "2026-03-02T20:53:01.885343",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -1971,39 +735,6 @@
       "mentioned_companies": []
     },
     {
-      "id": "3ba295b3ce36",
-      "title": "金价狂飙，这些金矿股却“涨不动”",
-      "url": "https://www.stcn.com/article/detail/3656803.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.069381",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
       "id": "f0d2800b3b10",
       "title": "原油类ETF全线大涨，OPEC+初步同意增产",
       "url": "https://www.stcn.com/article/detail/3656710.html",
@@ -2014,7 +745,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.069444",
+      "crawl_time": "2026-03-02T20:53:01.885402",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -2049,7 +780,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.069466",
+      "crawl_time": "2026-03-02T20:53:01.885431",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -2084,7 +815,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.069479",
+      "crawl_time": "2026-03-02T20:53:01.885940",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2109,9 +840,9 @@
       "mentioned_companies": []
     },
     {
-      "id": "a9626ef8be27",
-      "title": "金时科技拟约5亿元投建独立储能电站项目",
-      "url": "https://www.stcn.com/article/detail/3657750.html",
+      "id": "e43617bccbdd",
+      "title": "章源钨业再创新高 公司提示风险",
+      "url": "https://www.stcn.com/article/detail/3656607.html",
       "source": "证券时报",
       "categories": [
         "股市",
@@ -2119,7 +850,43 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.069589",
+      "crawl_time": "2026-03-02T20:53:01.885988",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "📉利空",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.7,
+        "signals": [
+          "新高",
+          "创新"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "b822edc2cba7",
+      "title": "直击华工科技AI战略发布会：1.6T光模块规模化商用今年全面启动，3.2T NPO率...",
+      "url": "https://www.stcn.com/article/detail/3657752.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T20:53:01.886010",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2131,15 +898,87 @@
         "stocks": [],
         "companies": [],
         "sectors": [
-          "储能"
+          "AI"
         ],
         "indices": []
       },
-      "ai_summary": "行业动态",
+      "ai_summary": "产品发布",
       "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "发布"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "f6ca2454fe1a",
+      "title": "星动纪元陈建宇×斯坦福Chelsea团队发布VLAW 世界模型×VLA协同进化",
+      "url": "https://www.stcn.com/article/detail/3657751.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T20:53:01.886031",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "产品发布",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "发布"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "afa05e12807c",
+      "title": "铭科精技更改募资投向 溢价近一倍收购双骏智能",
+      "url": "https://www.stcn.com/article/detail/3657728.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T20:53:01.886068",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "收购动态",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "收购"
+        ]
       },
       "mentioned_companies": []
     },
@@ -2154,7 +993,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.069626",
+      "crawl_time": "2026-03-02T20:53:01.886086",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -2189,7 +1028,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.069641",
+      "crawl_time": "2026-03-02T20:53:01.886103",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2214,6 +1053,43 @@
       "mentioned_companies": []
     },
     {
+      "id": "64663712f96a",
+      "title": "神州数码旗下神州鲲泰发布超节点服务器和AI推理工作站",
+      "url": "https://www.stcn.com/article/detail/3657724.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T20:53:01.886127",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [
+          "AI"
+        ],
+        "indices": []
+      },
+      "ai_summary": "产品发布",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "发布"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
       "id": "78deb81b2e85",
       "title": "万亿巨头罕见涨停！航运板块爆发，资金抢筹股出炉",
       "url": "https://www.stcn.com/article/detail/3657637.html",
@@ -2224,73 +1100,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.069741",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "3c043e076be5",
-      "title": "主力资金 | 尾盘主力资金出逃10股超亿元",
-      "url": "https://www.stcn.com/article/detail/3657635.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.069763",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "541afc8dcbf3",
-      "title": "最新股东户数揭秘：这24股股东户数连降三期",
-      "url": "https://www.stcn.com/article/detail/3657012.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.069777",
+      "crawl_time": "2026-03-02T20:53:01.886170",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2323,7 +1133,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.069789",
+      "crawl_time": "2026-03-02T20:53:01.886207",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -2348,9 +1158,9 @@
       "mentioned_companies": []
     },
     {
-      "id": "835c127e6f03",
-      "title": "11股今日获机构买入评级",
-      "url": "https://www.stcn.com/article/detail/3657256.html",
+      "id": "6611ee0d4dfc",
+      "title": "商业不动产REITs申报火热，14只产品拟募资超417亿元，监管问询关注这几大问题",
+      "url": "https://www.stcn.com/article/detail/3656611.html",
       "source": "证券时报",
       "categories": [
         "股市",
@@ -2358,139 +1168,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.069802",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "3033fd2b5446",
-      "title": "4只中证2000指数ETF成交额环比增超100%",
-      "url": "https://www.stcn.com/article/detail/3656996.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.069828",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "44df0cb830a4",
-      "title": "可燃冰概念涨8.90%，主力资金净流入这些股",
-      "url": "https://www.stcn.com/article/detail/3657037.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.069861",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "81628c32f8eb",
-      "title": "公募2月“掘金”路线曝光 电子等行业最受关注",
-      "url": "https://www.stcn.com/article/detail/3656724.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.069902",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "51b07b10b8d6",
-      "title": "透视白银LOF事件：当金融产品成为社交爆款，适当性管理如何接住流量考验",
-      "url": "https://www.stcn.com/article/detail/3656770.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.069917",
+      "crawl_time": "2026-03-02T20:53:01.886456",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2523,7 +1201,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.069976",
+      "crawl_time": "2026-03-02T20:53:01.886477",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2546,72 +1224,6 @@
       "mentioned_companies": []
     },
     {
-      "id": "65c960b5f07c",
-      "title": "从“重规模”转向“重质量”货币基金收益率跌破1% 自动降费常态化",
-      "url": "https://www.stcn.com/article/detail/3656108.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.070036",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "7f7391a86ab1",
-      "title": "小金属获看多做多 公募基金何以重拾“旧爱”？",
-      "url": "https://www.stcn.com/article/detail/3655964.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.070075",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
       "id": "2a3b1831a483",
       "title": "2月债市延续修复行情，中长债基金表现较好，最高收益率超2%",
       "url": "https://www.stcn.com/article/detail/3656991.html",
@@ -2622,7 +1234,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.070110",
+      "crawl_time": "2026-03-02T20:53:01.886616",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2655,7 +1267,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.070127",
+      "crawl_time": "2026-03-02T20:53:01.886679",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -2682,6 +1294,43 @@
       "mentioned_companies": []
     },
     {
+      "id": "eecb07b4256c",
+      "title": "透视保险行业“盈利潮”：改革红利释放“资负联动”深化",
+      "url": "https://www.stcn.com/article/detail/3656574.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T20:53:01.886741",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [
+          "保险"
+        ],
+        "indices": []
+      },
+      "ai_summary": "📈利好",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "盈利"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
       "id": "c0fc47af6591",
       "title": "东吴证券拟收购东海证券控制权",
       "url": "https://www.stcn.com/article/detail/3656541.html",
@@ -2692,7 +1341,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.070171",
+      "crawl_time": "2026-03-02T20:53:01.886807",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -2727,7 +1376,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.070188",
+      "crawl_time": "2026-03-02T20:53:01.886835",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -2764,7 +1413,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.070230",
+      "crawl_time": "2026-03-02T20:53:01.886905",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2787,171 +1436,6 @@
       "mentioned_companies": []
     },
     {
-      "id": "148e7fcb258a",
-      "title": "手机涨价潮最快一周内“杀到”",
-      "url": "https://www.stcn.com/article/detail/3656705.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.070255",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "9cd84d6920b4",
-      "title": "中东局势升级推动避险情绪，黄金重返5400美元，能否再破前高？",
-      "url": "https://www.stcn.com/article/detail/3656702.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.070485",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "5cde1716380f",
-      "title": "冰火两重天：手机面板价格承压 电视面板延续涨势",
-      "url": "https://www.stcn.com/article/detail/3656575.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.070510",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "be428f0b844b",
-      "title": "存储涨价潮冲击 2026年手机市场承压",
-      "url": "https://www.stcn.com/article/detail/3656566.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.070531",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "e293cf5de8f3",
-      "title": "竞逐春节档 游戏厂商花式联动抢市场",
-      "url": "https://www.stcn.com/article/detail/3656565.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.070545",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
       "id": "6da31b951794",
       "title": "春晚机器人“演员”官宣融资",
       "url": "https://www.stcn.com/article/detail/3656908.html",
@@ -2962,7 +1446,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.070593",
+      "crawl_time": "2026-03-02T20:53:01.887247",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -2995,7 +1479,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.070610",
+      "crawl_time": "2026-03-02T20:53:01.887272",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3020,171 +1504,6 @@
       "mentioned_companies": []
     },
     {
-      "id": "0f6f224fbcfc",
-      "title": "港股IPO基石投资者今年以来认购400亿港元",
-      "url": "https://www.stcn.com/article/detail/3652730.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.070630",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "889805e84a00",
-      "title": "清仓酸奶巨头股权，这家VC/PE“回笼”超15亿",
-      "url": "https://www.stcn.com/article/detail/3651465.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.070657",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "bbfc4d105a13",
-      "title": "果链巨头碳排增32%，11家A股ESG强信披电子业缺考",
-      "url": "https://www.stcn.com/article/detail/3652668.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.070894",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "bae9165520ca",
-      "title": "北京经开区接到“零碳KPI”，如何建成零碳园区？",
-      "url": "https://www.stcn.com/article/detail/3638920.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.071522",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "093b3951720a",
-      "title": "天津经开区：从能源破局到百亿投建 传统园区的零碳转型样本",
-      "url": "https://www.stcn.com/article/detail/3638488.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.071558",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
       "id": "5f5ce39a8b9c",
       "title": "本钢板材：首月迎“开门红”！业绩预告显著减亏，汽车钢销量创历史最好水平",
       "url": "https://www.stcn.com/article/detail/3635330.html",
@@ -3195,7 +1514,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.071624",
+      "crawl_time": "2026-03-02T20:53:01.888375",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3220,39 +1539,6 @@
       "mentioned_companies": []
     },
     {
-      "id": "f0763b703525",
-      "title": "主力资金丨尾盘主力资金出逃10股超亿元",
-      "url": "https://www.stcn.com/article/detail/3657628.html",
-      "source": "证券时报",
-      "categories": [
-        "股市",
-        "宏观",
-        "政策"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.071658",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
       "id": "eb9298a8ca81",
       "title": "万亿巨头罕见涨停！航运板块爆发，资金抢筹股出炉",
       "url": "https://www.stcn.com/article/detail/3657634.html",
@@ -3263,7 +1549,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.071678",
+      "crawl_time": "2026-03-02T20:53:01.888439",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3296,7 +1582,7 @@
         "政策"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:22.071692",
+      "crawl_time": "2026-03-02T20:53:01.888465",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3319,6 +1605,41 @@
       "mentioned_companies": []
     },
     {
+      "id": "b893cdbdcaa2",
+      "title": "“汾酒抖音挑战赛播放量突破6.3亿次，全面掀起新春清香热 >",
+      "url": "https://www.yicai.com/news/102000474.html",
+      "source": "第一财经",
+      "categories": [
+        "宏观",
+        "股市",
+        "国际"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T20:53:02.528546",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "技术突破 | 📈利好",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "突破"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
       "id": "3211b147fb7e",
       "title": "“第四范式财报放盈利前景 定位AI时代Salesforce",
       "url": "https://www.yicai.com/news/102038339.html",
@@ -3329,7 +1650,7 @@
         "国际"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:35.302471",
+      "crawl_time": "2026-03-02T20:53:02.528570",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -3366,7 +1687,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:35.905367",
+      "crawl_time": "2026-03-02T20:53:03.318951",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3399,7 +1720,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:35.905406",
+      "crawl_time": "2026-03-02T20:53:03.319006",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3411,74 +1732,6 @@
         "stocks": [],
         "companies": [],
         "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "cb2d4b994a36",
-      "title": "硬科技股权投资的极端估值与分化风险",
-      "url": "https://opinion.caixin.com/2026-03-02/102418585.html",
-      "source": "财新网",
-      "categories": [
-        "宏观",
-        "金融",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:35.905424",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "📉利空",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "fb267446fb2c",
-      "title": "香港财政司长陈茂波：“AI+”与“金融+”",
-      "url": "https://opinion.caixin.com/2026-03-02/102418563.html",
-      "source": "财新网",
-      "categories": [
-        "宏观",
-        "金融",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:35.905463",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [
-          "AI"
-        ],
         "indices": []
       },
       "ai_summary": "行业动态",
@@ -3500,7 +1753,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:35.905481",
+      "crawl_time": "2026-03-02T20:53:03.319268",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3525,39 +1778,6 @@
       "mentioned_companies": []
     },
     {
-      "id": "ecd4a2fa2283",
-      "title": "全球锂市场处于历史性拐点",
-      "url": "https://opinion.caixin.com/2026-03-02/102418553.html",
-      "source": "财新网",
-      "categories": [
-        "宏观",
-        "金融",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:35.905499",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
       "id": "9da798627262",
       "title": "春晚登台机器人松延动力 B轮融资10亿",
       "url": "https://www.caixin.com/2026-03-02/102418502.html",
@@ -3568,7 +1788,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:35.905563",
+      "crawl_time": "2026-03-02T20:53:03.319394",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3601,7 +1821,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:35.905581",
+      "crawl_time": "2026-03-02T20:53:03.319411",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -3636,7 +1856,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:35.905616",
+      "crawl_time": "2026-03-02T20:53:03.319449",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -3663,9 +1883,9 @@
       "mentioned_companies": []
     },
     {
-      "id": "8cbe6f9ad1ad",
-      "title": "2月财新中国新经济指数升至33.8",
-      "url": "https://economy.caixin.com/2026-03-02/102418463.html",
+      "id": "efc40515980b",
+      "title": "票房｜港片《夜王》扩大发行范围 3月好莱坞新片数量创新高(含视频)",
+      "url": "https://www.caixin.com/2026-03-02/102418467.html",
       "source": "财新网",
       "categories": [
         "宏观",
@@ -3673,13 +1893,13 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:35.905658",
+      "crawl_time": "2026-03-02T20:53:03.319468",
       "date": "2026-03-02",
       "market_signal": {
-        "bullish": 0,
+        "bullish": 1,
         "bearish": 0,
         "neutral": 0,
-        "overall": "neutral"
+        "overall": "bullish"
       },
       "entities": {
         "stocks": [],
@@ -3689,141 +1909,12 @@
       },
       "ai_summary": "行业动态",
       "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "ee3e2927a344",
-      "title": "美以联合突袭伊朗！德黑兰市中心总统府等约30个目标遭袭",
-      "url": "https://photos.caixin.com/2026-02-28/102417872.html",
-      "source": "财新网",
-      "categories": [
-        "宏观",
-        "金融",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:35.905839",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "0b8f6edb42cf",
-      "title": "最新财新周刊·显影",
-      "url": "https://weekly.caixin.com/2026/cw1195/",
-      "source": "财新网",
-      "categories": [
-        "宏观",
-        "金融",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:35.906013",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "4a675bea8094",
-      "title": "财新mini+",
-      "url": "http://mini.caixin.com",
-      "source": "财新网",
-      "categories": [
-        "宏观",
-        "金融",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:35.906144",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "442f675b3e10",
-      "title": "财新闻｜以色列总理：未来几天对伊朗打击力度会进一步加强",
-      "url": "https://mini.caixin.com/2026-03-02/102418438.html",
-      "source": "财新网",
-      "categories": [
-        "宏观",
-        "金融",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:35.906157",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
+        "sentiment": "bullish",
+        "confidence": 0.7,
+        "signals": [
+          "新高",
+          "创新"
+        ]
       },
       "mentioned_companies": []
     },
@@ -3838,7 +1929,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:35.906219",
+      "crawl_time": "2026-03-02T20:53:03.320114",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -3867,340 +1958,6 @@
       ]
     },
     {
-      "id": "650a1b3476ac",
-      "title": "今日开盘：两市双双低开 沪指跌幅0.27%",
-      "url": "https://finance.caixin.com/2026-03-02/102418452.html",
-      "source": "财新网",
-      "categories": [
-        "宏观",
-        "金融",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:35.906242",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": [
-          "上证指数"
-        ]
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "9927fec33bbb",
-      "title": "能源内参｜国际油价开盘暴涨超12%；伊朗禁航霍尔木兹海峡 大量油轮滞留波斯湾扰动油市",
-      "url": "https://www.caixin.com/2026-03-02/102418443.html",
-      "source": "财新网",
-      "categories": [
-        "宏观",
-        "金融",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:35.906298",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 1,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "bullish"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "bullish",
-        "confidence": 0.6,
-        "signals": [
-          "暴涨"
-        ]
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "08a29e816cbf",
-      "title": "财经早知道｜美以袭击伊朗，全球市场悬念再起",
-      "url": "https://finance.caixin.com/2026-03-02/102418417.html",
-      "source": "财新网",
-      "categories": [
-        "宏观",
-        "金融",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:35.906408",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "3eb9be7e9c22",
-      "title": "深圳欠薪保障基金一年垫付超7300万元 能否保障工资支付？(含视频)",
-      "url": "https://www.caixin.com/2026-03-02/102418414.html",
-      "source": "财新网",
-      "categories": [
-        "宏观",
-        "金融",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:35.906430",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "097b2e6843dc",
-      "title": "朝中社：金正恩出席朝鲜劳动党九大纪念阅兵式 援俄作战部队受阅",
-      "url": "https://photos.caixin.com/2026-02-27/102417458.html",
-      "source": "财新网",
-      "categories": [
-        "宏观",
-        "金融",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:35.906454",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "c61de2a72a4c",
-      "title": "美元理财不香了！去年8成美元理财收益不抵汇率损失",
-      "url": "https://www.21jingji.com/article/20260302/herald/ecfbdf2b8146068173090f1dc07a1b1a.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.187163",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "93fd496dca33",
-      "title": "“战争金属”钨价飙涨，中钨高新、章源钨业冲上百倍估值",
-      "url": "https://www.21jingji.com/article/20260302/herald/61b038af193a796d96d9a9138e32188e.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.187216",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "bff71aaa7bf2",
-      "title": "避险情绪升温！黄金站上5400美元，多家机构暂停投资金条销售",
-      "url": "https://www.21jingji.com/article/20260302/herald/07471222cd44f500475967d85e2a445d.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.187233",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "26a7e6d28f63",
-      "title": "\"三桶油\"集体涨停创历史！28股涨停，石油石化板块还能追吗？",
-      "url": "https://www.21jingji.com/article/20260302/herald/da2b03918ea4eb1e0e347426b47b5f93.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.187366",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "65d1083827e2",
-      "title": "在美337诉讼完胜 股价暴涨 影石创始人却表示将“开放”专利",
-      "url": "https://www.21jingji.com/article/20260302/herald/a7cc36a9f6a2d99646e3a8f4333cf3b2.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.187382",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 1,
-        "bearish": 1,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
       "id": "33dd0b9e508d",
       "title": "滚动｜欧洲天然气价格涨幅扩大至42%，创2022年3月以来最大涨幅",
       "url": "https://m.21jingji.com/journal/241.html",
@@ -4211,7 +1968,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.187437",
+      "crawl_time": "2026-03-02T20:53:03.932556",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -4236,9 +1993,9 @@
       "mentioned_companies": []
     },
     {
-      "id": "6fc1b9b770e6",
-      "title": "AI应用龙头试水资本市场，钛动科技拟港股IPO",
-      "url": "https://www.21jingji.com/article/20260302/herald/d6a23f5b7d09fda5b1feef247b5fed76.html",
+      "id": "b06969bb65c0",
+      "title": "MiniMax 2025年业绩超预期：加速全球化，明确“AI平台型公司”战略",
+      "url": "https://www.21jingji.com/article/20260302/herald/46d07e109956f66df36727146446f22b.html",
       "source": "21世纪经济报道",
       "categories": [
         "宏观",
@@ -4246,13 +2003,13 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.187470",
+      "crawl_time": "2026-03-02T20:53:03.932623",
       "date": "2026-03-02",
       "market_signal": {
-        "bullish": 0,
+        "bullish": 1,
         "bearish": 0,
         "neutral": 0,
-        "overall": "neutral"
+        "overall": "bullish"
       },
       "entities": {
         "stocks": [],
@@ -4264,16 +2021,18 @@
       },
       "ai_summary": "行业动态",
       "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "超预期"
+        ]
       },
       "mentioned_companies": []
     },
     {
-      "id": "219d173f96c5",
-      "title": "机构“油飞金涨”中重构布局，逆向思维寻找“黄金坑”",
-      "url": "https://www.21jingji.com/article/20260302/herald/198eb4f53721108a514433f6de010615.html",
+      "id": "e0117859cf9b",
+      "title": "美以袭击伊朗，全球市场波动加剧，这些板块或受影响！丨A股线索",
+      "url": "https://www.21jingji.com/article/20260302/herald/d77d303de5729b1f58c6b30cffacb9eb.html",
       "source": "21世纪经济报道",
       "categories": [
         "宏观",
@@ -4281,7 +2040,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.187487",
+      "crawl_time": "2026-03-02T20:53:03.932664",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4304,6 +2063,76 @@
       "mentioned_companies": []
     },
     {
+      "id": "7e6f92a6b27e",
+      "title": "第一次！三桶油集体涨停，这个变量决定后市",
+      "url": "https://www.21jingji.com/article/20260302/herald/a90d6548d38ba510a33070f6b66e8bfa.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T20:53:03.933074",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "997216864264",
+      "title": "沪指逆势上涨！A股成交破三万亿，独立行情背后暗藏新主线？",
+      "url": "https://www.21jingji.com/article/20260302/herald/b4cf76ceac721a69935aa922fb0eee7b.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T20:53:03.933091",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": [
+          "上证指数"
+        ]
+      },
+      "ai_summary": "市场上涨",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "上涨"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
       "id": "6e4b781f3415",
       "title": "华友钴业碳排大增258%，镍王锂王碳排放齐上涨",
       "url": "https://www.21jingji.com/article/20260302/herald/a565a189d13903fefac45a91900f0f20.html",
@@ -4314,7 +2143,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.187512",
+      "crawl_time": "2026-03-02T20:53:03.933219",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -4349,7 +2178,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.187532",
+      "crawl_time": "2026-03-02T20:53:03.933253",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4372,379 +2201,6 @@
       "mentioned_companies": []
     },
     {
-      "id": "d42edab8ca1e",
-      "title": "郑栅洁主任主持召开民营企业座谈会 围绕实现“十五五”经济发展良好开局听取意见建议",
-      "url": "https://www.21jingji.com/article/20260302/herald/96ea6201b52aca00e901703af41764f1.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.187569",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "7fdd88b84082",
-      "title": "破局 谋局 开局——从三个维度看当前中国经济",
-      "url": "https://www.21jingji.com/article/20260302/herald/9ead5a2e20129e4bb5fd6a4c9f45150a.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.187608",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "355f8cb3ea28",
-      "title": "BBA开年降价，2026豪华车市场能否触底反弹？",
-      "url": "https://www.21jingji.com/article/20260302/herald/6f91fd96e11abdd61c4d59122afd2cc5.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.187663",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 1,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "bullish"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "bullish",
-        "confidence": 0.6,
-        "signals": [
-          "反弹"
-        ]
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "b06969bb65c0",
-      "title": "MiniMax 2025年业绩超预期：加速全球化，明确“AI平台型公司”战略",
-      "url": "https://www.21jingji.com/article/20260302/herald/46d07e109956f66df36727146446f22b.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.187868",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 1,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "bullish"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [
-          "AI"
-        ],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "bullish",
-        "confidence": 0.6,
-        "signals": [
-          "超预期"
-        ]
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "4be30ccc2bda",
-      "title": "000625，拟最高回购14亿元公司A股股份",
-      "url": "https://www.21jingji.com/article/20260302/herald/2783c44d6cc120c2ef6c2f810442c554.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.187900",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 1,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "bullish"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "bullish",
-        "confidence": 0.6,
-        "signals": [
-          "回购"
-        ]
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "9216b9c17b4e",
-      "title": "杭州银行行长，任职资格获批！",
-      "url": "https://www.21jingji.com/article/20260302/herald/8eea55fbdae56fe8dabbf084e42c880f.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.187914",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [
-          "银行"
-        ],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "7968b78da9fd",
-      "title": "水贝金价一日涨超110元/克！中东局势升级，商家担心补不到货",
-      "url": "https://www.21jingji.com/article/20260302/herald/37251944b0b2098a50a2078299094bac.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.187930",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "d2579726e248",
-      "title": "三大期货交易所，齐发风险提示",
-      "url": "https://www.21jingji.com/article/20260302/herald/2873278e518629f7c8baf34deb1d767d.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.187945",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "📉利空",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "7e6f92a6b27e",
-      "title": "第一次！三桶油集体涨停，这个变量决定后市",
-      "url": "https://www.21jingji.com/article/20260302/herald/a90d6548d38ba510a33070f6b66e8bfa.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.187959",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "b032f4c515f6",
-      "title": "石油基金LOF：将于3月3日开市起至当日10:30停牌",
-      "url": "https://www.21jingji.com/article/20260302/herald/89ed6c81001f526df5dff2bcdf8e0c7c.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.188001",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "551bc6f61d9a",
-      "title": "美伊冲突冲击全球供应链：多家航运巨头紧急涨价 中东空运遭严重干扰",
-      "url": "https://www.21jingji.com/article/20260302/herald/740b430bfd8fde92aeda401b9dfdd68b.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.188040",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
       "id": "6a292338ebab",
       "title": "伊朗里亚尔两月暴跌30倍",
       "url": "https://www.21jingji.com/article/20260302/herald/78aa746ae4c66a18b33758f2a5dfc6ad.html",
@@ -4755,7 +2211,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.188061",
+      "crawl_time": "2026-03-02T20:53:03.933345",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4790,7 +2246,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.188103",
+      "crawl_time": "2026-03-02T20:53:03.933383",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 2,
@@ -4816,9 +2272,9 @@
       "mentioned_companies": []
     },
     {
-      "id": "5dbb22345fc1",
-      "title": "详解美伊冲突：黄金石油大变局？",
-      "url": "https://www.21jingji.com/article/20260302/herald/121cc3578432c7c17329502dba1334c3.html",
+      "id": "0c305558d0ef",
+      "title": "神玑单挑英伟达：蔚来拆分芯片业务，赌的是AI时代算力话语权",
+      "url": "https://www.21jingji.com/article/20260302/herald/375c6b1c0d9fa875370083012be56163.html",
       "source": "21世纪经济报道",
       "categories": [
         "宏观",
@@ -4826,7 +2282,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.188123",
+      "crawl_time": "2026-03-02T20:53:03.933611",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -4836,156 +2292,29 @@
       },
       "entities": {
         "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "2f8f11d16188",
-      "title": "专访周生生集团执行董事兼首席品牌长周嘉颖：从保值到悦己再到信任 黄金消费的三次跨越",
-      "url": "https://www.21jingji.com/article/20260228/c869854ad7db25cee49ef4087d544023.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.188144",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "64865c6fff83",
-      "title": "21社论丨加快发展离岸人民币市场，助力人民币国际化",
-      "url": "https://www.21jingji.com/article/20260228/ce1ab22515ca68be31680810e6a7449a.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.188228",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "e25a4b80c3c0",
-      "title": "专题｜政府投资基金/国资机构巡礼报道",
-      "url": "https://m.21jingji.com/jujiao/getList?ztid=3781",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.188249",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "940e1d2de639",
-      "title": "21专访｜达晨财智任俊照：人形机器人是AI时代的集大成产品",
-      "url": "https://www.21jingji.com/article/20260302/herald/d832fc79620b94cde2f3377e1380ebed.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.188279",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
+        "companies": [
+          "英伟达"
+        ],
         "sectors": [
+          "芯片",
           "AI"
         ],
         "indices": []
       },
-      "ai_summary": "行业动态",
+      "ai_summary": "涉及英伟达",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
         "signals": []
       },
-      "mentioned_companies": []
+      "mentioned_companies": [
+        "英伟达"
+      ]
     },
     {
-      "id": "66dd1aee2198",
-      "title": "一级市场再迎活水！510亿元央企战新基金正式“开闸”",
-      "url": "https://www.21jingji.com/article/20260228/herald/16ef7fdb121bf4623e4de354e46b604c.html",
+      "id": "9eae98064929",
+      "title": "小米官宣概念超跑 Vision Gran Turismo",
+      "url": "https://www.21jingji.com/article/20260301/herald/f930ee02b6bc58e0ade581c70a4dbb58.html",
       "source": "21世纪经济报道",
       "categories": [
         "宏观",
@@ -4993,7 +2322,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.188545",
+      "crawl_time": "2026-03-02T20:53:03.933667",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5003,83 +2332,21 @@
       },
       "entities": {
         "stocks": [],
-        "companies": [],
+        "companies": [
+          "小米"
+        ],
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "行业动态",
+      "ai_summary": "涉及小米",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
         "signals": []
       },
-      "mentioned_companies": []
-    },
-    {
-      "id": "2a694bfb9b98",
-      "title": "华映资本刘天杰：具身智能赛道长坡厚雪，多基金联动推进全链布局",
-      "url": "https://www.21jingji.com/article/20260227/herald/0e823dc2927b1d7f22d9bb54e411dba9.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.188654",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "ad78213a5f66",
-      "title": "造车新势力2月交付承压：零跑跌至3万辆以下，多家车企加码促销",
-      "url": "https://www.21jingji.com/article/20260302/herald/df494b3d30bbbc2b2b6d3b8781f6bdc1.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.188782",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
+      "mentioned_companies": [
+        "小米"
+      ]
     },
     {
       "id": "4befc750bf94",
@@ -5092,7 +2359,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.188913",
+      "crawl_time": "2026-03-02T20:53:03.934041",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -5117,173 +2384,6 @@
       "mentioned_companies": []
     },
     {
-      "id": "f0fa7d446712",
-      "title": "港股回购榜大洗牌！科技股扛大旗，金融股退居二线",
-      "url": "https://www.21jingji.com/article/20260302/herald/b62002f53a95c54d4597ed33aaa1d2db.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.189164",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 1,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "bullish"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "bullish",
-        "confidence": 0.6,
-        "signals": [
-          "回购"
-        ]
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "1dda12ef5552",
-      "title": "21书评｜城市竞争下半场，拼的是普通人生活更体面",
-      "url": "https://www.21jingji.com/article/20260225/herald/c2ab4205afc907ce8ff83eea2ce52c44.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.189577",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "4be14ab1357b",
-      "title": "21书评｜中国经济具有巨大潜力 需靠改革激发活力",
-      "url": "https://www.21jingji.com/article/20260211/herald/9aad50e7d3d0aa2dbb53a7eddc82a6a2.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.189855",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "dd35201db051",
-      "title": "《洞见ESG》2月刊：A股ESG强信披时间到！",
-      "url": "https://m.21jingji.com/journal/239.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.189884",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "c28caabf886f",
-      "title": "果链巨头碳排增32%，11家A股ESG强信披电子业缺考",
-      "url": "https://www.21jingji.com/article/20260226/herald/21fc84a4cc3a2a043f9d8f34f72e25ab.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.189950",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
       "id": "c884035027ab",
       "title": "全线大涨！伊朗，突传重磅！美国，最新宣布！",
       "url": "https://www.21jingji.com/article/20260228/herald/ce0a8df83af434254446e21e40e28656.html",
@@ -5294,7 +2394,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.190033",
+      "crawl_time": "2026-03-02T20:53:03.934362",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -5329,7 +2429,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.190064",
+      "crawl_time": "2026-03-02T20:53:03.934544",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -5364,366 +2464,7 @@
         "股市"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.190938",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "ca2d7736a8de",
-      "title": "4500亿华润银行正式更名",
-      "url": "https://www.21jingji.com/article/20260228/herald/f37dc34f39ad65c4e9d1f0926355f57c.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.190952",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [
-          "银行"
-        ],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "fb77853b7aa5",
-      "title": "自拟项目选择制度（21基金会）",
-      "url": "http://www.21jingji.com/2024/4-11/zNMDE0MTFfMTYyNzgzNQ.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.190971",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "135ac6c5e4b8",
-      "title": "差额选举程序（21基金会）",
-      "url": "http://www.21jingji.com/2024/4-11/zNMDE0MTFfMTYyNzgzNA.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.190985",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "beb0eed8a7a5",
-      "title": "基金会2020年度审计报告",
-      "url": "http://www.21jingji.com/2024/4-11/zMMDE0MTFfMTYyNzgzMw.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.190998",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "028552e31671",
-      "title": "秘书长绩效考核指标（21基金会）",
-      "url": "http://www.21jingji.com/2024/4-10/zMMDE0MTFfMTYyNzgzMA.html",
-      "source": "21世纪经济报道",
-      "categories": [
-        "宏观",
-        "产业",
-        "股市"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:37.191045",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "6d62aab31de9",
-      "title": "经济观察报",
-      "url": "https://www.eeo.com.cn/jg/tuijian/jingjiguanchabao/",
-      "source": "经济观察报",
-      "categories": [
-        "宏观",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:39.441578",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "c64c33e40ba7",
-      "title": "伊朗首都德黑兰遭袭 市中心发生爆炸",
-      "url": "http://www.eeo.com.cn/2026/0302/804147.shtml",
-      "source": "经济观察报",
-      "categories": [
-        "宏观",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:39.443016",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "0c940e211d90",
-      "title": "入境游的生意经",
-      "url": "http://www.eeo.com.cn/2026/0301/803389.shtml",
-      "source": "经济观察报",
-      "categories": [
-        "宏观",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:39.443200",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "3a606195c2cb",
-      "title": "美、以军事打击伊朗，A股两支“战争金属”",
-      "url": "http://www.eeo.com.cn/2026/0301/803543.shtml",
-      "source": "经济观察报",
-      "categories": [
-        "宏观",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:39.443236",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "788554b4de4d",
-      "title": "战火“引燃”贵金属：历史规律告诉你，金价",
-      "url": "http://www.eeo.com.cn/2026/0301/803607.shtml",
-      "source": "经济观察报",
-      "categories": [
-        "宏观",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:39.443250",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "dcafa0315868",
-      "title": "托举每一份“微愿望” | 经观社论",
-      "url": "http://www.eeo.com.cn/2026/0228/803047.shtml",
-      "source": "经济观察报",
-      "categories": [
-        "宏观",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:39.443265",
+      "crawl_time": "2026-03-02T20:53:03.934665",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5755,7 +2496,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:39.443429",
+      "crawl_time": "2026-03-02T20:53:05.347966",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -5789,7 +2530,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:39.443448",
+      "crawl_time": "2026-03-02T20:53:05.347989",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5812,16 +2553,54 @@
       "mentioned_companies": []
     },
     {
-      "id": "ef8fa9f0481b",
-      "title": "金融智能体进入清洗期 25%项目面临失败风险",
-      "url": "http://www.eeo.com.cn/2026/0221/799142.shtml",
+      "id": "a88f1be289dd",
+      "title": "OpenAI创始人点赞中国大模型，国产方案成国",
+      "url": "http://www.eeo.com.cn/2026/0220/798864.shtml",
       "source": "经济观察报",
       "categories": [
         "宏观",
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:39.443503",
+      "crawl_time": "2026-03-02T20:53:05.348009",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [
+          "OpenAI"
+        ],
+        "sectors": [
+          "AI"
+        ],
+        "indices": []
+      },
+      "ai_summary": "涉及OpenAI",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": [
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "dac4a73b9bf4",
+      "title": "好发展，在平安！平安人寿“高才计划”重磅发布",
+      "url": "http://www.eeo.com.cn/2026/0228/803203.shtml",
+      "source": "经济观察报",
+      "categories": [
+        "宏观",
+        "产业"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-02T20:53:05.348210",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5835,123 +2614,27 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "📉利空",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "2adbfc432c69",
-      "title": "“涨价”策略失灵叠加“黑天鹅”事件，雀巢",
-      "url": "http://www.eeo.com.cn/2026/0222/799405.shtml",
-      "source": "经济观察报",
-      "categories": [
-        "宏观",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:39.443538",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "e6e67b513bb6",
-      "title": "人民币汇率一路冲高 外贸企业直面汇率考验",
-      "url": "http://www.eeo.com.cn/2026/0227/802543.shtml",
-      "source": "经济观察报",
-      "categories": [
-        "宏观",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:39.443597",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "d386baafa670",
-      "title": "春节后“38消费”火热，李佳琦直播间“悦己”产品热度暴涨160%",
-      "url": "http://www.eeo.com.cn/2026/0228/802871.shtml",
-      "source": "经济观察报",
-      "categories": [
-        "宏观",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:39.443790",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 1,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "bullish"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
+      "ai_summary": "产品发布",
       "sentiment_analysis": {
         "sentiment": "bullish",
         "confidence": 0.6,
         "signals": [
-          "暴涨"
+          "发布"
         ]
       },
       "mentioned_companies": []
     },
     {
-      "id": "034d159d1a81",
-      "title": "国联民生证券携手清华大学经济管理学院开发财富管理精品课",
-      "url": "http://www.eeo.com.cn/2026/0227/802508.shtml",
+      "id": "4bca2c587183",
+      "title": "百度2025年Q4 AI业务收入占比超4成 AI能干活也能赚钱",
+      "url": "http://www.eeo.com.cn/2026/0226/802043.shtml",
       "source": "经济观察报",
       "categories": [
         "宏观",
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:39.443893",
+      "crawl_time": "2026-03-02T20:53:05.348443",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -5962,80 +2645,20 @@
       "entities": {
         "stocks": [],
         "companies": [],
-        "sectors": [],
+        "sectors": [
+          "AI"
+        ],
         "indices": []
       },
-      "ai_summary": "行业动态",
+      "ai_summary": "涉及百度",
       "sentiment_analysis": {
         "sentiment": "neutral",
         "confidence": 0.5,
         "signals": []
       },
-      "mentioned_companies": []
-    },
-    {
-      "id": "9e508aac67db",
-      "title": "惠科股份：深耕本土 链动全球 中国显示巨头的全球化远望",
-      "url": "http://www.eeo.com.cn/2026/0227/802312.shtml",
-      "source": "经济观察报",
-      "categories": [
-        "宏观",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:39.443908",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "d333def9cfae",
-      "title": "从预算案看Robotaxi：香港的“投资未来”样本",
-      "url": "http://www.eeo.com.cn/2026/0226/802036.shtml",
-      "source": "经济观察报",
-      "categories": [
-        "宏观",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:39.444066",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
+      "mentioned_companies": [
+        "百度"
+      ]
     },
     {
       "id": "3a6ca889da90",
@@ -6047,7 +2670,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:39.444081",
+      "crawl_time": "2026-03-02T20:53:05.348479",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -6081,7 +2704,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:39.444101",
+      "crawl_time": "2026-03-02T20:53:05.348496",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6113,7 +2736,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:39.444141",
+      "crawl_time": "2026-03-02T20:53:05.348535",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 1,
@@ -6138,16 +2761,16 @@
       "mentioned_companies": []
     },
     {
-      "id": "ac5f0194a530",
-      "title": "白鲸航线：低空经济赛道的新质生产力破局者",
-      "url": "http://www.eeo.com.cn/2026/0226/801809.shtml",
+      "id": "988cace07bf8",
+      "title": "权威！农夫山泉入选标普全球版2026年《可持续发展年鉴》",
+      "url": "http://www.eeo.com.cn/2026/0225/801158.shtml",
       "source": "经济观察报",
       "categories": [
         "宏观",
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:39.444159",
+      "crawl_time": "2026-03-02T20:53:05.348667",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6170,22 +2793,22 @@
       "mentioned_companies": []
     },
     {
-      "id": "845e907411bb",
-      "title": "2万重疾急护金2天到账，贝壳联合创始人捐4亿保障全员和50万服务者",
-      "url": "http://www.eeo.com.cn/2026/0224/800253.shtml",
+      "id": "6c8cad58956e",
+      "title": "爱奇艺发布马年春节大数据 扬州爱奇艺乐园客流量较节前显著增长“十个勤天”行李牌周边销量第一",
+      "url": "http://www.eeo.com.cn/2026/0224/800877.shtml",
       "source": "经济观察报",
       "categories": [
         "宏观",
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:39.444378",
+      "crawl_time": "2026-03-02T20:53:05.348685",
       "date": "2026-03-02",
       "market_signal": {
-        "bullish": 0,
+        "bullish": 1,
         "bearish": 0,
         "neutral": 0,
-        "overall": "neutral"
+        "overall": "bullish"
       },
       "entities": {
         "stocks": [],
@@ -6193,11 +2816,14 @@
         "sectors": [],
         "indices": []
       },
-      "ai_summary": "行业动态",
+      "ai_summary": "产品发布 | 📈利好",
       "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
+        "sentiment": "bullish",
+        "confidence": 0.7,
+        "signals": [
+          "增长",
+          "发布"
+        ]
       },
       "mentioned_companies": []
     },
@@ -6211,7 +2837,7 @@
         "产业"
       ],
       "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:39.444393",
+      "crawl_time": "2026-03-02T20:53:05.348885",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6238,38 +2864,6 @@
       ]
     },
     {
-      "id": "b9c191eac1f6",
-      "title": "经观招聘 EEO Jobs",
-      "url": "https://www.eeo.com.cn/aboutus/job.html",
-      "source": "经济观察报",
-      "categories": [
-        "宏观",
-        "产业"
-      ],
-      "pub_date": null,
-      "crawl_time": "2026-03-02T20:46:39.444529",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
       "id": "5155c8b1a9b7",
       "title": "Khamenei's death raises questions about Trump's China trip",
       "url": "https://www.cnbc.com/2026/03/02/khameneis-death-trump-china-visit-uncertainty-iran-strikes-trade-truce.html",
@@ -6280,7 +2874,7 @@
         "宏观"
       ],
       "pub_date": "2026-03-02 09:49:08",
-      "crawl_time": "2026-03-02T20:46:54.202093",
+      "crawl_time": "2026-03-02T20:53:20.927590",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6313,7 +2907,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-28 14:44:01",
-      "crawl_time": "2026-03-02T20:46:54.202196",
+      "crawl_time": "2026-03-02T20:53:20.927740",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6346,7 +2940,7 @@
         "宏观"
       ],
       "pub_date": "2026-03-02 12:05:48",
-      "crawl_time": "2026-03-02T20:46:54.202238",
+      "crawl_time": "2026-03-02T20:53:20.927787",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6379,7 +2973,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-27 16:59:22",
-      "crawl_time": "2026-03-02T20:46:54.202277",
+      "crawl_time": "2026-03-02T20:53:20.927826",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6412,7 +3006,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-27 12:00:01",
-      "crawl_time": "2026-03-02T20:46:54.202371",
+      "crawl_time": "2026-03-02T20:53:20.927862",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6445,7 +3039,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-26 14:25:31",
-      "crawl_time": "2026-03-02T20:46:54.202418",
+      "crawl_time": "2026-03-02T20:53:20.927898",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6478,7 +3072,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-26 08:23:22",
-      "crawl_time": "2026-03-02T20:46:54.202466",
+      "crawl_time": "2026-03-02T20:53:20.927943",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6513,7 +3107,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-26 04:26:21",
-      "crawl_time": "2026-03-02T20:46:54.202865",
+      "crawl_time": "2026-03-02T20:53:20.927974",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6546,7 +3140,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-25 21:33:54",
-      "crawl_time": "2026-03-02T20:46:54.202991",
+      "crawl_time": "2026-03-02T20:53:20.928016",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6579,7 +3173,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-25 08:42:49",
-      "crawl_time": "2026-03-02T20:46:54.203061",
+      "crawl_time": "2026-03-02T20:53:20.928070",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6612,7 +3206,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-25 02:46:43",
-      "crawl_time": "2026-03-02T20:46:54.203530",
+      "crawl_time": "2026-03-02T20:53:20.928129",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6647,7 +3241,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-24 23:08:25",
-      "crawl_time": "2026-03-02T20:46:54.203660",
+      "crawl_time": "2026-03-02T20:53:20.928164",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6680,7 +3274,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-25 18:11:01",
-      "crawl_time": "2026-03-02T20:46:54.203842",
+      "crawl_time": "2026-03-02T20:53:20.928196",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6713,7 +3307,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-24 21:33:36",
-      "crawl_time": "2026-03-02T20:46:54.203923",
+      "crawl_time": "2026-03-02T20:53:20.928234",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6748,7 +3342,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-25 19:57:11",
-      "crawl_time": "2026-03-02T20:46:54.204008",
+      "crawl_time": "2026-03-02T20:53:20.928267",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6781,7 +3375,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-24 13:17:41",
-      "crawl_time": "2026-03-02T20:46:54.204139",
+      "crawl_time": "2026-03-02T20:53:20.928304",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6814,7 +3408,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-24 15:36:53",
-      "crawl_time": "2026-03-02T20:46:54.204194",
+      "crawl_time": "2026-03-02T20:53:20.928337",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6847,7 +3441,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-23 18:02:59",
-      "crawl_time": "2026-03-02T20:46:54.204228",
+      "crawl_time": "2026-03-02T20:53:20.928368",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6880,7 +3474,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-21 17:46:51",
-      "crawl_time": "2026-03-02T20:46:54.204273",
+      "crawl_time": "2026-03-02T20:53:20.928402",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6913,7 +3507,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-21 16:00:01",
-      "crawl_time": "2026-03-02T20:46:54.204608",
+      "crawl_time": "2026-03-02T20:53:20.928452",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6946,7 +3540,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-20 22:07:13",
-      "crawl_time": "2026-03-02T20:46:54.204659",
+      "crawl_time": "2026-03-02T20:53:20.928486",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -6979,7 +3573,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-19 15:47:35",
-      "crawl_time": "2026-03-02T20:46:54.204692",
+      "crawl_time": "2026-03-02T20:53:20.928521",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7012,7 +3606,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-17 22:02:39",
-      "crawl_time": "2026-03-02T20:46:54.204773",
+      "crawl_time": "2026-03-02T20:53:20.928553",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7045,7 +3639,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-17 17:45:51",
-      "crawl_time": "2026-03-02T20:46:54.204807",
+      "crawl_time": "2026-03-02T20:53:20.928583",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7078,7 +3672,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-15 15:24:48",
-      "crawl_time": "2026-03-02T20:46:54.204841",
+      "crawl_time": "2026-03-02T20:53:20.928616",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7111,7 +3705,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-13 18:19:01",
-      "crawl_time": "2026-03-02T20:46:54.204879",
+      "crawl_time": "2026-03-02T20:53:20.928651",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7146,7 +3740,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-13 08:03:24",
-      "crawl_time": "2026-03-02T20:46:54.204918",
+      "crawl_time": "2026-03-02T20:53:20.928686",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7181,7 +3775,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-13 02:31:38",
-      "crawl_time": "2026-03-02T20:46:54.204952",
+      "crawl_time": "2026-03-02T20:53:20.928750",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7214,7 +3808,7 @@
         "宏观"
       ],
       "pub_date": "2026-02-12 13:00:01",
-      "crawl_time": "2026-03-02T20:46:54.204984",
+      "crawl_time": "2026-03-02T20:53:20.928783",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7247,7 +3841,39 @@
         "宏观"
       ],
       "pub_date": "2026-02-11 18:09:08",
-      "crawl_time": "2026-03-02T20:46:54.205017",
+      "crawl_time": "2026-03-02T20:53:20.928828",
+      "date": "2026-03-02",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "8f27b9490ce8",
+      "title": "Cruise stocks drop, as there’s more the just the Iran conflict to worry about",
+      "url": "https://www.marketwatch.com/story/cruise-stocks-drop-as-theres-more-the-just-the-iran-conflict-to-worry-about-808189e4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "categories": [
+        "美股",
+        "数据"
+      ],
+      "pub_date": "2026-03-02 12:51:00",
+      "crawl_time": "2026-03-02T20:53:22.423900",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7279,7 +3905,7 @@
         "数据"
       ],
       "pub_date": "2026-03-02 11:38:00",
-      "crawl_time": "2026-03-02T20:46:56.059139",
+      "crawl_time": "2026-03-02T20:53:22.423977",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7302,8 +3928,8 @@
       "mentioned_companies": []
     },
     {
-      "id": "fd83fc0aa06a",
-      "title": "Here’s oil’s path to $120 per barrel, according to JPMorgan",
+      "id": "af8ef0487147",
+      "title": "What it would take for oil to reach $120 per barrel, according to JPMorgan",
       "url": "https://www.marketwatch.com/story/heres-the-path-to-oil-hitting-120-per-barrel-according-to-jpmorgan-71792b31?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "categories": [
@@ -7311,7 +3937,7 @@
         "数据"
       ],
       "pub_date": "2026-03-02 10:55:00",
-      "crawl_time": "2026-03-02T20:46:56.059336",
+      "crawl_time": "2026-03-02T20:53:22.424037",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7343,7 +3969,7 @@
         "数据"
       ],
       "pub_date": "2026-03-02 10:31:00",
-      "crawl_time": "2026-03-02T20:46:56.059385",
+      "crawl_time": "2026-03-02T20:53:22.424091",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7375,7 +4001,7 @@
         "数据"
       ],
       "pub_date": "2026-03-02 10:26:00",
-      "crawl_time": "2026-03-02T20:46:56.059421",
+      "crawl_time": "2026-03-02T20:53:22.424167",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7407,7 +4033,7 @@
         "数据"
       ],
       "pub_date": "2026-03-02 10:02:00",
-      "crawl_time": "2026-03-02T20:46:56.059460",
+      "crawl_time": "2026-03-02T20:53:22.424227",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7439,7 +4065,7 @@
         "数据"
       ],
       "pub_date": "2026-03-02 10:01:00",
-      "crawl_time": "2026-03-02T20:46:56.059512",
+      "crawl_time": "2026-03-02T20:53:22.424279",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7471,7 +4097,7 @@
         "数据"
       ],
       "pub_date": "2026-03-02 01:32:00",
-      "crawl_time": "2026-03-02T20:46:56.059550",
+      "crawl_time": "2026-03-02T20:53:22.424402",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7509,7 +4135,7 @@
         "数据"
       ],
       "pub_date": "2026-03-01 23:37:00",
-      "crawl_time": "2026-03-02T20:46:56.059588",
+      "crawl_time": "2026-03-02T20:53:22.424477",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7541,39 +4167,7 @@
         "数据"
       ],
       "pub_date": "2026-03-01 20:51:00",
-      "crawl_time": "2026-03-02T20:46:56.059683",
-      "date": "2026-03-02",
-      "market_signal": {
-        "bullish": 0,
-        "bearish": 0,
-        "neutral": 0,
-        "overall": "neutral"
-      },
-      "entities": {
-        "stocks": [],
-        "companies": [],
-        "sectors": [],
-        "indices": []
-      },
-      "ai_summary": "行业动态",
-      "sentiment_analysis": {
-        "sentiment": "neutral",
-        "confidence": 0.5,
-        "signals": []
-      },
-      "mentioned_companies": []
-    },
-    {
-      "id": "6da0e569e815",
-      "title": "Here’s what’s worth streaming in March 2026 on Netflix, Hulu, HBO Max and more",
-      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-march-2026-on-netflix-hulu-hbo-max-and-more-83f5b64d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "categories": [
-        "美股",
-        "数据"
-      ],
-      "pub_date": "2026-03-01 20:03:00",
-      "crawl_time": "2026-03-02T20:46:56.059799",
+      "crawl_time": "2026-03-02T20:53:22.424530",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7605,7 +4199,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 20:30:00",
-      "crawl_time": "2026-03-02T20:46:58.238950",
+      "crawl_time": "2026-03-02T20:53:24.433104",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7637,7 +4231,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 19:55:00",
-      "crawl_time": "2026-03-02T20:46:58.239061",
+      "crawl_time": "2026-03-02T20:53:24.433182",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7669,7 +4263,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 19:54:29",
-      "crawl_time": "2026-03-02T20:46:58.239117",
+      "crawl_time": "2026-03-02T20:53:24.433228",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7701,7 +4295,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 19:35:34",
-      "crawl_time": "2026-03-02T20:46:58.239159",
+      "crawl_time": "2026-03-02T20:53:24.433268",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7733,7 +4327,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 18:38:54",
-      "crawl_time": "2026-03-02T20:46:58.239196",
+      "crawl_time": "2026-03-02T20:53:24.433361",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7765,7 +4359,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 17:39:22",
-      "crawl_time": "2026-03-02T20:46:58.239234",
+      "crawl_time": "2026-03-02T20:53:24.433410",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7797,7 +4391,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 16:07:29",
-      "crawl_time": "2026-03-02T20:46:58.239270",
+      "crawl_time": "2026-03-02T20:53:24.433451",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7829,7 +4423,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 15:27:47",
-      "crawl_time": "2026-03-02T20:46:58.239304",
+      "crawl_time": "2026-03-02T20:53:24.433523",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7861,7 +4455,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 14:22:08",
-      "crawl_time": "2026-03-02T20:46:58.239345",
+      "crawl_time": "2026-03-02T20:53:24.433560",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7893,7 +4487,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 09:58:00",
-      "crawl_time": "2026-03-02T20:46:58.239892",
+      "crawl_time": "2026-03-02T20:53:24.433594",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7925,7 +4519,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 08:00:00",
-      "crawl_time": "2026-03-02T20:46:58.240199",
+      "crawl_time": "2026-03-02T20:53:24.433631",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7957,7 +4551,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 06:00:00",
-      "crawl_time": "2026-03-02T20:46:58.240246",
+      "crawl_time": "2026-03-02T20:53:24.433664",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -7989,7 +4583,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 05:00:00",
-      "crawl_time": "2026-03-02T20:46:58.240377",
+      "crawl_time": "2026-03-02T20:53:24.433742",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -8021,7 +4615,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 02:01:00",
-      "crawl_time": "2026-03-02T20:46:58.240467",
+      "crawl_time": "2026-03-02T20:53:24.433801",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -8053,7 +4647,7 @@
         "原油"
       ],
       "pub_date": "2026-03-02 02:00:00",
-      "crawl_time": "2026-03-02T20:46:58.240514",
+      "crawl_time": "2026-03-02T20:53:24.433859",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -8086,7 +4680,7 @@
         "数据"
       ],
       "pub_date": "2026-03-02 12:40:53",
-      "crawl_time": "2026-03-02T20:46:59.102129",
+      "crawl_time": "2026-03-02T20:53:26.416253",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -8119,7 +4713,7 @@
         "数据"
       ],
       "pub_date": "2026-03-02 12:39:41",
-      "crawl_time": "2026-03-02T20:46:59.102270",
+      "crawl_time": "2026-03-02T20:53:26.416446",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -8152,7 +4746,7 @@
         "数据"
       ],
       "pub_date": "2026-03-02 12:37:43",
-      "crawl_time": "2026-03-02T20:46:59.102344",
+      "crawl_time": "2026-03-02T20:53:26.416534",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -8185,7 +4779,7 @@
         "数据"
       ],
       "pub_date": "2026-03-02 12:37:18",
-      "crawl_time": "2026-03-02T20:46:59.102400",
+      "crawl_time": "2026-03-02T20:53:26.416580",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -8218,7 +4812,7 @@
         "数据"
       ],
       "pub_date": "2026-03-02 12:36:25",
-      "crawl_time": "2026-03-02T20:46:59.102442",
+      "crawl_time": "2026-03-02T20:53:26.416621",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -8251,7 +4845,7 @@
         "数据"
       ],
       "pub_date": "2026-03-02 12:36:17",
-      "crawl_time": "2026-03-02T20:46:59.102482",
+      "crawl_time": "2026-03-02T20:53:26.416676",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -8284,7 +4878,7 @@
         "数据"
       ],
       "pub_date": "2026-03-02 12:36:06",
-      "crawl_time": "2026-03-02T20:46:59.102532",
+      "crawl_time": "2026-03-02T20:53:26.416840",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -8317,7 +4911,7 @@
         "数据"
       ],
       "pub_date": "2026-03-02 12:35:27",
-      "crawl_time": "2026-03-02T20:46:59.102592",
+      "crawl_time": "2026-03-02T20:53:26.416885",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -8350,7 +4944,7 @@
         "数据"
       ],
       "pub_date": "2026-03-02 12:35:06",
-      "crawl_time": "2026-03-02T20:46:59.102653",
+      "crawl_time": "2026-03-02T20:53:26.416924",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
@@ -8383,7 +4977,7 @@
         "数据"
       ],
       "pub_date": "2026-03-02 12:34:59",
-      "crawl_time": "2026-03-02T20:46:59.102731",
+      "crawl_time": "2026-03-02T20:53:26.416976",
       "date": "2026-03-02",
       "market_signal": {
         "bullish": 0,
