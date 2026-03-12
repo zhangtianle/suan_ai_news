@@ -1,0 +1,6087 @@
+{
+  "date": "2026-03-13",
+  "date_range": 3,
+  "type": "finance",
+  "version": "v3",
+  "ai_enhanced": true,
+  "analysis": {
+    "total": 179,
+    "signal_stats": {
+      "bullish": 34,
+      "bearish": 4,
+      "neutral": 141
+    },
+    "source_stats": {
+      "东方财富": 1,
+      "证券时报": 29,
+      "第一财经": 2,
+      "财新网": 7,
+      "21世纪经济报道": 21,
+      "经济观察报": 10,
+      "CNBC": 30,
+      "MarketWatch": 10,
+      "Yahoo Finance": 44,
+      "OilPrice": 15,
+      "Investing.com": 10
+    },
+    "category_stats": {
+      "股市": 83,
+      "基金": 1,
+      "期货": 1,
+      "宏观": 99,
+      "政策": 29,
+      "国际": 76,
+      "金融": 7,
+      "产业": 38,
+      "美股": 54,
+      "数据": 20,
+      "能源": 15,
+      "原油": 15,
+      "商品": 10,
+      "外汇": 10
+    },
+    "entity_stats": {
+      "银行": 2,
+      "腾讯": 3,
+      "AI": 14,
+      "半导体": 1,
+      "风电": 1,
+      "科创50": 2,
+      "英伟达": 2,
+      "华为": 2,
+      "小米": 3,
+      "芯片": 1,
+      "储能": 1,
+      "阿里": 1,
+      "比亚迪": 1,
+      "标普500": 3,
+      "OpenAI": 2
+    },
+    "date_stats": {
+      "2026-03-13": 179
+    },
+    "company_stats": {
+      "腾讯": 3,
+      "英伟达": 2,
+      "华为": 2,
+      "小米": 3,
+      "Meta": 1,
+      "阿里": 1,
+      "比亚迪": 1,
+      "OpenAI": 2
+    },
+    "sentiment": "中性 ➖",
+    "sentiment_desc": "市场多空平衡，观望为主"
+  },
+  "articles": [
+    {
+      "id": "a5b51bd6a14e",
+      "title": "上市公司限售股解禁一览",
+      "url": "http://data.eastmoney.com/dxf/default.html",
+      "source": "东方财富",
+      "categories": [
+        "股市",
+        "基金",
+        "期货"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:38.528229",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "上市动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "6c2c4bca7bae",
+      "title": "国际油价12日大幅上涨",
+      "url": "https://www.stcn.com/article/detail/3674787.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:40.169366",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "市场上涨",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "上涨"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "3143bc95c531",
+      "title": "美股三大指数集体收跌 银行板块普跌",
+      "url": "https://www.stcn.com/article/detail/3674783.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:40.169384",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [
+          "银行"
+        ],
+        "indices": []
+      },
+      "ai_summary": "行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "507aade8fb76",
+      "title": "央行行长潘功胜主持召开经济金融专家座谈会 实施好适度宽松货币政策",
+      "url": "https://www.stcn.com/article/detail/3674659.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:40.169547",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "行业动态",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "宽松"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "d2459db43cc4",
+      "title": "拍卖市场频频遇冷 非上市银行股权需重赋价值",
+      "url": "https://www.stcn.com/article/detail/3674636.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:40.169762",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [
+          "银行"
+        ],
+        "indices": []
+      },
+      "ai_summary": "上市动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "d6711b210380",
+      "title": "能化类期货品种大涨 部分获利投资者离场",
+      "url": "https://www.stcn.com/article/detail/3674635.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:40.169781",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "行业动态",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "大涨"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "5e22934401fd",
+      "title": "寒武纪首次年度盈利 营收同比增453%",
+      "url": "https://www.stcn.com/article/detail/3674632.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:40.169819",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "📈利好",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "盈利"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "ee32bdf2e3e0",
+      "title": "全线大跌！霍尔木兹海峡重磅消息 伊朗最高领袖发声",
+      "url": "https://www.stcn.com/article/detail/3674616.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:40.169857",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 1,
+        "neutral": 0,
+        "overall": "bearish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "行业动态",
+      "sentiment_analysis": {
+        "sentiment": "bearish",
+        "confidence": 0.6,
+        "signals": [
+          "大跌"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "6aa7ffa3ce97",
+      "title": "寒武纪年报首次实现盈利！拟10派15元转增4.9股",
+      "url": "https://www.stcn.com/article/detail/3674566.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:40.169873",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "📈利好",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "盈利"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "c9a95fd09236",
+      "title": "创想三维冲刺消费级3D打印第一股 腾讯等为股东",
+      "url": "https://www.stcn.com/article/detail/3674520.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:40.169912",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [
+          "腾讯"
+        ],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "涉及腾讯",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": [
+        "腾讯"
+      ]
+    },
+    {
+      "id": "3e0e1948eee5",
+      "title": "AI介入中东局势引发担忧，美国会呼吁加强监管",
+      "url": "https://www.stcn.com/article/detail/3673465.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:40.170233",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [
+          "AI"
+        ],
+        "indices": []
+      },
+      "ai_summary": "行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "beb159c21dc0",
+      "title": "高能环境2025年扣非净利润增长145.32% 重点项目产能持续释放",
+      "url": "https://www.stcn.com/article/detail/3674575.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:40.170401",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "业绩增长 | 📈利好",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "增长"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "ddde937be133",
+      "title": "胜宏科技2025年净利润同比增长273.52%，高端产品占比显著提升",
+      "url": "https://www.stcn.com/article/detail/3674576.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:40.170419",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "业绩增长 | 📈利好",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "增长"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "e5833b09b61f",
+      "title": "上海新阳2025年净利大增71.12%， 半导体材料业务成增长主引擎",
+      "url": "https://www.stcn.com/article/detail/3674562.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:40.170436",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [
+          "半导体"
+        ],
+        "indices": []
+      },
+      "ai_summary": "业绩增长 | 📈利好",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "增长"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "7f1475a094ec",
+      "title": "002487，直线拉涨停！利好来袭，风电设备板块大爆发",
+      "url": "https://www.stcn.com/article/detail/3674341.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:40.170494",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [
+          "风电"
+        ],
+        "indices": []
+      },
+      "ai_summary": "📈利好",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "利好"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "cc92771f7e3b",
+      "title": "58只股收盘价创历史新高",
+      "url": "https://www.stcn.com/article/detail/3673881.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:40.170510",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "行业动态",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "新高"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "f2e0f9dce12f",
+      "title": "科创板活跃股榜单：76股换手率超5%",
+      "url": "https://www.stcn.com/article/detail/3673853.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:40.170563",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": [
+          "科创50"
+        ]
+      },
+      "ai_summary": "行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "1c81d2929b8c",
+      "title": "32股今日获机构买入评级 5股上涨空间超10%",
+      "url": "https://www.stcn.com/article/detail/3673876.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:40.170579",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "市场上涨",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "上涨"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "db85558c9f22",
+      "title": "煤炭概念上涨2.29%，11股主力资金净流入超亿元",
+      "url": "https://www.stcn.com/article/detail/3673636.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:40.170596",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "市场上涨",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "上涨"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "9f7837baea55",
+      "title": "私募前两月平均收益率接近7% 股票策略表现亮眼",
+      "url": "https://www.stcn.com/article/detail/3673182.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:40.170759",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "f5a0c6f8bf96",
+      "title": "232只ETF获融资净买入 易方达中证香港证券投资主题ETF居首",
+      "url": "https://www.stcn.com/article/detail/3672926.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:40.170779",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "融资消息",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "b4cad2ffc281",
+      "title": "90%任务是“养虾” 大模型Token通胀 谁在收割红利？",
+      "url": "https://www.stcn.com/article/detail/3674775.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:40.170979",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "7cc2a25e074a",
+      "title": "多所高校发布通知 提醒OpenClaw所产生的网络安全风险",
+      "url": "https://www.stcn.com/article/detail/3673454.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:40.171016",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "产品发布 | 📉利空",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "发布"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "c85b778170b6",
+      "title": "英伟达将豪掷260亿美元开发AI大模型",
+      "url": "https://www.stcn.com/article/detail/3673395.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:40.171072",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [
+          "英伟达"
+        ],
+        "sectors": [
+          "AI"
+        ],
+        "indices": []
+      },
+      "ai_summary": "涉及英伟达",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": [
+        "英伟达"
+      ]
+    },
+    {
+      "id": "56a119cda435",
+      "title": "原子埃尔获得数千万元融资！创始人兼CEO潘志东：未来人人都要拥有一枚AI智能戒指",
+      "url": "https://www.stcn.com/article/detail/3671415.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:40.171133",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [
+          "AI"
+        ],
+        "indices": []
+      },
+      "ai_summary": "融资消息",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "8e0f0968a0da",
+      "title": "登春晚、筹划上市，知名机器人公司爆火之后迎巨变：创始人兼CEO突然离职！",
+      "url": "https://www.stcn.com/article/detail/3664080.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:40.171321",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "上市动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "61dff0e9ea1f",
+      "title": "“挤破头”抢份额，几天就得拍板？商业航天这波融资热，投资人其实是“清醒着疯”",
+      "url": "https://www.stcn.com/article/detail/3662922.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:40.171409",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "融资消息",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "8793e7e4a7c8",
+      "title": "政策发力 A股上市公司ESG管理驶入“快车道”",
+      "url": "https://www.stcn.com/article/detail/3663980.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:40.171543",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "上市动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "5c2a3f3ad718",
+      "title": "重要资讯丨央行召开经济金融专家座谈会",
+      "url": "https://www.stcn.com/article/detail/3674456.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:40.171641",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "7a5635166de5",
+      "title": "揭秘涨停丨2股封单资金超3亿元",
+      "url": "https://www.stcn.com/article/detail/3674044.html",
+      "source": "证券时报",
+      "categories": [
+        "股市",
+        "宏观",
+        "政策"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:40.171726",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "b893cdbdcaa2",
+      "title": "“汾酒抖音挑战赛播放量突破6.3亿次，全面掀起新春清香热 >",
+      "url": "https://www.yicai.com/news/102000474.html",
+      "source": "第一财经",
+      "categories": [
+        "宏观",
+        "股市",
+        "国际"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:52.440599",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "技术突破 | 📈利好",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "突破"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "3211b147fb7e",
+      "title": "“第四范式财报放盈利前景 定位AI时代Salesforce",
+      "url": "https://www.yicai.com/news/102038339.html",
+      "source": "第一财经",
+      "categories": [
+        "宏观",
+        "股市",
+        "国际"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:52.440784",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [
+          "AI"
+        ],
+        "indices": []
+      },
+      "ai_summary": "📈利好",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "盈利"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "869d32f7b7b1",
+      "title": "乘联会崔东树：预期车市在下半年恢复增长",
+      "url": "https://www.caixin.com/2026-03-12/102422306.html",
+      "source": "财新网",
+      "categories": [
+        "宏观",
+        "金融",
+        "产业"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:53.051602",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 2,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "业绩增长 | 📈利好",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.7,
+        "signals": [
+          "增长",
+          "恢复"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "a307a46fd590",
+      "title": "资金分层、非银金融机构行为与央行货币政策传导",
+      "url": "https://opinion.caixin.com/2026-03-12/102422153.html",
+      "source": "财新网",
+      "categories": [
+        "宏观",
+        "金融",
+        "产业"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:53.051773",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "1eca179c29a9",
+      "title": "油价上涨如何重塑美国经济和政治",
+      "url": "https://opinion.caixin.com/2026-03-12/102422075.html",
+      "source": "财新网",
+      "categories": [
+        "宏观",
+        "金融",
+        "产业"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:53.051894",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "市场上涨",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "上涨"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "9d8a069a4a80",
+      "title": "如何破解地方隐债瞒报漏报？央行王均坦建议完善监督问责机制",
+      "url": "https://topics.caixin.com/2026-03-12/102422297.html",
+      "source": "财新网",
+      "categories": [
+        "宏观",
+        "金融",
+        "产业"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:53.052367",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "0449478889a2",
+      "title": "小米、华为、荣耀下场“养虾” 手机厂商跟进智能体",
+      "url": "https://www.caixin.com/2026-03-12/102422101.html",
+      "source": "财新网",
+      "categories": [
+        "宏观",
+        "金融",
+        "产业"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:53.052414",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [
+          "华为",
+          "小米"
+        ],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "涉及华为, 小米",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": [
+        "华为",
+        "小米"
+      ]
+    },
+    {
+      "id": "afca26edfe3f",
+      "title": "T早报｜工信部发文提示防范“龙虾”风险；英伟达向Nebius投资20亿美元；Meta推出自研AI芯片",
+      "url": "https://www.caixin.com/2026-03-12/102422033.html",
+      "source": "财新网",
+      "categories": [
+        "宏观",
+        "金融",
+        "产业"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:53.052494",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [
+          "英伟达"
+        ],
+        "sectors": [
+          "芯片",
+          "AI"
+        ],
+        "indices": []
+      },
+      "ai_summary": "涉及英伟达, Meta | 产品推出 | 📉利空",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "推出"
+        ]
+      },
+      "mentioned_companies": [
+        "英伟达",
+        "Meta"
+      ]
+    },
+    {
+      "id": "76ddcf7b3507",
+      "title": "熊猫债“小阳春”：2026年一季度发行规模同比增长或超五成",
+      "url": "https://finance.caixin.com/2026-03-12/102421994.html",
+      "source": "财新网",
+      "categories": [
+        "宏观",
+        "金融",
+        "产业"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:53.052579",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "业绩增长 | 📈利好",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "增长"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "a783b8da6268",
+      "title": "国际油价12日大幅上涨",
+      "url": "https://www.21jingji.com/article/20260313/herald/d8466d92d9ac1a16ed9ebfb569454fd7.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:53.775657",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "市场上涨",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "上涨"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "d21f4fcfec74",
+      "title": "伊朗最高领袖穆杰塔巴·哈梅内伊发布个人照片",
+      "url": "https://www.21jingji.com/article/20260313/herald/12ab11d7bb5ed7b8c84eef14ba8d3b6e.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:53.775680",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "产品发布",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "发布"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "f84c730cc806",
+      "title": "胜宏科技：2025年净利润同比增长273.52% 拟每10股派20元",
+      "url": "https://www.21jingji.com/article/20260312/herald/c78961cc5f0fc92f0087e2a7d69de469.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:53.775884",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "业绩增长 | 📈利好",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "增长"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "5ef74c2d6ca8",
+      "title": "暴风雨前的宁静？美国“再通胀”箭在弦上",
+      "url": "https://www.21jingji.com/article/20260312/herald/019dd4435e8f30e6fdf139ae7425bcf3.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:53.776009",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "4a408fa167c9",
+      "title": "华为老将，带出56亿储能黑马",
+      "url": "https://www.21jingji.com/article/20260312/herald/36bccdb150346aa5b59a95223de53634.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:53.776171",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [
+          "华为"
+        ],
+        "sectors": [
+          "储能"
+        ],
+        "indices": []
+      },
+      "ai_summary": "涉及华为",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": [
+        "华为"
+      ]
+    },
+    {
+      "id": "b9be6ec79e4f",
+      "title": "全国人大代表田轩：三管齐下，破解科创企业股权融资退出难题",
+      "url": "https://www.21jingji.com/article/20260312/herald/f40a243294fdda78cb4f732ecf9221cd.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:53.776284",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "融资消息",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "53200a77d43d",
+      "title": "央行：继续实施好适度宽松的货币政策；国际油价再度大涨｜21早新闻",
+      "url": "https://www.21jingji.com/article/20260313/herald/5ef0e45b17c5fe4383717408a5bb7b9a.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:53.776318",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 2,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "行业动态",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.7,
+        "signals": [
+          "大涨",
+          "宽松"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "9692dd50d6c4",
+      "title": "湾区金融大咖会：稳增长与新动能 中国经济的变局与机遇",
+      "url": "https://www.21jingji.com/article/20260312/herald/4a4c6e3e7ccab3179c3bce9de36e31af.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:53.776452",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "业绩增长 | 📈利好",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "增长"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "0702a0e84bd0",
+      "title": "21社论丨保障和改善民生 筑牢稳增长扩内需根基",
+      "url": "https://www.21jingji.com/article/20260312/a6a01da9d15e1353abb0929cc5883788.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:53.776470",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "业绩增长 | 📈利好",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "增长"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "9009abcddf93",
+      "title": "21评论｜中企出海，从单点收购到创新溢出",
+      "url": "https://www.21jingji.com/article/20260311/herald/b4a23612f1b0f52133415310f36d47af.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:53.776506",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "收购动态",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.7,
+        "signals": [
+          "收购",
+          "创新"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "94befcf2c308",
+      "title": "21评论丨消费增长，关键在新场景、新人群、新基建",
+      "url": "https://www.21jingji.com/article/20260311/d04e61d7c1c21660ebb6be181eaf489e.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:53.776522",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "业绩增长 | 📈利好",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "增长"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "643835574a66",
+      "title": "腾讯和阿里同时押注具身智能创企，至简动力5轮累计融资20亿元",
+      "url": "https://www.21jingji.com/article/20260309/herald/4faae25f2c3c91bb0a84c3942cc445b2.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:53.776577",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [
+          "腾讯",
+          "阿里"
+        ],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "涉及阿里, 腾讯 | 融资消息",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": [
+        "阿里",
+        "腾讯"
+      ]
+    },
+    {
+      "id": "e8d1c9c1d588",
+      "title": "科技与制造持续领跑，银河通用完成25亿元新轮融资｜21投融资",
+      "url": "https://www.21jingji.com/article/20260309/herald/45360c46c1a07f4173551f89455b69ea.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:53.776592",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "融资消息",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "eb9b03d3c624",
+      "title": "李斌最新闭门会：盈利之后，蔚来要“进窄门，走远路”",
+      "url": "https://www.21jingji.com/article/20260312/herald/03648ab1d4445fbda288da06208eaed4.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:53.776653",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "📈利好",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "盈利"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "b5cc3108e6d2",
+      "title": "“小米车险”北京试点，车险变革要来了？",
+      "url": "https://www.21jingji.com/article/20260312/herald/6b8b449db41009302a253e7c89f98d7e.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:53.776777",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [
+          "小米"
+        ],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "涉及小米",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": [
+        "小米"
+      ]
+    },
+    {
+      "id": "a14af0715507",
+      "title": "君实生物遭科创50“除名”，营收上行难破亏损“魔咒”",
+      "url": "https://www.21jingji.com/article/20260312/herald/ca6cfb5aa0540afd27ce0fa3eb1b4b24.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:53.776948",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 1,
+        "neutral": 0,
+        "overall": "bearish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": [
+          "科创50"
+        ]
+      },
+      "ai_summary": "📉利空",
+      "sentiment_analysis": {
+        "sentiment": "bearish",
+        "confidence": 0.6,
+        "signals": [
+          "亏损"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "9b78dd5ace28",
+      "title": "政策发力 A股上市公司ESG管理驶入“快车道”",
+      "url": "https://www.21jingji.com/article/20260306/herald/4b156a297be34a8e0af2391cd8228b93.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:53.777090",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "上市动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "6e4b781f3415",
+      "title": "华友钴业碳排大增258%，镍王锂王碳排放齐上涨",
+      "url": "https://www.21jingji.com/article/20260302/herald/a565a189d13903fefac45a91900f0f20.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:53.777107",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "市场上涨",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "上涨"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "1aa087f0dd74",
+      "title": "证监会：加强上市公司ESG信披指引的动态评估｜ESG热搜榜",
+      "url": "https://www.21jingji.com/article/20260302/herald/bc6d0d42a943e2cdbec053dace66cc90.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:53.777124",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "上市动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "77aa197fc822",
+      "title": "哈梅内伊之子当选伊朗新任最高领袖；布油美油均突破110美元/桶｜21早新闻",
+      "url": "https://www.21jingji.com/article/20260309/herald/8c01a6b64b59afb20de567ca3e922d1e.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:53.777208",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "技术突破 | 📈利好",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "突破"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "b56c18d7c968",
+      "title": "腾讯出手！A股13只“龙虾股”涨停，板块受益逻辑全梳理",
+      "url": "https://www.21jingji.com/article/20260309/herald/6d471248f706e41b2ced04efc7f86300.html",
+      "source": "21世纪经济报道",
+      "categories": [
+        "宏观",
+        "产业",
+        "股市"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:53.777280",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [
+          "腾讯"
+        ],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "涉及腾讯",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": [
+        "腾讯"
+      ]
+    },
+    {
+      "id": "408f8739757c",
+      "title": "国际油价12日大幅上涨",
+      "url": "http://www.eeo.com.cn/2026/0313/810214.shtml",
+      "source": "经济观察报",
+      "categories": [
+        "宏观",
+        "产业"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:55.236415",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "市场上涨",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "上涨"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "ec54e199ed25",
+      "title": "小米旗下瀚星创投入股银河互联网电视公司",
+      "url": "http://www.eeo.com.cn/2026/0313/810209.shtml",
+      "source": "经济观察报",
+      "categories": [
+        "宏观",
+        "产业"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:55.236495",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [
+          "小米"
+        ],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "涉及小米",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": [
+        "小米"
+      ]
+    },
+    {
+      "id": "e9c1cd30c7cd",
+      "title": "帕卡股价近20日跌超9%，Q4营收68.2亿美元但净利下滑36%",
+      "url": "http://www.eeo.com.cn/2026/0313/810207.shtml",
+      "source": "经济观察报",
+      "categories": [
+        "宏观",
+        "产业"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:55.236535",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 1,
+        "neutral": 0,
+        "overall": "bearish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "行业动态",
+      "sentiment_analysis": {
+        "sentiment": "bearish",
+        "confidence": 0.6,
+        "signals": [
+          "下滑"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "0d552afa55ce",
+      "title": "韩国股市下跌0.62% 受地缘政治风险及外资流出影响",
+      "url": "http://www.eeo.com.cn/2026/0313/810206.shtml",
+      "source": "经济观察报",
+      "categories": [
+        "宏观",
+        "产业"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:55.236555",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 1,
+        "neutral": 0,
+        "overall": "bearish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "市场下跌 | 📉利空",
+      "sentiment_analysis": {
+        "sentiment": "bearish",
+        "confidence": 0.6,
+        "signals": [
+          "下跌"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "eeea607415f3",
+      "title": "进口肿瘤药因致癌撤市 专家：上市撤市都是",
+      "url": "http://www.eeo.com.cn/2026/0311/809399.shtml",
+      "source": "经济观察报",
+      "categories": [
+        "宏观",
+        "产业"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:55.236643",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "上市动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "044454c430e7",
+      "title": "居民增收计划、养老金上涨、支持AI开源社区",
+      "url": "http://www.eeo.com.cn/2026/0305/805779.shtml",
+      "source": "经济观察报",
+      "categories": [
+        "宏观",
+        "产业"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:55.236925",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [
+          "AI"
+        ],
+        "indices": []
+      },
+      "ai_summary": "市场上涨",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "上涨"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "387c75d18388",
+      "title": "锅圈食品 2025 年交出高质量答卷，营收、利润、门店三增长",
+      "url": "http://www.eeo.com.cn/2026/0312/810097.shtml",
+      "source": "经济观察报",
+      "categories": [
+        "宏观",
+        "产业"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:55.237157",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "业绩增长 | 📈利好",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "增长"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "2a98f46779d5",
+      "title": "极智嘉的价值“跳空缺口”：当机器人赛道的盈利报表，撞上“智能经济”的政策强音",
+      "url": "http://www.eeo.com.cn/2026/0312/809976.shtml",
+      "source": "经济观察报",
+      "categories": [
+        "宏观",
+        "产业"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:55.237255",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 1,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "bullish"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "📈利好",
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.6,
+        "signals": [
+          "盈利"
+        ]
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "e6d72a6067e6",
+      "title": "从油价狂飙到闪充破局：比亚迪用技术作答国家能源安全的“必答题”",
+      "url": "http://www.eeo.com.cn/2026/0310/808614.shtml",
+      "source": "经济观察报",
+      "categories": [
+        "宏观",
+        "产业"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:55.237542",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [
+          "比亚迪"
+        ],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "涉及比亚迪",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": [
+        "比亚迪"
+      ]
+    },
+    {
+      "id": "422bc4680cc8",
+      "title": "俞浩荣膺 2025 福布斯中国科创人物 以科创远见引领智能时代跃迁",
+      "url": "http://www.eeo.com.cn/2026/0310/808058.shtml",
+      "source": "经济观察报",
+      "categories": [
+        "宏观",
+        "产业"
+      ],
+      "pub_date": null,
+      "crawl_time": "2026-03-13T07:30:55.237614",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "3b24f4bc9ce6",
+      "title": "Markets' hopes for Fed interest rate cuts are rapidly fading away",
+      "url": "https://www.cnbc.com/2026/03/12/markets-hopes-for-fed-interest-rate-cuts-are-rapidly-fading-away.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-03-12 20:41:02",
+      "crawl_time": "2026-03-13T07:31:07.440833",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]市场' hopes 为 Fed interest rate cuts 是 rapidly fading away | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "c16ad9ef31be",
+      "title": "Lobster buffet: China’s tech firms feast on OpenClaw as companies race to deploy AI agents",
+      "url": "https://www.cnbc.com/2026/03/12/china-openclaw-ai-agent-adoption-tech-companies-government-support-lobster-shrimp.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-03-12 23:20:38",
+      "crawl_time": "2026-03-13T07:31:07.440907",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [
+          "AI"
+        ],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Lobster buffet: China’s 科技 firms feast 在 OpenClaw as companies race 至 deploy AI agents | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "786e559a24ca",
+      "title": "JPMorgan Chase reins in lending to private credit firms after marking down software loans",
+      "url": "https://www.cnbc.com/2026/03/11/jpmorgan-reins-lending-private-credit-marks-down-software-loans.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-03-11 12:57:44",
+      "crawl_time": "2026-03-13T07:31:07.440953",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]JPMorgan Chase reins 在 lending 至 private credit firms 后 marking down 软件 loans | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "e2f8c03c815d",
+      "title": "Surging oil prices could wipe out benefits from Trump's 'big beautiful bill'",
+      "url": "https://www.cnbc.com/2026/03/10/rising-oil-prices-may-wipe-out-effects-of-trumps-big-beautiful-bill.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-03-10 14:16:40",
+      "crawl_time": "2026-03-13T07:31:07.440993",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Surging oil prices could wipe out benefits 来自 Trump's 'big beautiful bill' | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "c5f772a0aad3",
+      "title": "There's another energy market that may get hit harder than oil by Strait of Hormuz closure",
+      "url": "https://www.cnbc.com/2026/03/09/theres-another-energy-market-that-may-get-hit-harder-than-oil-by-strait-of-hormuz-closure.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-03-10 14:06:17",
+      "crawl_time": "2026-03-13T07:31:07.441032",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]There's another energy 市场 该 may get hit harder than oil by Strait of Hormuz closure | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "d95c65784b08",
+      "title": "Why China can withstand oil's surge past $100 more easily than other countries",
+      "url": "https://www.cnbc.com/2026/03/09/china-oil-shock-iran-war-hormuz-energy-transition.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-03-09 13:03:49",
+      "crawl_time": "2026-03-13T07:31:07.441071",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Why China can withstand oil's 大涨 past $100 more easily than other countries | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "7c2b37dc09f2",
+      "title": "China says 'thorough preparations' needed as Trump-Xi meeting hangs in the balance amid Iran war",
+      "url": "https://www.cnbc.com/2026/03/08/china-says-thorough-preparations-needed-ahead-of-trump-xi-meeting.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-03-08 07:17:53",
+      "crawl_time": "2026-03-13T07:31:07.441109",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]China 表示 'thorough preparations' needed as Trump-Xi meeting hangs 在 the balance amid 伊朗 war | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "b1fae0b7fc2e",
+      "title": "Robinhood's venture fund, which gives investors access to private companies, tanks 11% on first day",
+      "url": "https://www.cnbc.com/2026/03/06/robinhoods-venture-fund-which-gives-investors-access-to-private-companies-tanks-11percent-on-first-day.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-03-06 23:41:32",
+      "crawl_time": "2026-03-13T07:31:07.441171",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Robinhood's venture 基金, which gives investors access 至 private companies, tanks 11% 在 首次 day | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "74db918f3312",
+      "title": "Fed Governor Miran says job losses in February add to the case for more interest rate cuts",
+      "url": "https://www.cnbc.com/2026/03/06/fed-governor-miran-says-job-losses-in-february-add-to-the-case-for-more-interest-rate-cuts.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-03-06 18:14:50",
+      "crawl_time": "2026-03-13T07:31:07.441216",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Fed Governor Miran 表示 job 亏损 在 February add 至 the case 为 more interest rate cuts | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "29ff1f24f128",
+      "title": "U.S.-Iran war exposes big market concentration risk. It isn't in S&P 500 stocks",
+      "url": "https://www.cnbc.com/2026/03/06/iran-war-oil-energy-emerging-markets-stocks-south-korea.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-03-06 17:52:33",
+      "crawl_time": "2026-03-13T07:31:07.441261",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": [
+          "标普500"
+        ]
+      },
+      "ai_summary": "[翻译] [英文]U.S.-伊朗 war exposes big 市场 concentration risk. It isn't 在 S&P 500 股票 | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "f1fcdbd528c8",
+      "title": "Mortgages in 47 seconds: Better’s new ChatGPT app targets lenders Rocket and UWM",
+      "url": "https://www.cnbc.com/2026/03/05/mortgages-in-47-seconds-betters-new-chatgpt-app-targets-lenders-rocket-and-uwm.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-03-05 20:42:54",
+      "crawl_time": "2026-03-13T07:31:07.441303",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Mortgages 在 47 seconds: Better’s 新款 ChatGPT 应用 targets lenders Rocket 和 UWM | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "3b776648fd7e",
+      "title": "Oaktree's Howard Marks says there's no systemic problem with private credit",
+      "url": "https://www.cnbc.com/2026/03/05/oaktrees-howard-marks-says-theres-no-systemic-problem-with-private-credit.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-03-05 18:14:21",
+      "crawl_time": "2026-03-13T07:31:07.441339",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Oaktree's Howard Marks 表示 there's no systemic problem 配备 private credit | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "2a68159b0e6f",
+      "title": "States led by New York sue to block Trump's latest tariffs, calling them an illegal end run around Supreme Court",
+      "url": "https://www.cnbc.com/2026/03/05/trump-tariffs-state-ags-sue-supreme-court-decision.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-03-05 20:19:25",
+      "crawl_time": "2026-03-13T07:31:07.441397",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]States led by 新款 York sue 至 block Trump's 最新 tariffs, calling them an illegal end run around Supreme Court | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "9ebf166b32c6",
+      "title": "New Berkshire Hathaway CEO still talks with Warren Buffett nearly every day",
+      "url": "https://www.cnbc.com/2026/03/05/new-berkshire-hathaway-ceo-still-talks-with-warren-buffett-nearly-every-day.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-03-05 17:34:19",
+      "crawl_time": "2026-03-13T07:31:07.441452",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]新款 Berkshire Hathaway CEO still talks 配备 Warren Buffett nearly every day | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "46214b3e65bc",
+      "title": "Berkshire Hathaway begins repurchasing shares, CEO Greg Abel buys $15 million in stock",
+      "url": "https://www.cnbc.com/2026/03/05/berkshire-hathaway-begins-repurchasing-shares-ceo-greg-abel-buys-15-million-in-stock-.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-03-05 14:28:23",
+      "crawl_time": "2026-03-13T07:31:07.441505",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Berkshire Hathaway begins repurchasing 股票, CEO Greg Abel buys $15 million 在 股票 | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "2c10dbedaed6",
+      "title": "Iran war and stocks: Why Global X says 'it might be time to double down' on emerging markets",
+      "url": "https://www.cnbc.com/2026/03/05/iran-war-and-stocks-global-x-says-double-down-on-emerging-markets.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-03-05 12:00:01",
+      "crawl_time": "2026-03-13T07:31:07.441558",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]伊朗 war 和 股票: Why Global X 表示 'it might be time 至 double down' 在 emerging 市场 | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "4ac5577b92e4",
+      "title": "China to boost defense spending by 7%, slowest pace since 2021",
+      "url": "https://www.cnbc.com/2026/03/05/china-defense-spending-7-percent-2026-budget.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-03-05 02:43:33",
+      "crawl_time": "2026-03-13T07:31:07.441595",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]China 至 boost defense spending by 7%, slowest pace since 2021 | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "b75adab87870",
+      "title": "Coinbase leads crypto stocks higher after Trump signals support for digital asset market structure bill",
+      "url": "https://www.cnbc.com/2026/03/04/coinbase-leads-crypto-stocks-higher-after-trump-signals-support-for-digital-asset-market-structure-bill.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-03-04 15:19:27",
+      "crawl_time": "2026-03-13T07:31:07.441670",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Coinbase leads crypto 股票 higher 后 Trump signals support 为 digital asset 市场 structure bill | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "b18f9a7817c0",
+      "title": "Trump sides with crypto firms in trillion-dollar battle with banks over stablecoin yield",
+      "url": "https://www.cnbc.com/2026/03/04/trump-crypto-banks-stablecoin-yield.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-03-04 19:24:49",
+      "crawl_time": "2026-03-13T07:31:07.441771",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Trump sides 配备 crypto firms 在 trillion-dollar battle 配备 banks over stablecoin yield | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "21b2fa579eb2",
+      "title": "China is set to kick off its big policy meeting. What will be the key announcements?",
+      "url": "https://www.cnbc.com/2026/03/04/china-two-sessions-policy-meeting.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-03-04 00:07:09",
+      "crawl_time": "2026-03-13T07:31:07.441827",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]China 是 set 至 kick off 其 big policy meeting. What 将 be the key announcements? | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "81b4d9507f42",
+      "title": "Blackstone’s Gray: Market ‘noise’ fueled record redemptions from world’s largest private credit fund",
+      "url": "https://www.cnbc.com/2026/03/03/blackstone-private-credit-fund.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-03-03 18:55:30",
+      "crawl_time": "2026-03-13T07:31:07.441868",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Blackstone’s Gray: 市场 ‘noise’ fueled record redemptions 来自 world’s 最大 private credit 基金 | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "8e166b92c0b3",
+      "title": "The momentum trades of 2026 are breaking with gold, silver and South Korea down big",
+      "url": "https://www.cnbc.com/2026/03/03/the-momentum-trades-of-2026-are-breaking-with-gold-silver-and-south-korea-down-big.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-03-03 15:30:25",
+      "crawl_time": "2026-03-13T07:31:07.441904",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]The momentum trades of 2026 是 breaking 配备 gold, silver 和 South Korea down big | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "d56d606eeb2a",
+      "title": "New York Fed's Williams says tariff burden falls 'overwhelmingly' on U.S. businesses and consumers",
+      "url": "https://www.cnbc.com/2026/03/03/new-york-feds-williams-says-tariff-burden-falls-overwhelmingly-on-us-businesses-and-consumers.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-03-03 16:53:43",
+      "crawl_time": "2026-03-13T07:31:07.441942",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]新款 York Fed's Williams 表示 tariff burden 下跌 'overwhelmingly' 在 U.S. businesses 和 consumers | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "5518d0ff9a9a",
+      "title": "Jamie Dimon says Trump’s $5 billion debanking lawsuit ‘has no merit’ but he’s sympathetic to concerns",
+      "url": "https://www.cnbc.com/2026/03/02/dimon-trump-debanking-lawsuit-no-merit-concerns.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-03-02 23:01:45",
+      "crawl_time": "2026-03-13T07:31:07.441983",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Jamie Dimon 表示 Trump’s $5 billion debanking lawsuit ‘已 no merit’ 但 he’s sympathetic 至 concerns | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "9639e37ae001",
+      "title": "Berkshire Hathaway shares drop nearly 5% after poor fourth-quarter results, no bold moves by new CEO Abel",
+      "url": "https://www.cnbc.com/2026/03/02/berkshire-hathaway-shares-drop-4percent-after-poor-fourth-quarter-results.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-03-02 21:01:06",
+      "crawl_time": "2026-03-13T07:31:07.442020",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Berkshire Hathaway 股票 下跌 nearly 5% 后 poor fourth-季度 results, no bold moves by 新款 CEO Abel | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "e3e6f03aa555",
+      "title": "Citadel’s various hedge funds rise in February, beating the S&P 500 in a choppy month",
+      "url": "https://www.cnbc.com/2026/03/02/citadels-various-hedge-funds-rise-in-february-beating-the-sp-500-in-a-choppy-month.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-03-02 15:51:38",
+      "crawl_time": "2026-03-13T07:31:07.442067",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": [
+          "标普500"
+        ]
+      },
+      "ai_summary": "[翻译] [英文]Citadel’s various hedge 基金 上涨 在 February, beating the S&P 500 在 a choppy month | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "5155c8b1a9b7",
+      "title": "Khamenei's death raises questions about Trump's China trip",
+      "url": "https://www.cnbc.com/2026/03/02/khameneis-death-trump-china-visit-uncertainty-iran-strikes-trade-truce.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-03-02 09:49:08",
+      "crawl_time": "2026-03-13T07:31:07.442104",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Khamenei's death raises questions about Trump's China trip | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "41b3208a8231",
+      "title": "Berkshire CEO Greg Abel vows to keep Buffett's culture of disciplined investing in first annual letter",
+      "url": "https://www.cnbc.com/2026/02/28/berkshire-ceo-abel-vows-to-keep-buffetts-culture-of-disciplined-investing-in-first-annual-letter.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-03-05 13:16:05",
+      "crawl_time": "2026-03-13T07:31:07.442140",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Berkshire CEO Greg Abel vows 至 keep Buffett's culture of disciplined investing 在 首次 年度 letter | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "2233165e6680",
+      "title": "Berkshire Hathaway operating earnings fell nearly 30% in Warren Buffett's final quarter as CEO",
+      "url": "https://www.cnbc.com/2026/02/28/berkshire-hathaway-brka-q4-2025-earnings.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-03-02 12:05:48",
+      "crawl_time": "2026-03-13T07:31:07.442192",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Berkshire Hathaway operating 收益 下跌 nearly 30% 在 Warren Buffett's final 季度 as CEO | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "558650050a66",
+      "title": "UBS downgrades the U.S. stock market. Here's what has the investment bank worried",
+      "url": "https://www.cnbc.com/2026/02/27/ubs-downgrades-the-us-stock-market-heres-what-has-the-investment-bank-worried.html",
+      "source": "CNBC",
+      "categories": [
+        "国际",
+        "股市",
+        "宏观"
+      ],
+      "pub_date": "2026-02-27 16:59:22",
+      "crawl_time": "2026-03-13T07:31:07.442229",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]UBS downgrades the U.S. 股票 市场. Here's what 已 the 投资 bank worried | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "22eccd699605",
+      "title": "Shoppers seeking a tariff refund from retailers are likely out of luck",
+      "url": "https://www.marketwatch.com/story/shoppers-seeking-a-tariff-refund-from-retailers-are-likely-out-of-luck-5aacf5f4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "categories": [
+        "美股",
+        "数据"
+      ],
+      "pub_date": "2026-03-12 22:59:00",
+      "crawl_time": "2026-03-13T07:31:09.305469",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Shoppers seeking a tariff refund 来自 retailers 是 likely out of luck | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "a90fff8d25fb",
+      "title": "Trump is scrambling to quell the rise of $100 oil. But the market keeps circling one answer.",
+      "url": "https://www.marketwatch.com/story/trump-is-scrambling-to-quell-the-rise-of-100-oil-but-the-market-keeps-circling-one-answer-bf9abf20?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "categories": [
+        "美股",
+        "数据"
+      ],
+      "pub_date": "2026-03-12 22:50:00",
+      "crawl_time": "2026-03-13T07:31:09.305538",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Trump 是 scrambling 至 quell the 上涨 of $100 oil. 但 the 市场 keeps circling one answer. | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "a655ff5f0ce4",
+      "title": "‘I have no savings’: I’m inheriting $400,000. I’m 64 with $900 in Social Security. What should I do?",
+      "url": "https://www.marketwatch.com/story/i-have-no-savings-im-inheriting-400-000-im-64-with-900-in-social-security-what-should-i-do-084ec1cb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "categories": [
+        "美股",
+        "数据"
+      ],
+      "pub_date": "2026-03-12 22:45:00",
+      "crawl_time": "2026-03-13T07:31:09.305592",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]‘I 已 no savings’: I’m inheriting $400,000. I’m 64 配备 $900 在 Social Security. What should I do? | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "98c8b4f60af1",
+      "title": "The S&P 500 just broke a major support. Another 10% decline is likely.",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-just-broke-a-major-support-another-10-decline-is-likely-8c890fb8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "categories": [
+        "美股",
+        "数据"
+      ],
+      "pub_date": "2026-03-12 22:40:00",
+      "crawl_time": "2026-03-13T07:31:09.305641",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": [
+          "标普500"
+        ]
+      },
+      "ai_summary": "[翻译] [英文]The S&P 500 just broke a 主要 support. Another 10% decline 是 likely. | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "319140a5f381",
+      "title": "‘I didn’t ask a man to rear-end my car’: Social Security is replacing my disability benefits. Will the fund run out of money?",
+      "url": "https://www.marketwatch.com/story/i-didnt-ask-a-man-to-rear-end-my-car-social-security-is-replacing-my-disability-benefits-will-the-fund-run-out-of-money-794d81b0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "categories": [
+        "美股",
+        "数据"
+      ],
+      "pub_date": "2026-03-12 22:39:00",
+      "crawl_time": "2026-03-13T07:31:09.305781",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]‘I didn’t ask a man 至 rear-end my car’: Social Security 是 replacing my disability benefits. 将 the 基金 run out of money? | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "0192c4e8ddf1",
+      "title": "A toxic mix of private-credit panic and climbing bond yields is hammering financial stocks",
+      "url": "https://www.marketwatch.com/story/a-toxic-mix-of-private-credit-panic-and-climbing-bond-yields-is-hammering-financial-stocks-21689fd4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "categories": [
+        "美股",
+        "数据"
+      ],
+      "pub_date": "2026-03-12 22:31:00",
+      "crawl_time": "2026-03-13T07:31:09.305825",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]A toxic mix of private-credit panic 和 climbing bond yields 是 hammering financial 股票 | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "a90ef74ad792",
+      "title": "Why Adobe’s stock is falling despite an earnings beat",
+      "url": "https://www.marketwatch.com/story/why-adobes-stock-is-falling-despite-an-earnings-beat-b6a67617?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "categories": [
+        "美股",
+        "数据"
+      ],
+      "pub_date": "2026-03-12 22:26:00",
+      "crawl_time": "2026-03-13T07:31:09.305864",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Why Adobe’s 股票 是 下跌 despite an 收益 beat | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "8e0c520af22d",
+      "title": "Ulta Beauty says it’s ‘increasingly mindful’ of effects that global conflicts have on shoppers, as profit forecast sinks stock",
+      "url": "https://www.marketwatch.com/story/ulta-beauty-says-its-increasingly-mindful-of-effects-that-global-conflicts-have-on-shoppers-as-profit-forecast-sinks-stock-b03cc1c3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "categories": [
+        "美股",
+        "数据"
+      ],
+      "pub_date": "2026-03-12 21:40:00",
+      "crawl_time": "2026-03-13T07:31:09.305906",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Ulta Beauty 表示 it’s ‘increasingly mindful’ of effects 该 global conflicts 已 在 shoppers, as 盈利 forecast sinks 股票 | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "259451677c18",
+      "title": "A key gauge of inflation expectations just logged its highest reading in almost 4 years",
+      "url": "https://www.marketwatch.com/story/a-key-inflation-gauge-just-logged-its-highest-reading-in-almost-4-years-ceda8057?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "categories": [
+        "美股",
+        "数据"
+      ],
+      "pub_date": "2026-03-12 21:35:00",
+      "crawl_time": "2026-03-13T07:31:09.305945",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]A key gauge of inflation expectations just logged 其 highest reading 在 almost 4 years | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "b338f9c25fd1",
+      "title": "CrowdStrike’s stock snaps longest winning streak in a year, but analysts are increasingly bullish",
+      "url": "https://www.marketwatch.com/story/crowdstrikes-stock-snaps-longest-winning-streak-in-a-year-but-analysts-are-increasingly-bullish-a5ebb3d6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "categories": [
+        "美股",
+        "数据"
+      ],
+      "pub_date": "2026-03-12 21:31:00",
+      "crawl_time": "2026-03-13T07:31:09.305984",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]CrowdStrike’s 股票 snaps longest winning streak 在 a year, 但 analysts 是 increasingly bullish | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "21f6ec84f947",
+      "title": "Should You Buy Vertiv Stock Before March 23?",
+      "url": "https://finance.yahoo.com/news/buy-vertiv-stock-march-23-155951324.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-11 23:59:51",
+      "crawl_time": "2026-03-13T07:31:10.107439",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Should You Buy Vertiv 股票 前 March 23? | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "cb458b0a8f36",
+      "title": "As Palantir Stock Falters, This Profit Strategy Counts On Further Weakness",
+      "url": "https://www.investors.com/research/options/palantir-pltr-stock-options-trade-bear-call-spread-markets/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-11 23:51:31",
+      "crawl_time": "2026-03-13T07:31:10.107514",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]As Palantir 股票 Falters, 此次 盈利 Strategy Counts 在 Further Weakness | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "bbe217881dea",
+      "title": "Vulcan Materials Stock: Is VMC Outperforming the Basic Material Sector?",
+      "url": "https://finance.yahoo.com/news/vulcan-materials-stock-vmc-outperforming-161348094.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-12 00:13:48",
+      "crawl_time": "2026-03-13T07:31:10.107565",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Vulcan Materials 股票: 是 VMC Outperforming the Basic Material Sector? | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "b6c95b0976d2",
+      "title": "Gen Digital overturns $481 million patent award in Columbia University lawsuit",
+      "url": "https://finance.yahoo.com/news/gen-digital-overturns-481-million-161417198.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-12 00:14:17",
+      "crawl_time": "2026-03-13T07:31:10.107611",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Gen Digital overturns $481 million patent award 在 Columbia University lawsuit | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "7db5316558c6",
+      "title": "Tariff Turmoil",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_46417_PortfolioIdeas_1773347251000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-13 04:27:31",
+      "crawl_time": "2026-03-13T07:31:10.107686",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Tariff Turmoil | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "512219961e7e",
+      "title": "How to Protect Yourself From Financial Scams Targeting Older Adults",
+      "url": "https://www.wsj.com/health/wellness/how-to-protect-yourself-from-financial-scams-targeting-older-adults-8bcffeda?siteid=yhoof2&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-12 00:00:00",
+      "crawl_time": "2026-03-13T07:31:10.107785",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]How 至 Protect Yourself 来自 Financial Scams Targeting Older Adults | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "6d359a5663de",
+      "title": "Citi, StanChart evacuate Dubai offices, HSBC closes Qatar branches as fears grow",
+      "url": "https://finance.yahoo.com/news/citi-stanchart-evacuate-dubai-offices-153727887.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-11 23:37:27",
+      "crawl_time": "2026-03-13T07:31:10.107830",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Citi, StanChart evacuate Dubai offices, HSBC closes Qatar branches as fears 增长 | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "a5c726f289b9",
+      "title": "Applied Materials and Micron Are Partnering on Memory. Is AMAT or MU Stock a Better Buy Here?",
+      "url": "https://finance.yahoo.com/news/applied-materials-micron-partnering-memory-161722664.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-12 00:17:22",
+      "crawl_time": "2026-03-13T07:31:10.107876",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Applied Materials 和 Micron 是 Partnering 在 Memory. 是 AMAT 或 MU 股票 a Better Buy Here? | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "901bdab47d36",
+      "title": "Salesforce (CRM) Presents at Morgan Stanley’s Conference, Here’s What You Need to Know",
+      "url": "https://finance.yahoo.com/news/salesforce-crm-presents-morgan-stanley-153630749.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-11 23:36:30",
+      "crawl_time": "2026-03-13T07:31:10.107928",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Salesforce (CRM) Presents 在 Morgan Stanley’s Conference, Here’s What You Need 至 Know | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "2fef9b546a0b",
+      "title": "Here’s What Bernstein Think About Nvidia (NVDA)",
+      "url": "https://finance.yahoo.com/news/bernstein-think-nvidia-nvda-153545547.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-11 23:35:45",
+      "crawl_time": "2026-03-13T07:31:10.107972",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Here’s What Bernstein Think About 英伟达 (NVDA) | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "b78945e2601b",
+      "title": "McDonald’s Preps New Discounts to Feed Budget-Minded Diners for $3 or Less",
+      "url": "https://www.wsj.com/business/hospitality/mcdonalds-preps-new-discounts-to-feed-budget-minded-diners-for-3-or-less-d589c5be?siteid=yhoof2&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-12 00:00:00",
+      "crawl_time": "2026-03-13T07:31:10.108019",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]McDonald’s Preps 新款 Discounts 至 Feed Budget-Minded Diners 为 $3 或 Less | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "028cd66124f6",
+      "title": "UBS Maintains a Hold Rating on Apple (AAPL) As Shipmments Drop in China",
+      "url": "https://finance.yahoo.com/news/ubs-maintains-hold-rating-apple-153523394.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-11 23:35:23",
+      "crawl_time": "2026-03-13T07:31:10.108063",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]UBS Maintains a Hold Rating 在 苹果 (AAPL) As Shipmments 下跌 在 China | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "25be8a3c0daa",
+      "title": "Here’s What Jefferies Think About Microsoft (MSFT)",
+      "url": "https://finance.yahoo.com/news/jefferies-think-microsoft-msft-153510141.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-11 23:35:10",
+      "crawl_time": "2026-03-13T07:31:10.108106",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Here’s What Jefferies Think About 微软 (MSFT) | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "95736fcfb86a",
+      "title": "Here’s What Aletheia Has to Say About Broadcom (AVGO)",
+      "url": "https://finance.yahoo.com/news/aletheia-broadcom-avgo-153448270.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-11 23:34:48",
+      "crawl_time": "2026-03-13T07:31:10.108165",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Here’s What Aletheia 已 至 Say About Broadcom (AVGO) | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "664da4a4b802",
+      "title": "Palantir (PLTR) An Outlier as the Iran War Continues",
+      "url": "https://finance.yahoo.com/news/palantir-pltr-outlier-iran-war-153415335.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-11 23:34:15",
+      "crawl_time": "2026-03-13T07:31:10.108238",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Palantir (PLTR) An Outlier as the 伊朗 War Continues | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "598c7116c279",
+      "title": "Oil Prices Push Higher Despite IEA Descision",
+      "url": "https://www.wsj.com/livecoverage/cpi-inflation-data-stock-market-03-11-2026/card/oil-prices-continue-to-rise-following-iea-release-jJNgrHl9jSfBeebKivtf?siteid=yhoof2&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-12 00:03:14",
+      "crawl_time": "2026-03-13T07:31:10.108308",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Oil Prices Push Higher Despite IEA Descision | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "a7e215fd041b",
+      "title": "Oracle (ORCL) and OpenAI Drop Plans to Expand Data Center in Texas",
+      "url": "https://finance.yahoo.com/news/oracle-orcl-openai-drop-plans-153429320.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-11 23:34:29",
+      "crawl_time": "2026-03-13T07:31:10.108366",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [
+          "OpenAI"
+        ],
+        "sectors": [
+          "AI"
+        ],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Oracle (ORCL) 和 OpenAI 下跌 计划 至 Expand Data Center 在 Texas | 涉及OpenAI",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": [
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "39da0d65cb21",
+      "title": "Advanced Micro Devices (AMD) Enters a Multi-Year Partnership With Adeia",
+      "url": "https://finance.yahoo.com/news/advanced-micro-devices-amd-enters-153335640.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-11 23:33:35",
+      "crawl_time": "2026-03-13T07:31:10.108419",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Advanced Micro 设备 (AMD) Enters a Multi-Year Partnership 配备 Adeia | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "34dfac259080",
+      "title": "Cisco Systems (CSCO) Presents at Morgan Stanley’s Conference, Here’s What You Need to Know",
+      "url": "https://finance.yahoo.com/news/cisco-systems-csco-presents-morgan-153313839.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-11 23:33:13",
+      "crawl_time": "2026-03-13T07:31:10.108466",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Cisco Systems (CSCO) Presents 在 Morgan Stanley’s Conference, Here’s What You Need 至 Know | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "030c7a13a956",
+      "title": "SAP SE (SAP) Partners With Uptycs",
+      "url": "https://finance.yahoo.com/news/sap-se-sap-partners-uptycs-153238888.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-11 23:32:38",
+      "crawl_time": "2026-03-13T07:31:10.108507",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]SAP SE (SAP) Partners 配备 Uptycs | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "52b83dc6df0f",
+      "title": "Why Is the Strait of Hormuz Important?",
+      "url": "https://www.wsj.com/livecoverage/us-israel-iran-war-2026/card/why-is-the-strait-of-hormuz-important--GKOgrffOLUIlIhz48b6q?siteid=yhoof2&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-11 23:59:03",
+      "crawl_time": "2026-03-13T07:31:10.108548",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Why 是 the Strait of Hormuz Important? | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "1a7de4c0e14b",
+      "title": "Intel Corporation (INTC) Gains 9% on the Release of Core Series 2 Processors",
+      "url": "https://finance.yahoo.com/news/intel-corporation-intc-gains-9-153207113.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-11 23:32:07",
+      "crawl_time": "2026-03-13T07:31:10.108590",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]英特尔 Corporation (INTC) 增长 9% 在 the 发布 of Core Series 2 Processors | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "304f91852c9c",
+      "title": "Texas Instruments Incorporated (TXN) Partners With Nvidia for Safe Deployment of Robots",
+      "url": "https://finance.yahoo.com/news/texas-instruments-incorporated-txn-partners-153047071.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-11 23:30:47",
+      "crawl_time": "2026-03-13T07:31:10.108632",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Texas Instruments Incorporated (TXN) Partners 配备 英伟达 为 Safe Deployment of Robots | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "d500395c489e",
+      "title": "Analog Devices (ADI) Presents at Morgan Stanley’s Conference, Here’s What You Need to Know",
+      "url": "https://finance.yahoo.com/news/analog-devices-adi-presents-morgan-153025303.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-11 23:30:25",
+      "crawl_time": "2026-03-13T07:31:10.108691",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Analog 设备 (ADI) Presents 在 Morgan Stanley’s Conference, Here’s What You Need 至 Know | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "9a6da9247fbc",
+      "title": "Stocks Pressured by Higher Oil Prices, But Positive Oracle AI News Helps Tech Stocks",
+      "url": "https://finance.yahoo.com/news/stocks-pressured-higher-oil-prices-162251790.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-12 00:22:51",
+      "crawl_time": "2026-03-13T07:31:10.108757",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [
+          "AI"
+        ],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]股票 Pressured by Higher Oil Prices, 但 Positive Oracle AI News Helps 科技 股票 | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "3450eff644ff",
+      "title": "Analyst Report: Oracle Corp",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_3282_AnalystReport_1773334225000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-13 00:50:25",
+      "crawl_time": "2026-03-13T07:31:10.108797",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Analyst 报告: Oracle Corp | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "0367f80cbc19",
+      "title": "Oracle Gets Customers To Start Chipping In—Heard on the Street",
+      "url": "https://www.wsj.com/livecoverage/cpi-inflation-data-stock-market-03-11-2026/card/oracle-gets-customers-to-start-chipping-in-heard-on-the-street-RHXoSBeV6afKw4kfD0wi?siteid=yhoof2&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-12 00:00:02",
+      "crawl_time": "2026-03-13T07:31:10.108842",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Oracle Gets Customers 至 Start Chipping 在—Heard 在 the Street | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "ff2f43372c63",
+      "title": "Oil is trading like a meme stock — here's why it isn't one",
+      "url": "https://finance.yahoo.com/news/oil-is-trading-like-a-meme-stock--heres-why-it-isnt-one-152423631.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-11 23:24:23",
+      "crawl_time": "2026-03-13T07:31:10.108885",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Oil 是 trading like a meme 股票 — here's why it isn't one | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "d1a830dcd0ac",
+      "title": "3 Top-Rated Stocks to Buy to Hedge Against Stagflation as Middle East Conflict Drags On",
+      "url": "https://finance.yahoo.com/news/3-top-rated-stocks-buy-152241164.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-11 23:22:41",
+      "crawl_time": "2026-03-13T07:31:10.108928",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]3 Top-Rated 股票 至 Buy 至 Hedge Against Stagflation as Middle East Conflict Drags 在 | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "8223ed6b23d9",
+      "title": "Dollar Mildly Higher as T-note Yield Rises",
+      "url": "https://finance.yahoo.com/news/dollar-mildly-higher-t-note-152115309.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-11 23:21:15",
+      "crawl_time": "2026-03-13T07:31:10.108967",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Dollar Mildly Higher as T-note Yield 上涨 | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "b6496d23121b",
+      "title": "Oracle stock wins reprieve on strong results despite ongoing OpenAI concerns",
+      "url": "https://finance.yahoo.com/news/oracle-stock-wins-reprieve-on-strong-results-despite-ongoing-openai-concerns-162927985.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-12 00:29:27",
+      "crawl_time": "2026-03-13T07:31:10.109008",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [
+          "OpenAI"
+        ],
+        "sectors": [
+          "AI"
+        ],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Oracle 股票 wins reprieve 在 strong results despite ongoing OpenAI concerns | 涉及OpenAI",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": [
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "edf5cd7d8fe1",
+      "title": "Market Update: ORCL",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_46415_MarketUpdate_1773333325000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-13 00:35:25",
+      "crawl_time": "2026-03-13T07:31:10.109045",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] 市场 更新: ORCL | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "783200f3009f",
+      "title": "Fernbridge Doubles Down on Tetra Tech Stock, Adds 2.05 Million Shares, According to Latest SEC Filing",
+      "url": "https://finance.yahoo.com/news/fernbridge-doubles-down-tetra-tech-160414474.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-12 00:04:14",
+      "crawl_time": "2026-03-13T07:31:10.109087",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Fernbridge Doubles Down 在 Tetra 科技 股票, Adds 2.05 Million 股票, 据 最新 SEC Filing | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "bfeafecb7dac",
+      "title": "Do Market Fundamentals Matter Anymore?",
+      "url": "https://finance.yahoo.com/news/market-fundamentals-matter-anymore-152046199.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-11 23:20:46",
+      "crawl_time": "2026-03-13T07:31:10.109126",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Do 市场 Fundamentals Matter Anymore? | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "62edbe07baf8",
+      "title": "Oracle Is Treading Water Below Its Moving Averages After Earnings. How Should You Play ORCL Stock Here?",
+      "url": "https://finance.yahoo.com/news/oracle-treading-water-below-moving-151201614.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-11 23:12:01",
+      "crawl_time": "2026-03-13T07:31:10.109182",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Oracle 是 Treading Water Below 其 Moving Averages 后 收益. How Should You Play ORCL 股票 Here? | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "6c3561f28a2b",
+      "title": "Wall Street Loves Palantir Stock as the Iran War Rages On",
+      "url": "https://finance.yahoo.com/news/wall-street-loves-palantir-stock-163803549.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-12 00:38:03",
+      "crawl_time": "2026-03-13T07:31:10.109227",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Wall Street Loves Palantir 股票 as the 伊朗 War Rages 在 | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "a20337d4ec35",
+      "title": "What is a multi-year guaranteed annuity (MYGA), and how does it work?",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/what-is-a-multi-year-guaranteed-annuity-myga-144159395.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-11 22:41:59",
+      "crawl_time": "2026-03-13T07:31:10.109268",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]What 是 a multi-year guaranteed annuity (MYGA), 和 how does it work? | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "6f3641238ebb",
+      "title": "Oil Prices Continue to Rise Following IEA Release",
+      "url": "https://www.wsj.com/livecoverage/us-israel-iran-war-2026/card/oil-prices-continue-to-rise-following-iea-release-DQvyvQK78eTci3HprKmL?siteid=yhoof2&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-12 00:04:32",
+      "crawl_time": "2026-03-13T07:31:10.109308",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Oil Prices Continue 至 上涨 Following IEA 发布 | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "c0a78b632194",
+      "title": "AI is reshaping 2025 taxes: 3 risks to know before you file",
+      "url": "https://finance.yahoo.com/personal-finance/taxes/article/ai-is-reshaping-2025-taxes-3-risks-to-know-before-you-file-120000919.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-10 20:00:00",
+      "crawl_time": "2026-03-13T07:31:10.109349",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [
+          "AI"
+        ],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]AI 是 reshaping 2025 taxes: 3 risks 至 know 前 you file | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "005d16ca8667",
+      "title": "Investments vs. your paycheck: Why take-home pay wins for workers this tax season",
+      "url": "https://finance.yahoo.com/personal-finance/taxes/article/investments-vs-your-paycheck-why-take-home-pay-wins-for-workers-this-tax-season-175605269.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-12 01:56:05",
+      "crawl_time": "2026-03-13T07:31:10.109391",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Investments vs. your paycheck: Why take-home pay wins 为 workers 此次 tax season | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "46801a43038a",
+      "title": "What is a brokered CD?",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/brokered-cd-210652049.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2024-04-25 05:06:52",
+      "crawl_time": "2026-03-13T07:31:10.109430",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]What 是 a brokered CD? | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "9d548c77de26",
+      "title": "Cheapest pet insurance companies in 2026",
+      "url": "https://finance.yahoo.com/personal-finance/insurance/article/cheapest-pet-insurance-191646538.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-12 03:16:46",
+      "crawl_time": "2026-03-13T07:31:10.109516",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Cheapest pet insurance companies 在 2026 | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "43b4cd60f04e",
+      "title": "Navan shareholder suit alleges materially misleading IPO documents",
+      "url": "https://finance.yahoo.com/news/navan-shareholder-suit-alleges-materially-155646963.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2026-03-11 23:56:46",
+      "crawl_time": "2026-03-13T07:31:10.109579",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Navan shareholder suit alleges materially misleading 上市 documents | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "bddfcf489007",
+      "title": "How to refinance a mortgage: A step-by-step guide for homeowners",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/refinance-mortgage-162831396.html",
+      "source": "Yahoo Finance",
+      "categories": [
+        "美股",
+        "国际"
+      ],
+      "pub_date": "2024-01-27 06:45:39",
+      "crawl_time": "2026-03-13T07:31:10.109638",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]How 至 refinance a mortgage: A step-by-step guide 为 homeowners | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "2aa4be4994f5",
+      "title": "Only 3 U.S. Airlines Can Remain Profitable at Current Oil Prices",
+      "url": "https://oilprice.com/Energy/Energy-General/Only-3-US-Airlines-Can-Remain-Profitable-at-Current-Oil-Prices.html",
+      "source": "OilPrice",
+      "categories": [
+        "能源",
+        "原油"
+      ],
+      "pub_date": "2026-03-13 07:00:00",
+      "crawl_time": "2026-03-13T07:31:12.440015",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Only 3 U.S. Airlines Can Remain 盈利 在 Current Oil Prices | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "7c9d7b67e9ef",
+      "title": "North Sea Drilling Won’t Protect Europe from Global Price Shocks",
+      "url": "https://oilprice.com/Energy/Natural-Gas/North-Sea-Drilling-Wont-Protect-Europe-from-Global-Price-Shocks.html",
+      "source": "OilPrice",
+      "categories": [
+        "能源",
+        "原油"
+      ],
+      "pub_date": "2026-03-13 06:00:00",
+      "crawl_time": "2026-03-13T07:31:12.440096",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]North Sea Drilling Won’t Protect Europe 来自 Global Price Shocks | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "8ecc3cb4351f",
+      "title": "Middle East War Revives Push for Domestic Energy",
+      "url": "https://oilprice.com/Energy/Energy-General/Middle-East-War-Revives-Push-for-Domestic-Energy.html",
+      "source": "OilPrice",
+      "categories": [
+        "能源",
+        "原油"
+      ],
+      "pub_date": "2026-03-13 05:00:00",
+      "crawl_time": "2026-03-13T07:31:12.440169",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Middle East War Revives Push 为 Domestic Energy | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "e478688bf78e",
+      "title": "Iran Warns Gulf Energy Assets Could Burn if Its Oil Facilities Are Targeted",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Warns-Gulf-Energy-Assets-Could-Burn-if-Its-Oil-Facilities-Are-Targeted.html",
+      "source": "OilPrice",
+      "categories": [
+        "能源",
+        "原油"
+      ],
+      "pub_date": "2026-03-13 04:41:00",
+      "crawl_time": "2026-03-13T07:31:12.440218",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]伊朗 Warns Gulf Energy Assets Could Burn if 其 Oil Facilities 是 Targeted | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "da452af01832",
+      "title": "DOE Unveils $1.9 Billion Electric Grid Upgrade Push",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/DOE-Unveils-19-Billion-Electric-Grid-Upgrade-Push.html",
+      "source": "OilPrice",
+      "categories": [
+        "能源",
+        "原油"
+      ],
+      "pub_date": "2026-03-13 04:30:00",
+      "crawl_time": "2026-03-13T07:31:12.440261",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]DOE 发布 $1.9 Billion Electric Grid Upgrade Push | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "ef5586720f30",
+      "title": "How Venezuela’s Oil Industry Killed Lake Maracaibo",
+      "url": "https://oilprice.com/Energy/Crude-Oil/How-Venezuelas-Oil-Industry-Killed-Lake-Maracaibo.html",
+      "source": "OilPrice",
+      "categories": [
+        "能源",
+        "原油"
+      ],
+      "pub_date": "2026-03-13 04:00:00",
+      "crawl_time": "2026-03-13T07:31:12.440305",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]How Venezuela’s Oil Industry Killed Lake Maracaibo | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "438cec282f2c",
+      "title": "Trump Weighs Rare Jones Act Waiver as War Drives Fuel Prices Higher",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Weighs-Rare-Jones-Act-Waiver-as-War-Drives-Fuel-Prices-Higher.html",
+      "source": "OilPrice",
+      "categories": [
+        "能源",
+        "原油"
+      ],
+      "pub_date": "2026-03-13 03:30:00",
+      "crawl_time": "2026-03-13T07:31:12.440348",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Trump Weighs Rare Jones Act Waiver as War Drives Fuel Prices Higher | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "b13ef52f0ea1",
+      "title": "The UAE’s Energy Playbook Is Paying Off Amid Global Turmoil",
+      "url": "https://oilprice.com/Energy/Crude-Oil/The-UAEs-Energy-Playbook-Is-Paying-Off-Amid-Global-Turmoil.html",
+      "source": "OilPrice",
+      "categories": [
+        "能源",
+        "原油"
+      ],
+      "pub_date": "2026-03-13 03:00:00",
+      "crawl_time": "2026-03-13T07:31:12.440395",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]The UAE’s Energy Playbook 是 Paying Off Amid Global Turmoil | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "db9a7c3fea38",
+      "title": "Tesla Wins License to Supply Electricity Across the UK",
+      "url": "https://oilprice.com/Energy/Energy-General/Tesla-Wins-License-to-Supply-Electricity-Across-the-UK.html",
+      "source": "OilPrice",
+      "categories": [
+        "能源",
+        "原油"
+      ],
+      "pub_date": "2026-03-13 02:00:00",
+      "crawl_time": "2026-03-13T07:31:12.440436",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]特斯拉 Wins License 至 Supply Electricity Across the UK | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "ede530d253a0",
+      "title": "Fujairah Oil Terminals Resume Operations After Drone Attack",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Fujairah-Oil-Terminals-Resume-Operations-After-Drone-Attack.html",
+      "source": "OilPrice",
+      "categories": [
+        "能源",
+        "原油"
+      ],
+      "pub_date": "2026-03-13 02:00:00",
+      "crawl_time": "2026-03-13T07:31:12.440474",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Fujairah Oil Terminals Resume Operations 后 Drone Attack | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "0ad44d3bc2a6",
+      "title": "How War in Iran Could Cripple the Global Digital Economy",
+      "url": "https://oilprice.com/Energy/Energy-General/How-War-in-Iran-Could-Cripple-the-Global-Digital-Economy.html",
+      "source": "OilPrice",
+      "categories": [
+        "能源",
+        "原油"
+      ],
+      "pub_date": "2026-03-13 01:00:00",
+      "crawl_time": "2026-03-13T07:31:12.440511",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]How War 在 伊朗 Could Cripple the Global Digital Economy | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "7b03bcd29b42",
+      "title": "Ukraine Hits Major Oil Export Pipeline Hub in South Russia",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Hits-Major-Oil-Export-Pipeline-Hub-in-South-Russia.html",
+      "source": "OilPrice",
+      "categories": [
+        "能源",
+        "原油"
+      ],
+      "pub_date": "2026-03-13 00:58:00",
+      "crawl_time": "2026-03-13T07:31:12.440548",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Ukraine Hits 主要 Oil Export Pipeline Hub 在 South Russia | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "3a80db26bb40",
+      "title": "Iraq to Hold Oil Output Near 1.4 Million Bpd as War Strangles Exports",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-to-Hold-Oil-Output-Near-14-Million-Bpd-as-War-Strangles-Exports.html",
+      "source": "OilPrice",
+      "categories": [
+        "能源",
+        "原油"
+      ],
+      "pub_date": "2026-03-13 00:24:00",
+      "crawl_time": "2026-03-13T07:31:12.440586",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Iraq 至 Hold Oil Output Near 1.4 Million Bpd as War Strangles Exports | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "531c6f70fd37",
+      "title": "Pakistan’s War With Afghanistan Could Redraw the Region’s Security Map",
+      "url": "https://oilprice.com/Geopolitics/Asia/Pakistans-War-With-Afghanistan-Could-Redraw-the-Regions-Security-Map.html",
+      "source": "OilPrice",
+      "categories": [
+        "能源",
+        "原油"
+      ],
+      "pub_date": "2026-03-13 00:00:00",
+      "crawl_time": "2026-03-13T07:31:12.440627",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Pakistan’s War 配备 Afghanistan Could Redraw the Region’s Security Map | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "232f26aa970a",
+      "title": "TotalEnergies Freezes Fuel Prices in France Amid ‘Exceptional Volatility’",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Freezes-Fuel-Prices-in-France-Amid-Exceptional-Volatility.html",
+      "source": "OilPrice",
+      "categories": [
+        "能源",
+        "原油"
+      ],
+      "pub_date": "2026-03-12 23:30:00",
+      "crawl_time": "2026-03-13T07:31:12.440684",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]TotalEnergies Freezes Fuel Prices 在 France Amid ‘Exceptional Volatility’ | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "843150af52a2",
+      "title": "Ulta Beauty wary of ’global conflicts’ pressure on consumer as profit target lags Street",
+      "url": "https://www.investing.com/news/stock-market-news/ulta-beauty-forecasts-annual-profit-below-estimates-as-advertising-costs-rise-4558523",
+      "source": "Investing.com",
+      "categories": [
+        "商品",
+        "外汇",
+        "数据"
+      ],
+      "pub_date": "2026-03-12 23:18:46",
+      "crawl_time": "2026-03-13T07:31:13.234751",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Ulta Beauty wary of ’global conflicts’ pressure 在 consumer as 盈利 target lags Street | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "084454677882",
+      "title": "Musk’s X to change verification system in Europe, Bloomberg News reports",
+      "url": "https://www.investing.com/news/stock-market-news/musks-x-to-change-verification-system-in-europe-bloomberg-news-reports-4558730",
+      "source": "Investing.com",
+      "categories": [
+        "商品",
+        "外汇",
+        "数据"
+      ],
+      "pub_date": "2026-03-12 23:18:30",
+      "crawl_time": "2026-03-13T07:31:13.235040",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Musk’s X 至 change verification system 在 Europe, Bloomberg News 报告 | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "728ac5c2d2cd",
+      "title": "Chinese banks boost loans to tech sector as Beijing ramps up AI push",
+      "url": "https://www.investing.com/news/economy-news/chinese-banks-boost-loans-to-tech-sector-as-beijing-ramps-up-ai-push-4558729",
+      "source": "Investing.com",
+      "categories": [
+        "商品",
+        "外汇",
+        "数据"
+      ],
+      "pub_date": "2026-03-12 23:06:32",
+      "crawl_time": "2026-03-13T07:31:13.235107",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [
+          "AI"
+        ],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Chinese banks boost loans 至 科技 sector as Beijing ramps up AI push | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "8f355d6c15d9",
+      "title": "Form 144 California Resources Corp For: 12 March",
+      "url": "https://www.investing.com/news/filings/form-144-california-resources-corp-for-12-march-93CH-4558728",
+      "source": "Investing.com",
+      "categories": [
+        "商品",
+        "外汇",
+        "数据"
+      ],
+      "pub_date": "2026-03-12 23:06:09",
+      "crawl_time": "2026-03-13T07:31:13.235171",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Form 144 California Resources Corp 为: 12 March | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "4d02363173aa",
+      "title": "ServBanc completes acquisition of IF Bancorp",
+      "url": "https://www.investing.com/news/company-news/servbanc-completes-acquisition-of-if-bancorp-93CH-4558727",
+      "source": "Investing.com",
+      "categories": [
+        "商品",
+        "外汇",
+        "数据"
+      ],
+      "pub_date": "2026-03-12 23:04:48",
+      "crawl_time": "2026-03-13T07:31:13.235221",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]ServBanc completes 收购 of IF Bancorp | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "19c3bc419fee",
+      "title": "Abacus Q4 2025 presentation: 116% revenue surge, path to $50B AUM",
+      "url": "https://www.investing.com/news/company-news/abacus-q4-2025-presentation-116-revenue-surge-path-to-50b-aum-93CH-4558726",
+      "source": "Investing.com",
+      "categories": [
+        "商品",
+        "外汇",
+        "数据"
+      ],
+      "pub_date": "2026-03-12 23:02:34",
+      "crawl_time": "2026-03-13T07:31:13.235267",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Abacus Q4 2025 presentation: 116% 营收 大涨, path 至 $50B AUM | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "c119ce222d6d",
+      "title": "ServiceTitan Q4 FY26 slides: 21% revenue growth, path to 25% margins",
+      "url": "https://www.investing.com/news/company-news/servicetitan-q4-fy26-slides-21-revenue-growth-path-to-25-margins-93CH-4558725",
+      "source": "Investing.com",
+      "categories": [
+        "商品",
+        "外汇",
+        "数据"
+      ],
+      "pub_date": "2026-03-12 23:02:34",
+      "crawl_time": "2026-03-13T07:31:13.235310",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]ServiceTitan Q4 FY26 slides: 21% 营收 growth, path 至 25% margins | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "de82c5c3fafb",
+      "title": "Adobe Q1 2026 slides: AI growth accelerates as CEO announces transition",
+      "url": "https://www.investing.com/news/company-news/adobe-q1-2026-slides-ai-growth-accelerates-as-ceo-announces-transition-93CH-4558724",
+      "source": "Investing.com",
+      "categories": [
+        "商品",
+        "外汇",
+        "数据"
+      ],
+      "pub_date": "2026-03-12 23:02:28",
+      "crawl_time": "2026-03-13T07:31:13.235360",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [
+          "AI"
+        ],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Adobe Q1 2026 slides: AI growth accelerates as CEO 宣布 transition | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "dfecd3a8c053",
+      "title": "Afya FY25 slides: record margins achieved, growth to moderate in 2026",
+      "url": "https://www.investing.com/news/company-news/afya-fy25-slides-record-margins-achieved-growth-to-moderate-in-2026-93CH-4558722",
+      "source": "Investing.com",
+      "categories": [
+        "商品",
+        "外汇",
+        "数据"
+      ],
+      "pub_date": "2026-03-12 23:01:56",
+      "crawl_time": "2026-03-13T07:31:13.235402",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]Afya FY25 slides: record margins achieved, growth 至 moderate 在 2026 | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    },
+    {
+      "id": "c8e3c5b19cda",
+      "title": "EverCommerce Q4 2025 slides: AI push drives cross-sell growth",
+      "url": "https://www.investing.com/news/company-news/evercommerce-q4-2025-slides-ai-push-drives-crosssell-growth-93CH-4558721",
+      "source": "Investing.com",
+      "categories": [
+        "商品",
+        "外汇",
+        "数据"
+      ],
+      "pub_date": "2026-03-12 23:01:46",
+      "crawl_time": "2026-03-13T07:31:13.235442",
+      "date": "2026-03-13",
+      "market_signal": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "overall": "neutral"
+      },
+      "entities": {
+        "stocks": [],
+        "companies": [],
+        "sectors": [
+          "AI"
+        ],
+        "indices": []
+      },
+      "ai_summary": "[翻译] [英文]EverCommerce Q4 2025 slides: AI push drives cross-sell growth | 行业动态",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "signals": []
+      },
+      "mentioned_companies": []
+    }
+  ]
+}
